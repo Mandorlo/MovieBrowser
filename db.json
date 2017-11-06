@@ -1,0 +1,461 @@
+[
+	{
+		"path": "D:\\Films\\_Kung Fu\\Hero\\Hero.mkv",
+		"omdb": {
+			"Title": "Hero",
+			"Year": "2002",
+			"Rated": "PG-13",
+			"Released": "27 Aug 2004",
+			"Runtime": "107 min",
+			"Genre": "Action, Adventure, History",
+			"Director": "Yimou Zhang",
+			"Writer": "Feng Li (screenplay), Yimou Zhang (screenplay), Bin Wang (screenplay)",
+			"Actors": "Jet Li, Tony Chiu-Wai Leung, Maggie Cheung, Ziyi Zhang",
+			"Plot": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.",
+			"Language": "Mandarin",
+			"Country": "China, Hong Kong",
+			"Awards": "Nominated for 1 Oscar. Another 37 wins & 36 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "85/100"
+				}
+			],
+			"Metascore": "85",
+			"imdbRating": "7.9",
+			"imdbVotes": "157,337",
+			"imdbID": "tt0299977",
+			"Type": "movie",
+			"DVD": "06 Jan 2004",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\Donnie Brasco\\Donnie Brasco.avi",
+		"omdb": {
+			"Title": "Donnie Brasco",
+			"Year": "1997",
+			"Rated": "R",
+			"Released": "28 Feb 1997",
+			"Runtime": "127 min",
+			"Genre": "Biography, Crime, Drama",
+			"Director": "Mike Newell",
+			"Writer": "Joseph D. Pistone (book), Richard Woodley (book), Paul Attanasio (screenplay)",
+			"Actors": "Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby",
+			"Plot": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
+			"Language": "English, Italian, Japanese",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 2 wins & 14 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQxOGQwY2QtMjcwMS00MDVhLTk3NDQtZjY0YzQ2OGRkNjlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "87%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "76/100"
+				}
+			],
+			"Metascore": "76",
+			"imdbRating": "7.8",
+			"imdbVotes": "240,243",
+			"imdbID": "tt0119008",
+			"Type": "movie",
+			"DVD": "20 Jan 1998",
+			"BoxOffice": "N/A",
+			"Production": "TriStar",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Gad Elmaleh-Papa est en Haut.avi",
+		"omdb": {
+			"Title": "Gad Elmaleh: Papa est en haut",
+			"Year": "2010",
+			"Rated": "N/A",
+			"Released": "05 May 2010",
+			"Runtime": "120 min",
+			"Genre": "Documentary, Comedy",
+			"Director": "N/A",
+			"Writer": "Gad Elmaleh",
+			"Actors": "Gad Elmaleh",
+			"Plot": "N/A",
+			"Language": "French",
+			"Country": "France",
+			"Awards": "N/A",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2EwYWZlMTctMGI5ZS00MWJlLWIxZWYtM2RhZjlmZTFiYjI1XkEyXkFqcGdeQXVyNjUxMTkyMTk@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.5",
+			"imdbVotes": "62",
+			"imdbID": "tt3849124",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Asterix et Obelix Mission Cléopâtre\\Asterix & Obelix.Mission.Cleopatra.2002.BluRay.720p.DTS.x264-CHD.mkv",
+		"omdb": {
+			"Title": "asterix",
+			"Year": "1980",
+			"Rated": "N/A",
+			"Released": "N/A",
+			"Runtime": "N/A",
+			"Genre": "Animation",
+			"Director": "N/A",
+			"Writer": "N/A",
+			"Actors": "Spiros Bibilas",
+			"Plot": "N/A",
+			"Language": "N/A",
+			"Country": "N/A",
+			"Awards": "N/A",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmIxOGU5MzMtOGQzMS00NzQxLWI1NDYtZmEwODNiNDczMmFhL2ltYWdlXkEyXkFqcGdeQXVyNjY0NzU4Nzc@._V1_SX300.jpg",
+			"Ratings": [],
+			"Metascore": "N/A",
+			"imdbRating": "N/A",
+			"imdbVotes": "N/A",
+			"imdbID": "tt6418972",
+			"Type": "series",
+			"totalSeasons": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
+		"omdb": {
+			"Title": "M et le 3eme secret",
+			"Year": "2014",
+			"Rated": "N/A",
+			"Released": "19 Nov 2014",
+			"Runtime": "109 min",
+			"Genre": "Documentary",
+			"Director": "Pierre Barnerias",
+			"Writer": "N/A",
+			"Actors": "François D'Aubigny, André Dussollier, Hélène Ségara",
+			"Plot": "N/A",
+			"Language": "French",
+			"Country": "France",
+			"Awards": "N/A",
+			"Poster": "N/A",
+			"Ratings": [],
+			"Metascore": "N/A",
+			"imdbRating": "N/A",
+			"imdbVotes": "N/A",
+			"imdbID": "tt4204558",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Opera\\L'elisir D'amore.mp4",
+		"omdb": {
+			"Title": "L'elisir d'amore",
+			"Year": "1991",
+			"Rated": "N/A",
+			"Released": "11 Nov 1991",
+			"Runtime": "129 min",
+			"Genre": "Comedy, Music",
+			"Director": "Brian Large",
+			"Writer": "Felice Romani (libretto)",
+			"Actors": "Kathleen Battle, Luciano Pavarotti, Juan Pons, Enzo Dara",
+			"Plot": "N/A",
+			"Language": "Italian",
+			"Country": "USA",
+			"Awards": "N/A",
+			"Poster": "http://ia.media-imdb.com/images/M/MV5BMTUyNTYxNjk3MF5BMl5BanBnXkFtZTcwOTQzNDgyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.7/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.7",
+			"imdbVotes": "53",
+			"imdbID": "tt0260875",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Romero\\Romero.mp4",
+		"omdb": {
+			"Title": "Romero",
+			"Year": "1989",
+			"Rated": "PG-13",
+			"Released": "25 Aug 1989",
+			"Runtime": "102 min",
+			"Genre": "Biography, Crime, Drama",
+			"Director": "John Duigan",
+			"Writer": "John Sacret Young",
+			"Actors": "Raul Julia, Richard Jordan, Ana Alicia, Eddie Velez",
+			"Plot": "The life and work of Archbishop Oscar Romero who opposed, at great personal risk, the tyrannical repression in El Salvador.",
+			"Language": "English, German",
+			"Country": "USA",
+			"Awards": "2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGFiZmNlMDMtN2EyOC00NGQ1LWIwYzMtN2ZkODQ3OWVjZDIyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "75%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.3",
+			"imdbVotes": "1,790",
+			"imdbID": "tt0098219",
+			"Type": "movie",
+			"DVD": "26 Sep 2000",
+			"BoxOffice": "N/A",
+			"Production": "Four Square",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\Romanzo criminale\\Romanzo Criminale.avi",
+		"omdb": {
+			"Title": "Romanzo Criminale",
+			"Year": "2005",
+			"Rated": "N/A",
+			"Released": "30 Sep 2005",
+			"Runtime": "152 min",
+			"Genre": "Crime, Drama",
+			"Director": "Michele Placido",
+			"Writer": "Giancarlo De Cataldo (novel), Stefano Rulli (screenplay), Sandro Petraglia (screenplay), Giancarlo De Cataldo (screenplay), Michele Placido (screenplay)",
+			"Actors": "Kim Rossi Stuart, Anna Mouglalis, Pierfrancesco Favino, Claudio Santamaria",
+			"Plot": "Set in the 1970s, it's the story of three lifelong friends who take control of organized crime in Rome.",
+			"Language": "Italian, English, French",
+			"Country": "Italy, France, UK",
+			"Awards": "32 wins & 25 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjkyNzEyM15BMl5BanBnXkFtZTcwNzg3OTYzMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "53%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.2",
+			"imdbVotes": "7,341",
+			"imdbID": "tt0418110",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.romanzocriminale.it/",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Il Postino\\Il Postino.avi",
+		"omdb": {
+			"Title": "Il Postino",
+			"Year": "1994",
+			"Rated": "PG",
+			"Released": "22 Mar 1996",
+			"Runtime": "108 min",
+			"Genre": "Biography, Comedy, Drama",
+			"Director": "Michael Radford, Massimo Troisi",
+			"Writer": "Antonio Skármeta (novel), Furio Scarpelli (story), Giacomo Scarpelli (story), Anna Pavignano (screenplay), Michael Radford (screenplay), Furio Scarpelli (screenplay), Giacomo Scarpelli (screenplay), Massimo Troisi (screenplay)",
+			"Actors": "Philippe Noiret, Massimo Troisi, Maria Grazia Cucinotta, Renato Scarpa",
+			"Plot": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+			"Language": "Italian, Spanish",
+			"Country": "Italy, France, Belgium",
+			"Awards": "Won 1 Oscar. Another 29 wins & 17 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWZmNjkzOGItNmI4ZS00MDQ1LThhMzQtOTI3MThjOTI4Njg2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "93%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "81/100"
+				}
+			],
+			"Metascore": "81",
+			"imdbRating": "7.7",
+			"imdbVotes": "28,100",
+			"imdbID": "tt0110877",
+			"Type": "movie",
+			"DVD": "14 Mar 2000",
+			"BoxOffice": "N/A",
+			"Production": "Penta Film",
+			"Website": "N/A",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\Forrest Gump\\Forrest Gump.avi",
+		"omdb": {
+			"Title": "Forrest Gump",
+			"Year": "1994",
+			"Rated": "PG-13",
+			"Released": "06 Jul 1994",
+			"Runtime": "142 min",
+			"Genre": "Comedy, Drama, Romance",
+			"Director": "Robert Zemeckis",
+			"Writer": "Winston Groom (novel), Eric Roth (screenplay)",
+			"Actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+			"Plot": "JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 6 Oscars. Another 39 wins & 66 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "82/100"
+				}
+			],
+			"Metascore": "82",
+			"imdbRating": "8.8",
+			"imdbVotes": "1,406,942",
+			"imdbID": "tt0109830",
+			"Type": "movie",
+			"DVD": "28 Aug 2001",
+			"BoxOffice": "$405,000",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.paramount.com/movies/forrest-gump/",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Bollywood\\Lagaan_\\Lagaan Once Upon a Time in India.avi",
+		"omdb": {
+			"Title": "Lagaan: Once Upon a Time in India",
+			"Year": "2001",
+			"Rated": "PG",
+			"Released": "08 May 2002",
+			"Runtime": "224 min",
+			"Genre": "Adventure, Drama, Musical",
+			"Director": "Ashutosh Gowariker",
+			"Writer": "Ashutosh Gowariker (story), Ashutosh Gowariker (screenplay), Kumar Dave (screenplay), Sanjay Dayma (screenplay), K.P. Saxena (dialogue)",
+			"Actors": "Aamir Khan, Gracy Singh, Rachel Shelley, Paul Blackthorne",
+			"Plot": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.",
+			"Language": "Hindi, English, Awadhi, Urdu",
+			"Country": "India",
+			"Awards": "Nominated for 1 Oscar. Another 44 wins & 19 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "95%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "84/100"
+				}
+			],
+			"Metascore": "84",
+			"imdbRating": "8.2",
+			"imdbVotes": "82,717",
+			"imdbID": "tt0169102",
+			"Type": "movie",
+			"DVD": "22 Jan 2002",
+			"BoxOffice": "N/A",
+			"Production": "B4U Entertainment",
+			"Website": "http://www.lagaan.com",
+			"Response": "True"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Collateral\\Collateral.mp4",
+		"omdb": {
+			"Title": "Collateral",
+			"Year": "2004",
+			"Rated": "R",
+			"Released": "06 Aug 2004",
+			"Runtime": "115 min",
+			"Genre": "Crime, Drama, Thriller",
+			"Director": "Michael Mann",
+			"Writer": "Stuart Beattie",
+			"Actors": "Tom Cruise, Jamie Foxx, Jada Pinkett Smith, Mark Ruffalo",
+			"Plot": "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+			"Language": "English, Spanish",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Oscars. Another 23 wins & 68 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "86%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "71/100"
+				}
+			],
+			"Metascore": "71",
+			"imdbRating": "7.6",
+			"imdbVotes": "312,158",
+			"imdbID": "tt0369339",
+			"Type": "movie",
+			"DVD": "14 Dec 2004",
+			"BoxOffice": "$100,003,492",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.collateral-themovie.com/",
+			"Response": "True"
+		}
+	}
+]

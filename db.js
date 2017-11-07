@@ -9,6 +9,8 @@ const files = require('./files.js');
 
 const db_path = path.join(__dirname, "db.json");
 var db = require(db_path);
+
+
 const param_path = path.join(__dirname, "param.json")
 var PARAM = require(param_path);
 var ROOT = PARAM.films_dir;
@@ -24,6 +26,15 @@ files.createDir(CACHE_OMDB)
   "omdb": objet résultat omdb
 }
 */
+
+function cleanDB() {
+  var newdb = [];
+  db.forEach(m => {
+    if (m.title || m.omdb || m.localPoster) newdb.push(m)
+  })
+  newdb = _.uniqBy(newdb, "path");
+  db = newdb;
+}
 
 function updateDB(type = "light") {
   return new Promise((resolve, reject) => {
@@ -53,13 +64,13 @@ function updateDBAux(type) {
         // si le film n'est pas dans la base
         return new Promise((resolve2, reject2) => {
           var res = _.find(db, ['path', movie_path])
-          if (!res) {
+          if (!res || !res.omdb || !res.omdb.Title) {
             // on le cherche dans omdb
             // setTimeout(() => {
             getOMDBFilm(movie_path).then(film_o => {
               db.push(film_o)
               count_http_call++
-              printText(count_http_call + "/" + movies_list.length)
+              // printText(count_http_call + "/" + movies_list.length)
               resolve2(film_o)
             }).catch(err => {
               db.push({
@@ -67,7 +78,7 @@ function updateDBAux(type) {
                 omdb: null
               })
               count_http_call++
-              printText(count_http_call + "/" + movies_list.length)
+              // printText(count_http_call + "/" + movies_list.length)
               resolve2(err) // on fait exprès de pas générer d'erreur si on trouve pas le film
             })
             // }, parseInt(Math.random() * 5000))
@@ -78,6 +89,8 @@ function updateDBAux(type) {
         })
         // when all promises are finished
       })).then(results => {
+        // we clean the DB
+        cleanDB()
         // we write the db on disk
         fs.writeFile(db_path, JSON.stringify(db, null, '\t'), 'utf8', err => {
           if (err) {
@@ -126,6 +139,32 @@ function getOMDBFilm(movie_path) {
   })
 }
 
+function findFilmLocal(movie_path) {
+  var fname = path.basename(movie_path)
+  var title = omdb.normFileTitle(fname)
+  var title_arr = title.split(' ');
+  var film_o = null;
+  var notes = [];
+  db.forEach(el => {
+    if (path.basename(el.path) == fname) {
+      film_o = el
+    }
+    var manote = 0.0;
+    title_arr.forEach(mot => {
+      if (el.title && el.title.indexOf(mot.trim()) >= 0) manote++
+        else if (el.omdb && el.omdb.Title && el.omdb.Title.indexOf(mot.trim()) >= 0) manote++
+    })
+    manote = manote / parseFloat(title_arr.length);
+    notes.push(manote)
+  })
+  if (!film_o) {
+    var ind = notes.indexOf(_.max(notes))
+    if (ind >= 0) return
+  } else {
+    return film_o
+  }
+}
+
 function cacheWebResource(film_o) {
   // caches poster images of the film object film_o and returns the new object with the localPoster attribute in film_o.omdb
   return new Promise((resolve, reject) => {
@@ -159,9 +198,10 @@ function cacheWebResource(film_o) {
 function updateFilmInfo(film_path, new_film_o) {
   var db_index = _.findIndex(db, ['path', new_film_o.path])
   if (db_index < 0) {
-    return Promise.reject("Cannot find path to film '" + new_film_o.path + "' in db :(")
+    db.push(new_film_o)
+  } else {
+    db.splice(db_index, 1, new_film_o)
   }
-  db.splice(db_index, 1, new_film_o)
   return writeDB()
 }
 
@@ -170,10 +210,7 @@ function updatePoster(film_o, new_url) {
 
   return new Promise((resolve, reject) => {
     var db_index = _.findIndex(db, ['path', film_o.path])
-    if (db_index < 0) {
-      reject("Cannot find path '" + film_o.path + "' in db :(")
-      return
-    }
+
     // we download the poster in the cache
     res = /\.(jpg|png|gif|jpeg)$/gi.exec(new_url)
     if (res && res.length > 0) {
@@ -188,7 +225,11 @@ function updatePoster(film_o, new_url) {
 
         film_o.localPoster = path;
         if (film_o.omdb) film_o.omdb.localPoster = path;
-        db.splice(db_index, 1, film_o)
+        if (db_index < 0) {
+          db.push(film_o)
+        } else {
+          db.splice(db_index, 1, film_o)
+        }
         // on écrit la db mise à jour
         writeDB().then(_ => {
           resolve(film_o)
@@ -232,8 +273,8 @@ function writeParam() {
 
 function getId(film_o) {
   // renvoie un id cool du film à partir du path
-  if (!film_o || !film_o.path) throw "unvalid object film to get id from"
-  return hash('md5').update(film_o.path).digest('hex');
+  if (!film_o || !film_o.path) throw "invalid object film to get id from"
+  return hash('md5').update(path.basename(film_o.path)).digest('hex');
 }
 
 function genRandomId(path_dir, ext) {
@@ -302,6 +343,7 @@ function setFilmDir(path) {
 module.exports.db = db;
 module.exports.getId = getId;
 module.exports.updateDB = updateDB;
+module.exports.writeDB = writeDB;
 module.exports.getFilmDir = getFilmDir;
 module.exports.setFilmDir = setFilmDir;
 module.exports.getOMDBFilm = getOMDBFilm;

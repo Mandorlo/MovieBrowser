@@ -95,7 +95,9 @@
   </script>
   <script>
     // You can also require other files to run in this process
-    var app = require('./renderer.js')
+    var app = require('./renderer.js');
+    var ui = require('./ui.js');
+    app.renderDashboard()
     // $("#app").text(JSON.stringify(app.db))
   </script>
 </body>

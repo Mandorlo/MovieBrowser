@@ -1,3 +1,18 @@
+# TODO
+
+* ajouter un bouton pour rafraichir la page / la db
+* améliorer la db update en regardant, même si le path est différent, si le film n'est pas quand même déjà dans la base
+* ajouter un toast pour afficher les erreurs
+
+# Setup
+
+* créer les dossiers /cache et /cache/OMDB
+* npm install
+
+Pour packager en exécutable, tu peux installer 'npm install -g electron-packager' puis lancer 'electron-packager .'
+
+Pour targeter une archi particulière utiliser des trucs comme 'electron-packager . --platform win32 --arch ia32'
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**

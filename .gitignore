@@ -1,2 +1,4 @@
 node_modules
 cache/*
+Movie Browser-win32-x64/*
+Movie Browser-win32-ia32/*

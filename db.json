@@ -13,575 +13,135 @@
 	},
 	{
 		"path": "D:\\Films\\Gitta Mallasz\\CPC93002894_gitta_mallasz_le_scribe_des_anges.avi",
-		"omdb": null
+		"omdb": null,
+		"title": "Gitta Mallasz le Scribe des Anges",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\hBs6bs7Z8Wyjem7CYjjC.gif"
 	},
 	{
 		"path": "D:\\Films\\La vita è bella\\La vita è bella 1997 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako (3).mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\Back to the future\\Back to the future I\\Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "La Vita è Bella",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Sqpux1Fo8LSZo3lgIrqu.jpg"
 	},
 	{
 		"path": "D:\\Films\\Amélie Poulain\\Amelie.2001.BDRip.1080p.Rus.Fre.mkv",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\MvceUrGy1dwoq5aBEnUv.jpg",
+		"title": "Amélie Poulain"
 	},
 	{
 		"path": "D:\\Films\\Nos jours heureux\\Nos.Jours.Heureux.FRENCH.DVDRiP.XviD.MZISYS.avi",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VDvMMhyYgLXDCc26HNSr.jpg",
+		"title": "Nos Jours Heureux"
 	},
 	{
 		"path": "D:\\Films\\Lost in translation\\Lost In Translation.VOSTF.avi",
-		"omdb": null
+		"omdb": null,
+		"title": "Lost in Translation",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\dpoOfspL0MwB4sf27dr2.jpg"
 	},
 	{
 		"path": "D:\\Films\\Big Fish\\Big Fish (2003).720p.700mb.mkv",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pTyvCHMXrrZuA9hOKr05.jpg",
+		"title": "Big Fish"
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\1 - Harry Potter and the Sorcerers Stone\\Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "Harry Potter and the Sorcerers Stone",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OliUyvxfuk30qRU8slb8.jpg"
 	},
 	{
 		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Fellowship of the Ring\\The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.EXTENDED.2001.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "The Lord of the Rings - The Fellowship of the Ring",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6P9JHOOg0qxbwACnhowd.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Oceans Eleven\\Oceans Eleven 2001.720p.BrRip.x264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "Oceans Eleven",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\p0MKZqOQ7gtWxxxZKGcY.jpg"
 	},
 	{
 		"path": "D:\\Films\\Loin des hommes\\Loin.Des.Hommes.2014.FRENCH.BRRip.XviD-DesTroY.avi",
-		"omdb": null
+		"omdb": null,
+		"title": "Loin des Hommes",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\RoKOnNy85CIvtungAOVB.jpg"
 	},
 	{
 		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Return of the King\\The.Lord.of.the.Rings.The.Return.of.the.King.EXTENDED.2003.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "The Lord of the Rings The Return of the King",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XwomBnAvHpULZ7VIsQe6.jpg"
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\6 - Harry Potter and the Half Blood Prince\\Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rWjvejCe4A4sMLrkgULz.jpg",
+		"title": "Harry Potter and the Half Blood Prince"
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\The Matrix\\The Matrix 1999 720p BluRay x264-MgB.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "The Matrix",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ETBvbrjKAM3YhUBKN4xf.jpg"
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\7 - Harry Potter and the Deathly Hallows\\Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.1080p.BrRip.264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PcG0sdBQ5EQchkGyQ5oe.jpg",
+		"title": "Harry Potter and the Deathly Hallows Part 2"
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Indiana Jones and the raiders of the lost ark\\Indiana.Jones.And.The.Raiders.Of.The.Lost.Ark.1981.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Drôle\\Les Trois Frères\\Les.Trois.Freres.FRENCH.DVDRiP.DivX.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\The Hobbit\\The Hobbit - An unexpected journey\\The.Hobbit.An.Unexpected.Journey.2012.1080p.BRrip.x264.GAZ.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Drôle\\Le grand blond avec une chaussure noire\\le.grand.blond.avec.une.chaussure.noire.1972.french.720p.bluray.x264-rough.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Drôle\\Les Compères\\Les.Comperes.1983.FRENCH.DVDRip.XviD.AC3-NEWTEAM94.avi",
-		"omdb": null
+		"omdb": null,
+		"title": "Indiana Jones And The Raiders Of The Lost Ark",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SsSFXD0mL7NuD0JDIEId.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Mulan\\Mulan.1998.1080p.BRrip.x264.GAZ.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "Mulan GAZ",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lz0qMhWv6aYl2PPUgXyO.jpg"
 	},
 	{
 		"path": "D:\\Films\\Anna Karenina\\Anna.Karenina.2012.1080p.BRrip.x264.GAZ.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "Anna Karenina",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eS5jEjeAfaTJzNoZMTv4.jpg"
 	},
 	{
 		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Two Towers\\The.Lord.of.the.Rings.The.Two.Towers.2002.ExD.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "The Lord of the Rings The Two Towers",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qyELwkBMdnucUTtzmuEG.jpg"
 	},
 	{
 		"path": "D:\\Films\\Pride and Prejudice\\Pride.and.Prejudice.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "Pride and Prejudice",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lny7Lj3fkbgzct36qRnk.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Pirates of the Caribbean - curse of the Black Pearl\\Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.1080p.BrRip.x264.Deceit.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Disney\\The Hunchback of Notre Dame\\The.Hunchback.Of.Notre.Dame.1996.720p.BRrip.x264.GAZ.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"title": "Pirates of the Caribbean Curse of the Black Pearl",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lx0wM26hDkCiqSe7DqzD.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Premium Rush\\Premium.Rush.2012.720p.BDRip.XviD.AC3-ViSiON_IT.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Kung Fu\\Crouching Tiger Hidden Dragon\\Crouching.Tiger.Hidden.Dragon.2000.1080p.BluRay.x264.AAC.mkv-Zen_Bud_FR.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Films étrangers\\Das ganz grosse Traum_LOW\\district-grossetraum_xvid.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Even the rain\\Even the Rain [Spanish](2010).mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 1\\Ip Man 2008 720-im_FR.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS18.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS2_Roger_Welker.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Leger sympa\\Elizabethtown\\Elizabethtown (2005) 720p Web_dl_sujaidr (pimprg).mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Gladiator\\Gladiator.BluRay.1080p.x264.5.1.Judas.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 10 FR Alexandre Men Parole d un martyr.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 11 FR La mission de Marthe Robin.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 03 FR Christ notre PAix Ninoy Aquino.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 03 FR Les enfants de Stung Ming Chey.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Films étrangers\\The Lives of Others\\The.Lives.of.Others.(2006).BDRip.1080p.[envy].mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\Bernadette SOUBIROUS réalisé par Jean DELANNOY film complet 1988.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 06 FR Les premiers pas  des parents.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS15.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\04 10 FR Cette paix venue d ailleur Claire Ly.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_TEST.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 12 FR La force de l offrande.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 10 FR QUITTER POUR TROUVER.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Drôle\\OSS 117 Le Caire nid d'espions\\OSS 117 Le Caire nid d'espions 2006 1080p FR.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Drôle\\La Chèvre\\La chèvre (Gérard Depardieu et Pierre Richard) - dvdrip - divx fr 5.02 by Tarasboulba.AVI",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 03 FR La force du pardon.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 02 FR La kénose ou rien.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 10 FR L Offrande de Frere Roger.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Foi  histoire de la ccn.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\01 03 FR Mission d'unité.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 03 FR Tout est grâce.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 06 FR La communaute du Chemin Neuf a Kinshassa.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 12 FR Ce qu'il y a de fou dans le monde.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 03 FR Etty Hillesum L Amour comme seule solution.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 12 FR Said Fatima et Jesus.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 10 FR Defi de l Islam 1 Christian de Cherge et Mohammed.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Le curé d'Ars.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 06 FR Le glaive de la Parole.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Hautecombe Fev 2013.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 05 FR La beaute de la compassion Jean Vanier.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 10 FR Hrant Dink Amour et verite se rencontre.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Ensembles Mai 2005.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 02 FR Tu Frappes a ma porte.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 05 FR Martyrs de la fraternite.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 12 FR Haoxin et la Croix.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 03 FR Elisabeth de Hongrie - Reine des pauvres.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 02 FR Le reveil spirituel chez les jeunes.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 10 Qu'ils soient un n°2.avi",
-		"omdb": null
+		"omdb": null,
+		"title": "Premium Rush",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\012v2SaSarfE4xM5D36B.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Frozen\\frozen.2013.1080p.bluray.x264-sparks_IT.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Les veilleurs.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 02 FR Lumière dans la nuit.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 11 FR Defi de l Islam 2 De toutes les nation faites des disciples.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 06 FR Pentecôte pour l unite.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 12 Vérités Arc en ciel n°3.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\Songhaï, une ferme bio au Bénin.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\BES octo 2011.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\feu rouge feu vert.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 12 FR N ayez pas peur du Saint Esprit.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Vie cachée à Nazareth.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 11 FR Sur les pas de Don Bosco.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode I\\Star.Wars.Episode.1.The.Phantom.Menace.1999.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Vieux films\\12 angry men\\12 Angry Men[1957]DvDrip[Eng]-Stealthmaster.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\vérité croisée V3.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Superheroes\\Wonder Woman\\Wonder.Woman.2017.1080p.WEB-DL.DD5.1.H264-STRiFE .mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Vieux films\\Rear Window\\Rear.Window.1954.by_Hitchcock.720p.x264.AAC.MULTISUB.mkv-Zen_Bud.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Superheroes\\Spiderman\\Spiderman 1 2002 1080p x264.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode IV\\Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2004 03 Marie et l'oecuménisme n°5 Français.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode II\\Star.Wars.Episode.2.Attack.of.the.Clones.2002.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Vieux films\\Cinema Paradiso\\Cinema.Paradiso.1988.SUBBED.1080p.BluRay.x264-CiNEFiLE.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 05 FR Jesus le chemin de paix Jean Vanier.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\béatification JP II.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Disney\\The Incredibles\\The Incredibles 2004 720p BRRip x264 RmD (HDScene Release)_FR.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 05 FR La fin du mur.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS9_Journaliste_David_Yallop.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 06 FR Le LINCEUL DE TURIN.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2005 04 Un pape à la recherche de l'Unité n°6.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode III\\Star.Wars.Episode.3.Revenge.of.the.Sith.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\St Ignace.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Sr Angélique.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Buongiorno Notte\\Buongiorno notte.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 08 FR Amis dans le Seigneur.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS17.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS3_Pianiste_Elisabeth_Sombart.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Schindler's list\\Schindler's List 1993 HDTVrip 720p 5.1_ch AVCHD h264 AAC subs 3h6m.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS11.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Hotel Rwanda\\Hotel.Rawanda.2008.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Robin Hood\\Robin.Hood.2010.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 PRESENTATIONFR.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Opera\\LaTraviata.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS10_procureur.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Musical\\Mamma mia\\Mamma.Mia!.2008.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS13.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 3\\Ip.Man.3.2015.1080p.BluRay.x264.VPPV.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS14.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS4_Islam_Malek_Chebel.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Miyazaki\\Spirited Away\\Spirited.Away.2001.1080p.BluRay.x264.AAC.5.1-POOP.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 2\\FwD-IP Man II BDRip.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS1_KAKI.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\The Big Short\\The.Big.Short.2015.720p.BRRip.x264.AAC-ETRG.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS8_Vierge_Guadalupe_scientifique.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Personnages\\Amadeus\\Amadeus.1984.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS16.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Miyazaki\\Howls of the Moving Castle\\Howls.Moving.Castle.2004.720p.BluRay.x264-x0r.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Historique\\Troy\\Troy.2004.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Kung Fu\\ShaolinVol2.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 05 FR L Amis de pauvre Jean Vanier.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS12.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS5_JPII_Journaliste.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 11 FR Si tu veux la Paix aime les pauvres Sant Egidio.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 CLIP_INTERCESSION.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS7_Reporter_Robert_Serrou.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 05 FR Tu aimeras ton ennemi(2).avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 06 FR Kirchentag.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS6_Theologien_Francois_Brune.mp4",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Miyazaki\\Mononoke hime\\Mononoke.hime.[Princess.Mononoke].[DUAL.AUDIO]1997.HDTVRip.x264.YIFY.mkv",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 02 FR Defi de l Islam 3 Pas d autre nom que Jesus.avi",
-		"omdb": null
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 11 FR Lytta Basset La guerison interieure.avi",
-		"omdb": null
+		"omdb": null,
+		"title": "Frozen",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\J51WCb1iEE9AQi9LXI7e.jpg"
 	},
 	{
 		"path": "D:\\Films\\Lion\\Lion.2016.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -850,7 +410,7 @@
 	{
 		"path": "D:\\Films\\_Action Aventure\\Assassins Creed\\Assassins.Creed.2016.720p.BluRay.H264.AAC-RARBG.mp4",
 		"omdb": {
-			"Title": "Assassins Creed Black Flag Short Film",
+			"Title": "Assassins Creed",
 			"Year": "2014",
 			"Rated": "NOT RATED",
 			"Released": "N/A",
@@ -880,8 +440,10 @@
 			"Production": "N/A",
 			"Website": "N/A",
 			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ubh4OohsqKKt19lRUEBk.jpg"
-		}
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OVUmtyMw8R6N9b5xKvSZ.jpg"
+		},
+		"title": "Assassins Creed",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OVUmtyMw8R6N9b5xKvSZ.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Munich\\Munich.2005.1080p.BluRay.x264.YIFY.mp4",
@@ -1018,7 +580,7 @@
 	{
 		"path": "D:\\Films\\_Drôle\\Asterix et Obelix Mission Cléopâtre\\Asterix & Obelix.Mission.Cleopatra.2002.BluRay.720p.DTS.x264-CHD.mkv",
 		"omdb": {
-			"Title": "asterix",
+			"Title": "Astérix et Obélix Mission Cléopâtre",
 			"Year": "1980",
 			"Rated": "N/A",
 			"Released": "N/A",
@@ -1040,8 +602,10 @@
 			"Type": "series",
 			"totalSeasons": "N/A",
 			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\99OHSLJ5kviSKfELt5p9.jpg"
-		}
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OzLpmQsK8BW8FetfQBKC.jpg"
+		},
+		"title": "Astérix et Obélix Mission Cléopâtre",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OzLpmQsK8BW8FetfQBKC.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\The Curse of the Jade Scorpion\\The.Curse.of.the.Jade.Scorpion.2001.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -3920,8 +3484,10 @@
 			"Production": "Dreamworks",
 			"Website": "http://www.minorityreport.com",
 			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\llVPmOKJxMJVrpEQnWk9.jpg"
-		}
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WsjRs8Klqdfvwmezou3E.jpg"
+		},
+		"title": "Minority Report",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WsjRs8Klqdfvwmezou3E.jpg"
 	},
 	{
 		"path": "D:\\Films\\The Golden Compass\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
@@ -5086,5 +4652,1322 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\IV3kVdfzGn4lHqN8stS0.jpg"
 		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Cinderella Man",
+			"Year": "2005",
+			"Rated": "PG-13",
+			"Released": "03 Jun 2005",
+			"Runtime": "144 min",
+			"Genre": "Biography, Drama, Sport",
+			"Director": "Ron Howard",
+			"Writer": "Cliff Hollingsworth (screenplay), Akiva Goldsman (screenplay), Cliff Hollingsworth (story)",
+			"Actors": "Russell Crowe, Renée Zellweger, Paul Giamatti, Craig Bierko",
+			"Plot": "The story of James Braddock, a supposedly washed-up boxer who came back to become a champion and an inspiration in the 1930s.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 3 Oscars. Another 16 wins & 41 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODEyYmQxZjUtZGQ0NS00ZTAwLTkwOGQtNGY2NzEwMWE0MDc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "80%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "69/100"
+				}
+			],
+			"Metascore": "69",
+			"imdbRating": "8.0",
+			"imdbVotes": "157,328",
+			"imdbID": "tt0352248",
+			"Type": "movie",
+			"DVD": "06 Dec 2005",
+			"BoxOffice": "$61,600,000",
+			"Production": "Universal Pictures",
+			"Website": "http://www.cinderellamanmovie.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\C62xuFRWMw2tAouUhbx2.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Taken (2008) [1080p]\\Taken.2008.1080pBrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Taken",
+			"Year": "2008",
+			"Rated": "PG-13",
+			"Released": "30 Jan 2009",
+			"Runtime": "93 min",
+			"Genre": "Action, Crime, Thriller",
+			"Director": "Pierre Morel",
+			"Writer": "Luc Besson, Robert Mark Kamen",
+			"Actors": "Liam Neeson, Maggie Grace, Leland Orser, Jon Gries",
+			"Plot": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+			"Language": "English, French, Albanian, Arabic",
+			"Country": "France",
+			"Awards": "2 wins & 2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NzQ0OTYyOF5BMl5BanBnXkFtZTcwMDkyNjQyMg@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "58%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "50/100"
+				}
+			],
+			"Metascore": "50",
+			"imdbRating": "7.8",
+			"imdbVotes": "510,548",
+			"imdbID": "tt0936501",
+			"Type": "movie",
+			"DVD": "12 May 2009",
+			"BoxOffice": "$144,924,285",
+			"Production": "20th Century Fox",
+			"Website": "http://www.takenmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\AA82LzI4G3DL6P8yX4Mz.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\The Golden Compass (2007) [1080p]\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Golden Compass",
+			"Year": "2007",
+			"Rated": "PG-13",
+			"Released": "07 Dec 2007",
+			"Runtime": "113 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Chris Weitz",
+			"Writer": "Chris Weitz (screenplay), Philip Pullman (novel)",
+			"Actors": "Nicole Kidman, Daniel Craig, Dakota Blue Richards, Ben Walker",
+			"Plot": "In a parallel universe, young Lyra Belacqua journeys to the far North to save her best friend and other kidnapped children from terrible experiments by a mysterious organization.",
+			"Language": "English, Icelandic, Russian, French",
+			"Country": "UK, USA",
+			"Awards": "Won 1 Oscar. Another 6 wins & 32 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2NDkxMjQxMV5BMl5BanBnXkFtZTYwNTMxMDM4._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "43%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "51/100"
+				}
+			],
+			"Metascore": "51",
+			"imdbRating": "6.1",
+			"imdbVotes": "157,839",
+			"imdbID": "tt0385752",
+			"Type": "movie",
+			"DVD": "29 Apr 2008",
+			"BoxOffice": "$70,100,000",
+			"Production": "New Line Cinema",
+			"Website": "http://www.goldencompassmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fuTF1PORFTKkxgafRbqm.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Slumdog Millionaire (2008) [1080p]\\Slumdog.Millionaire.2008.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Slumdog Millionaire",
+			"Year": "2008",
+			"Rated": "R",
+			"Released": "25 Dec 2008",
+			"Runtime": "120 min",
+			"Genre": "Drama",
+			"Director": "Danny Boyle, Loveleen Tandan(co-director)",
+			"Writer": "Simon Beaufoy (screenplay), Vikas Swarup (novel)",
+			"Actors": "Dev Patel, Saurabh Shukla, Anil Kapoor, Raj Zutshi",
+			"Plot": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\"",
+			"Language": "English, Hindi, French",
+			"Country": "UK, France, USA",
+			"Awards": "Won 8 Oscars. Another 144 wins & 126 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "86/100"
+				}
+			],
+			"Metascore": "86",
+			"imdbRating": "8.0",
+			"imdbVotes": "692,662",
+			"imdbID": "tt1010048",
+			"Type": "movie",
+			"DVD": "31 Mar 2009",
+			"BoxOffice": "$141,243,551",
+			"Production": "Fox Searchlight Pictures",
+			"Website": "http://www.foxsearchlight.com/slumdogmillionaire/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\48GnBZ2JoVqbOl0yMIks.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Munich (2005) [1080p]\\Munich.2005.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Munich",
+			"Year": "2005",
+			"Rated": "R",
+			"Released": "06 Jan 2006",
+			"Runtime": "164 min",
+			"Genre": "Crime, Drama, History",
+			"Director": "Steven Spielberg",
+			"Writer": "Tony Kushner (screenplay), Eric Roth (screenplay), George Jonas (book)",
+			"Actors": "Eric Bana, Daniel Craig, Ciarán Hinds, Mathieu Kassovitz",
+			"Plot": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
+			"Language": "English, German, French, Hebrew, Arabic, Italian, Greek, Russian",
+			"Country": "France, Canada, USA",
+			"Awards": "Nominated for 5 Oscars. Another 13 wins & 64 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "77%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.6",
+			"imdbVotes": "186,678",
+			"imdbID": "tt0408306",
+			"Type": "movie",
+			"DVD": "09 May 2006",
+			"BoxOffice": "$47,379,090",
+			"Production": "Universal Pictures",
+			"Website": "http://www.munichmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2dphsifybuT4nJ1OChGm.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Begin Again (2013) [1080p]\\Begin.Again.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Begin Again",
+			"Year": "2013",
+			"Rated": "R",
+			"Released": "11 Jul 2014",
+			"Runtime": "104 min",
+			"Genre": "Comedy, Drama, Music",
+			"Director": "John Carney",
+			"Writer": "John Carney",
+			"Actors": "James Corden, Keira Knightley, Mark Ruffalo, Hailee Steinfeld",
+			"Plot": "A chance encounter between a disgraced music-business executive and a young singer-songwriter, new to Manhattan, turns into a promising collaboration between the two talents.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 4 wins & 16 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAxMTI4MTgzMV5BMl5BanBnXkFtZTgwOTAwODEwMjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "81%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "62/100"
+				}
+			],
+			"Metascore": "62",
+			"imdbRating": "7.4",
+			"imdbVotes": "116,807",
+			"imdbID": "tt1980929",
+			"Type": "movie",
+			"DVD": "28 Oct 2014",
+			"BoxOffice": "$12,078,174",
+			"Production": "The Weinstein Company",
+			"Website": "http://beginagainfilm.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\09oXr1rPPYPUbo1tYRZn.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Pride and Prejudice (2005) [1080p]\\Pride.and.Prejudice.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": {
+			"Title": "Pride and Prejudice",
+			"Year": "1995–",
+			"Rated": "TV-PG",
+			"Released": "14 Jan 1996",
+			"Runtime": "327 min",
+			"Genre": "Drama, Romance",
+			"Director": "N/A",
+			"Writer": "N/A",
+			"Actors": "Jennifer Ehle, Colin Firth, Susannah Harker, Julia Sawalha",
+			"Plot": "Jane Austen's classic novel about the prejudice that occurred between the 19th century classes and the pride which would keep lovers apart.",
+			"Language": "English",
+			"Country": "UK",
+			"Awards": "Won 1 Primetime Emmy. Another 8 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDM0MjFlOGYtNTg2ZC00MmRkLTg5OTQtM2U5ZjUyYTgxZThiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "9.0/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "9.0",
+			"imdbVotes": "59,521",
+			"imdbID": "tt0112130",
+			"Type": "series",
+			"totalSeasons": "1",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SGBrP4MajsVDICy8tjn4.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\The Dark Knight Rises (2012) [1080p]\\The.Dark.Knight.Rises.2012.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Dark Knight Rises",
+			"Year": "2012",
+			"Rated": "PG-13",
+			"Released": "20 Jul 2012",
+			"Runtime": "164 min",
+			"Genre": "Action, Thriller",
+			"Director": "Christopher Nolan",
+			"Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+			"Actors": "Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt",
+			"Plot": "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
+			"Language": "English, Arabic",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 1 BAFTA Film Award. Another 38 wins & 101 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "87%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "78/100"
+				}
+			],
+			"Metascore": "78",
+			"imdbRating": "8.4",
+			"imdbVotes": "1,257,286",
+			"imdbID": "tt1345836",
+			"Type": "movie",
+			"DVD": "03 Dec 2012",
+			"BoxOffice": "$448,130,642",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.thedarkknightrises.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\H7eD2Ff9uwXhXWiQQ5U1.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Drunken Master (1978) [720p] [YTS.PE]\\Drunken.Master.1978.720p.BluRay.x264-[YTS.PE].mp4",
+		"omdb": {
+			"Title": "The Legend of Drunken Master",
+			"Year": "1994",
+			"Rated": "R",
+			"Released": "20 Oct 2000",
+			"Runtime": "102 min",
+			"Genre": "Action, Comedy",
+			"Director": "Chia-Liang Liu",
+			"Writer": "Edward Tang (screenplay), Man-Ming Tong (screenplay), Kai-Chi Yuen (screenplay), Rod Dean (english adaptation)",
+			"Actors": "Jackie Chan, Lung Ti, Anita Mui, Felix Wong",
+			"Plot": "A young martial artist is caught between respecting his pacifist father's wishes or stopping a group of disrespectful foreigners from stealing precious artifacts.",
+			"Language": "Cantonese",
+			"Country": "Hong Kong",
+			"Awards": "3 wins & 1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmRiZTZiMWEtZGVlNS00YzU1LTkxZjYtODNiMDEyYTIxYjA0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "83%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.6",
+			"imdbVotes": "37,267",
+			"imdbID": "tt0111512",
+			"Type": "movie",
+			"DVD": "20 Mar 2001",
+			"BoxOffice": "N/A",
+			"Production": "Dimension Films",
+			"Website": "http://www.dimensionfilms.com/mm_front/owa/dim_movie_page.entryPoint?midStr=1422",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\irRQj7rEJzP9mbj2AHTz.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\The Pianist (2002) [1080p]\\The.Pianist.2002.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Pianist",
+			"Year": "2002",
+			"Rated": "R",
+			"Released": "28 Mar 2003",
+			"Runtime": "150 min",
+			"Genre": "Biography, Drama, Music",
+			"Director": "Roman Polanski",
+			"Writer": "Ronald Harwood (screenplay), Wladyslaw Szpilman (book)",
+			"Actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard",
+			"Plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+			"Language": "English, German, Russian",
+			"Country": "France, Poland, Germany, UK",
+			"Awards": "Won 3 Oscars. Another 52 wins & 73 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "85/100"
+				}
+			],
+			"Metascore": "85",
+			"imdbRating": "8.5",
+			"imdbVotes": "560,136",
+			"imdbID": "tt0253474",
+			"Type": "movie",
+			"DVD": "27 May 2003",
+			"BoxOffice": "$32,519,322",
+			"Production": "Focus Features",
+			"Website": "http://www.thepianistmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Cme0S9blmu6Gm78HQoCa.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"omdb": {
+			"Title": "Startup.com",
+			"Year": "2001",
+			"Rated": "R",
+			"Released": "01 Jun 2001",
+			"Runtime": "107 min",
+			"Genre": "Documentary",
+			"Director": "Chris Hegedus, Jehane Noujaim",
+			"Writer": "N/A",
+			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
+			"Plot": "Traces the birth and failure of new media company govWorks.com.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "10 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.1",
+			"imdbVotes": "3,081",
+			"imdbID": "tt0256408",
+			"Type": "movie",
+			"DVD": "18 Sep 2001",
+			"BoxOffice": "$505,254",
+			"Production": "Artisan Entertainment",
+			"Website": "http://www.artisanent.com/startupdotcom",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iO0WvqL9CF7jHnIhNLwb.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Her (2013)\\Her.2013.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Her",
+			"Year": "2013",
+			"Rated": "R",
+			"Released": "10 Jan 2014",
+			"Runtime": "126 min",
+			"Genre": "Drama, Romance, Sci-Fi",
+			"Director": "Spike Jonze",
+			"Writer": "Spike Jonze",
+			"Actors": "Joaquin Phoenix, Lynn Adrianna, Lisa Renee Pitts, Gabe Gomez",
+			"Plot": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 82 wins & 181 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "90/100"
+				}
+			],
+			"Metascore": "90",
+			"imdbRating": "8.0",
+			"imdbVotes": "407,767",
+			"imdbID": "tt1798709",
+			"Type": "movie",
+			"DVD": "13 May 2014",
+			"BoxOffice": "$17,901,029",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.herthemovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xOUf9PAKLdMmBfg4Cj5C.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Amadeus.1984.Directors.Cut.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"omdb": {
+			"Title": "Startup.com",
+			"Year": "2001",
+			"Rated": "R",
+			"Released": "01 Jun 2001",
+			"Runtime": "107 min",
+			"Genre": "Documentary",
+			"Director": "Chris Hegedus, Jehane Noujaim",
+			"Writer": "N/A",
+			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
+			"Plot": "Traces the birth and failure of new media company govWorks.com.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "10 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.1",
+			"imdbVotes": "3,081",
+			"imdbID": "tt0256408",
+			"Type": "movie",
+			"DVD": "18 Sep 2001",
+			"BoxOffice": "$505,254",
+			"Production": "Artisan Entertainment",
+			"Website": "http://www.artisanent.com/startupdotcom",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bUvoGLAT0exooxCz4cZk.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Little.Miss.Sunshine.2006.1080p.BluRay.H264.AAC-RARBG\\Little.Miss.Sunshine.2006.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Little Miss Sunshine",
+			"Year": "2006",
+			"Rated": "R",
+			"Released": "18 Aug 2006",
+			"Runtime": "101 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Jonathan Dayton, Valerie Faris",
+			"Writer": "Michael Arndt",
+			"Actors": "Abigail Breslin, Greg Kinnear, Paul Dano, Alan Arkin",
+			"Plot": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 68 wins & 107 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "91%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "80/100"
+				}
+			],
+			"Metascore": "80",
+			"imdbRating": "7.8",
+			"imdbVotes": "382,360",
+			"imdbID": "tt0449059",
+			"Type": "movie",
+			"DVD": "19 Dec 2006",
+			"BoxOffice": "$59,831,476",
+			"Production": "Fox Searchlight",
+			"Website": "http://www2.foxsearchlight.com/littlemisssunshine/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\0gIZ35e3gMnm881vnT98.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Devdas 2002 Hindi 720p BRRip CharmeLeon Silver RG\\Sample.mkv",
+		"omdb": {
+			"Title": "Semen, a Love Sample",
+			"Year": "2005",
+			"Rated": "N/A",
+			"Released": "15 Jul 2005",
+			"Runtime": "89 min",
+			"Genre": "Comedy",
+			"Director": "Daniela Féjerman, Inés París",
+			"Writer": "Daniela Féjerman, Inés París",
+			"Actors": "Ernesto Alterio, Leticia Dolera, Héctor Alterio, María Isbert",
+			"Plot": "N/A",
+			"Language": "Spanish",
+			"Country": "Spain, UK",
+			"Awards": "1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MjA3NjM5Ml5BMl5BanBnXkFtZTcwNDU0MjMzMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "5.6/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "5.6",
+			"imdbVotes": "528",
+			"imdbID": "tt0416214",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ReB4k7WSXgHB0nZI1Mbv.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"omdb": {
+			"Title": "Startup.com",
+			"Year": "2001",
+			"Rated": "R",
+			"Released": "01 Jun 2001",
+			"Runtime": "107 min",
+			"Genre": "Documentary",
+			"Director": "Chris Hegedus, Jehane Noujaim",
+			"Writer": "N/A",
+			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
+			"Plot": "Traces the birth and failure of new media company govWorks.com.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "10 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.1",
+			"imdbVotes": "3,081",
+			"imdbID": "tt0256408",
+			"Type": "movie",
+			"DVD": "18 Sep 2001",
+			"BoxOffice": "$505,254",
+			"Production": "Artisan Entertainment",
+			"Website": "http://www.artisanent.com/startupdotcom",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\NJC9HzhuPNn4izakmaXa.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"omdb": {
+			"Title": "Startup.com",
+			"Year": "2001",
+			"Rated": "R",
+			"Released": "01 Jun 2001",
+			"Runtime": "107 min",
+			"Genre": "Documentary",
+			"Director": "Chris Hegedus, Jehane Noujaim",
+			"Writer": "N/A",
+			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
+			"Plot": "Traces the birth and failure of new media company govWorks.com.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "10 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.1",
+			"imdbVotes": "3,081",
+			"imdbID": "tt0256408",
+			"Type": "movie",
+			"DVD": "18 Sep 2001",
+			"BoxOffice": "$505,254",
+			"Production": "Artisan Entertainment",
+			"Website": "http://www.artisanent.com/startupdotcom",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lRzLrf5su1bw5I3y68MH.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\Babel.2006.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Babel",
+			"Year": "2006",
+			"Rated": "R",
+			"Released": "10 Nov 2006",
+			"Runtime": "143 min",
+			"Genre": "Drama",
+			"Director": "Alejandro González Iñárritu",
+			"Writer": "Guillermo Arriaga, Guillermo Arriaga (idea), Alejandro González Iñárritu (idea)",
+			"Actors": "Brad Pitt, Cate Blanchett, Mohamed Akhzam, Peter Wight",
+			"Plot": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.",
+			"Language": "English, Arabic, Spanish, Japanese, Berber languages, French, Russian, Japanese Sign Language",
+			"Country": "France, USA, Mexico",
+			"Awards": "Won 1 Oscar. Another 41 wins & 134 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWRlYzEyMjgtOTZmNi00Y2FmLThlYmYtMDkzMjBhYmJiMDcxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "69%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "69/100"
+				}
+			],
+			"Metascore": "69",
+			"imdbRating": "7.5",
+			"imdbVotes": "257,676",
+			"imdbID": "tt0449467",
+			"Type": "movie",
+			"DVD": "20 Feb 2007",
+			"BoxOffice": "$34,237,104",
+			"Production": "Paramount Classics",
+			"Website": "http://www.paramountvantage.com/babel/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eCjFq14JtBqzgI2at8bC.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Carnage",
+			"Year": "2011",
+			"Rated": "R",
+			"Released": "18 Nov 2011",
+			"Runtime": "80 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Roman Polanski",
+			"Writer": "Yasmina Reza (play), Yasmina Reza (screenplay), Roman Polanski (screenplay), Michael Katims (translation)",
+			"Actors": "Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly",
+			"Plot": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
+			"Language": "English",
+			"Country": "France, Germany, Poland, Spain",
+			"Awards": "Nominated for 2 Golden Globes. Another 7 wins & 19 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MjAyMDUwNl5BMl5BanBnXkFtZTcwOTQwMDMwNw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "61/100"
+				}
+			],
+			"Metascore": "61",
+			"imdbRating": "7.2",
+			"imdbVotes": "103,419",
+			"imdbID": "tt1692486",
+			"Type": "movie",
+			"DVD": "20 Mar 2012",
+			"BoxOffice": "$2,200,000",
+			"Production": "Sony Pictures Classics",
+			"Website": "http://www.sonyclassics.com/carnage/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\5yn7VAgoYgJ5w6bqSniy.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Interstellar (2014) (2014) [1080p]\\Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Interstellar",
+			"Year": "2014",
+			"Rated": "PG-13",
+			"Released": "07 Nov 2014",
+			"Runtime": "169 min",
+			"Genre": "Adventure, Drama, Sci-Fi",
+			"Director": "Christopher Nolan",
+			"Writer": "Jonathan Nolan, Christopher Nolan",
+			"Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+			"Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+			"Language": "English",
+			"Country": "USA, UK, Canada, Iceland",
+			"Awards": "Won 1 Oscar. Another 43 wins & 143 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "8.6",
+			"imdbVotes": "1,102,530",
+			"imdbID": "tt0816692",
+			"Type": "movie",
+			"DVD": "31 Mar 2015",
+			"BoxOffice": "$158,737,441",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.InterstellarMovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\wSTcCDDoykPzEQJCXNz3.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"omdb": {
+			"Title": "Startup.com",
+			"Year": "2001",
+			"Rated": "R",
+			"Released": "01 Jun 2001",
+			"Runtime": "107 min",
+			"Genre": "Documentary",
+			"Director": "Chris Hegedus, Jehane Noujaim",
+			"Writer": "N/A",
+			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
+			"Plot": "Traces the birth and failure of new media company govWorks.com.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "10 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.1",
+			"imdbVotes": "3,081",
+			"imdbID": "tt0256408",
+			"Type": "movie",
+			"DVD": "18 Sep 2001",
+			"BoxOffice": "$505,254",
+			"Production": "Artisan Entertainment",
+			"Website": "http://www.artisanent.com/startupdotcom",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\f06W8266K5tvByHmfcRL.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Hobbit\\The Hobbit - An unexpected journey\\The.Hobbit.An.Unexpected.Journey.2012.1080p.BRrip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Hobbit: An Unexpected Journey",
+			"Year": "2012",
+			"Rated": "PG-13",
+			"Released": "14 Dec 2012",
+			"Runtime": "169 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Peter Jackson",
+			"Writer": "Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay), Guillermo del Toro (screenplay), J.R.R. Tolkien (novel)",
+			"Actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
+			"Plot": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+			"Language": "English",
+			"Country": "USA, New Zealand",
+			"Awards": "Nominated for 3 Oscars. Another 10 wins & 72 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "64%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "58/100"
+				}
+			],
+			"Metascore": "58",
+			"imdbRating": "7.9",
+			"imdbVotes": "682,819",
+			"imdbID": "tt0903624",
+			"Type": "movie",
+			"DVD": "19 Mar 2013",
+			"BoxOffice": "$303,001,229",
+			"Production": "Warner Bros.",
+			"Website": "http://www.thehobbit.com/index.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7Xfo6e2sRK08eDsnLlGV.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\The Hunchback of Notre Dame\\The.Hunchback.Of.Notre.Dame.1996.720p.BRrip.x264.GAZ.YIFY.mp4",
+		"omdb": {
+			"Title": "The Hunchback of Notre Dame",
+			"Year": "1996",
+			"Rated": "G",
+			"Released": "21 Jun 1996",
+			"Runtime": "91 min",
+			"Genre": "Animation, Drama, Family",
+			"Director": "Gary Trousdale, Kirk Wise",
+			"Writer": "Tab Murphy (animation story by), Victor Hugo (from the novel \"Notre Dame de Paris\" by), Tab Murphy (animation screenplay by), Irene Mecchi (animation screenplay by), Bob Tzudiker (animation screenplay by), Noni White (animation screenplay by), Jonathan Roberts (animation screenplay by), Kevin Harkey (story), Gaëtan Brizzi (story), Paul Brizzi (story), Ed Gombert (story), Brenda Chapman (story), Jeff Snow (story), Jim Capobianco (story), Denis Rich (story), Burny Mattinson (story), John Sanford (story), Kelly Wightman (story), James Fujii (story), Geefwee Boedoe (story), Floyd Norman (story), Francis Glebas (story), Kirk Hanson (story), Christine Blum (story), Sue C. Nichols (story)",
+			"Actors": "Jason Alexander, Mary Kay Bergman, Corey Burton, Jim Cummings",
+			"Plot": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+			"Language": "English, Latin",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 8 wins & 21 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzMxMDc4OGItODBiZi00NjYyLThiMzctMzQwZjgzYWE0MzQzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "74%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "6.9",
+			"imdbVotes": "114,388",
+			"imdbID": "tt0116583",
+			"Type": "movie",
+			"DVD": "16 Dec 1997",
+			"BoxOffice": "N/A",
+			"Production": "Walt Disney Feature Animation",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\geUQgVHkSQcD3Fog84x0.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Back to the future\\Back to the future I\\Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
+		"omdb": {
+			"Title": "Back to the Future",
+			"Year": "1985",
+			"Rated": "PG",
+			"Released": "03 Jul 1985",
+			"Runtime": "116 min",
+			"Genre": "Adventure, Comedy, Sci-Fi",
+			"Director": "Robert Zemeckis",
+			"Writer": "Robert Zemeckis, Bob Gale",
+			"Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+			"Plot": "Marty McFly, a seventeen-year-old high school student, is accidentally sent thirty years into the past in a time-travelling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 19 wins & 25 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "86/100"
+				}
+			],
+			"Metascore": "86",
+			"imdbRating": "8.5",
+			"imdbVotes": "821,172",
+			"imdbID": "tt0088763",
+			"Type": "movie",
+			"DVD": "17 Dec 2002",
+			"BoxOffice": "$2,925,880",
+			"Production": "Universal Pictures",
+			"Website": "http://www.bttfmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\icZ4lFJuJQcyjb1puYhl.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\The Incredibles\\The Incredibles 2004 720p BRRip x264 RmD (HDScene Release)_FR.mkv",
+		"omdb": {
+			"Title": "The Incredibles",
+			"Year": "2004",
+			"Rated": "PG",
+			"Released": "05 Nov 2004",
+			"Runtime": "115 min",
+			"Genre": "Animation, Action, Adventure",
+			"Director": "Brad Bird",
+			"Writer": "Brad Bird",
+			"Actors": "Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee",
+			"Plot": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+			"Language": "English, French",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 65 wins & 55 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "90/100"
+				}
+			],
+			"Metascore": "90",
+			"imdbRating": "8.0",
+			"imdbVotes": "523,450",
+			"imdbID": "tt0317705",
+			"Type": "movie",
+			"DVD": "29 Mar 2005",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\264LKL6qzoAdjONkw9Kv.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Musical\\Mamma mia\\Mamma.Mia!.2008.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": {
+			"Title": "Mamma Mia!",
+			"Year": "2008",
+			"Rated": "PG-13",
+			"Released": "18 Jul 2008",
+			"Runtime": "108 min",
+			"Genre": "Comedy, Family, Musical",
+			"Director": "Phyllida Lloyd",
+			"Writer": "Catherine Johnson (screenplay), Catherine Johnson (musical book)",
+			"Actors": "Amanda Seyfried, Stellan Skarsgård, Pierce Brosnan, Nancy Baldwin",
+			"Plot": "The story of a bride-to-be trying to find her real father told using hit songs by the popular 1970s group ABBA.",
+			"Language": "English, Greek",
+			"Country": "USA, UK, Germany",
+			"Awards": "Nominated for 2 Golden Globes. Another 15 wins & 24 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "54%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "51/100"
+				}
+			],
+			"Metascore": "51",
+			"imdbRating": "6.4",
+			"imdbVotes": "157,594",
+			"imdbID": "tt0795421",
+			"Type": "movie",
+			"DVD": "16 Dec 2008",
+			"BoxOffice": "$143,704,210",
+			"Production": "Universal Pictures",
+			"Website": "http://www.mammamiamovie.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KqfmjBr4L9nKtp9639FT.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS8_Vierge_Guadalupe_scientifique.mp4",
+		"title": "M et le 3eme secret BONUS8 Vierge Guadalupe scientifique",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jMJhlZZpn08MUGlZWLrC.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode III\\Star.Wars.Episode.3.Revenge.of.the.Sith.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"title": "Star Wars Episode 3 Revenge of the Sith",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2CpFBcr2WleK9yJIRV7e.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\Mononoke hime\\Mononoke.hime.[Princess.Mononoke].[DUAL.AUDIO]1997.HDTVRip.x264.YIFY.mkv",
+		"title": "Mononoke Hime",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jiana6hJncg7DQhbwT96.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\Wonder Woman\\Wonder.Woman.2017.1080p.WEB-DL.DD5.1.H264-STRiFE .mkv",
+		"title": "Wonder Woman",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YJ3brUMb69wZ78sIfsPt.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Schindler's list\\Schindler's List 1993 HDTVrip 720p 5.1_ch AVCHD h264 AAC subs 3h6m.mp4",
+		"title": "Schindler's List",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\V5kv0HAqc9JJRQQazr0J.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode II\\Star.Wars.Episode.2.Attack.of.the.Clones.2002.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"title": "Star Wars Episode 2 Attack of the Clones",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rISoagTq0tidf2gnxrWL.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Cinema Paradiso\\Cinema.Paradiso.1988.SUBBED.1080p.BluRay.x264-CiNEFiLE.mkv",
+		"title": "Cinema Paradiso",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ca2853P6OCnlabSQxZF2.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\La Chèvre\\La chèvre (Gérard Depardieu et Pierre Richard) - dvdrip - divx fr 5.02 by Tarasboulba.AVI",
+		"title": "La Chèvre",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2K7YFOPrCYcSFvXhdjxB.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Buongiorno Notte\\Buongiorno notte.avi",
+		"title": "Buongiorno Notte",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Od0ydOAmREdyTVrcYsQt.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\The Big Short\\The.Big.Short.2015.720p.BRRip.x264.AAC-ETRG.mp4",
+		"title": "The Big Short",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\r0GTr7sDFNiaV0NRtmRC.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 1\\Ip Man 2008 720-im_FR.mkv",
+		"title": "Ip Man",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VbltnSGCOiKZgSaUQtPr.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode IV\\Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"title": "Star Wars Episode 4 A New Hope",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7JBizFgYzUaFuTKjonk6.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\12 angry men\\12 Angry Men[1957]DvDrip[Eng]-Stealthmaster.avi",
+		"title": "12 Angry Men",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2YfSRr3KBPM5aIHlEvvm.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Crouching Tiger Hidden Dragon\\Crouching.Tiger.Hidden.Dragon.2000.1080p.BluRay.x264.AAC.mkv-Zen_Bud_FR.mkv",
+		"title": "Crouching Tiger Hidden Dragon",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZukLnWc53LOTLGEWiIh8.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\OSS 117 Le Caire nid d'espions\\OSS 117 Le Caire nid d'espions 2006 1080p FR.mkv",
+		"title": "OSS 117 Le Caire nid d'espions",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\cRPIVj1o9CFzWRmAz9wU.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Hotel Rwanda\\Hotel.Rawanda.2008.1080p.BrRip.x264.YIFY.mp4",
+		"title": "Hotel Rwanda",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9QV166d7C1WoNHga2jWh.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Gladiator\\Gladiator.BluRay.1080p.x264.5.1.Judas.mp4",
+		"title": "Gladiator",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ogdOBHwyWWVOZNAYYWlU.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\The Lives of Others\\The.Lives.of.Others.(2006).BDRip.1080p.[envy].mkv",
+		"title": "Das Leben der Anderen",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\GWvbW3NRSJEIDKYuehq8.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Les Trois Frères\\Les.Trois.Freres.FRENCH.DVDRiP.DivX.avi",
+		"title": "Les Trois Frères",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HfbPGDrS5KYxs1Jo0UyV.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Leger sympa\\Elizabethtown\\Elizabethtown (2005) 720p Web_dl_sujaidr (pimprg).mkv",
+		"title": "Elizabethtown",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ogv8s4kKao05ZOutx8TJ.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 3\\Ip.Man.3.2015.1080p.BluRay.x264.VPPV.mp4",
+		"title": "Ip Man III",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\vDwmOXV09o9AyLWPrR21.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 2\\FwD-IP Man II BDRip.avi",
+		"title": "Ip Man II",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\wG2CV1vYDWtW9GWjTiWn.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Le grand blond avec une chaussure noire\\le.grand.blond.avec.une.chaussure.noire.1972.french.720p.bluray.x264-rough.mkv",
+		"title": "Le Grand Blond avec une Chaussure Noire",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KyqB4yWuQkdICJpmQS3f.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\Das ganz grosse Traum_LOW\\district-grossetraum_xvid.avi",
+		"title": "Der Ganz Grosse Traum",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\a5z79qbjyLOsDH2wUIcM.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS17.mp4",
+		"title": "M et le 3eme secret BONUS17",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KXEOtkOhSbv7lElfOAb0.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS15.mp4",
+		"title": "M et le 3eme secret BONUS15",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WmRmaDHniti81Ms25bHw.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Troy\\Troy.2004.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"title": "Troy Directors Cut",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZCgR26INpyJfYDFpbRDm.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\Spirited Away\\Spirited.Away.2001.1080p.BluRay.x264.AAC.5.1-POOP.mp4",
+		"title": "Spirited Away",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xChrvet5pdJwlZpNNrzi.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Opera\\LaTraviata.mp4",
+		"title": "La Traviata",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\IeklcZU6jkBKgin8rHTB.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS13.mp4",
+		"title": "M et le 3eme secret BONUS13",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HR6vZ863BVVfDuMcLui9.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS16.mp4",
+		"title": "M et le 3eme secret BONUS16",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xUaciBhVmv9twS76xQm4.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS6_Theologien_Francois_Brune.mp4",
+		"title": "M et le 3eme secret BONUS6 Theologien Francois Brune",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XAIxqBCx5YHUuehADDhF.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode I\\Star.Wars.Episode.1.The.Phantom.Menace.1999.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"title": "Star Wars Episode 1 The Phantom Menace",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6C66WPs7Yl7OSFtIDkHT.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\Amadeus\\Amadeus.1984.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"title": "Amadeus Directors Cut",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nqXBl6VaRjXvmYK2Dq4U.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Les Compères\\Les.Comperes.1983.FRENCH.DVDRip.XviD.AC3-NEWTEAM94.avi",
+		"title": "Les Compères",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\u3Zd3xARUjdVE0vBtG9a.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS11.mp4",
+		"title": "M et le 3eme secret BONUS11",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ncnhCFXu3xxWZ04Wajyy.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Robin Hood\\Robin.Hood.2010.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"title": "Robin Hood Directors Cut",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iG76QWunAx4o5MWW54Mc.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Even the rain\\Even the Rain [Spanish](2010).mp4",
+		"title": "Even the Rain",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XxlmVO4AvhhtDEGVatXS.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS3_Pianiste_Elisabeth_Sombart.mp4",
+		"title": "M et le 3eme secret BONUS3 Pianiste Elisabeth Sombart",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\FEp6Z2CuJZIPRCeH8QXP.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
+		"title": "M et le 3eme secret",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PQnuJdmODB6jBArb7T5Z.jpg"
 	}
 ]

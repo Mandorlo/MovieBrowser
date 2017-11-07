@@ -1,11 +1,15 @@
 [
 	{
 		"path": "D:\\Films\\7 years in Tibet\\Seven Years in Tibet-720p MP4 AAC x264 BRRip 1997-CC.mp4",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\frE5G2LjjG5621IBvQWJ.jpeg",
+		"title": "Seven Years in Tibet"
 	},
 	{
 		"path": "D:\\Films\\Back to the future\\Back to the future III\\Back.to.the.Future.Part.3.1990.1080p.Brrip.x264.Deceit.YIFY.mp4",
-		"omdb": null
+		"omdb": null,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Z5QhbIkWZjlwQdt3rjvj.jpg",
+		"title": "Back to the Future III"
 	},
 	{
 		"path": "D:\\Films\\Gitta Mallasz\\CPC93002894_gitta_mallasz_le_scribe_des_anges.avi",

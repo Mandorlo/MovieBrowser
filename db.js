@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const _ = require('lodash');
 const request = require('request');
+const hash = require('crypto').createHash;
+const _ = require('lodash');
 
 const omdb = require('./omdb.js');
 const files = require('./files.js');
@@ -54,27 +55,27 @@ function updateDBAux(type) {
           if (!res) {
             // on le cherche dans omdb
             // setTimeout(() => {
-              getOMDBFilm(movie_path).then(film_o => {
-                db.push(film_o)
-                count_http_call++
-                printText(count_http_call + "/" + movies_list.length)
-                resolve2(film_o)
-              }).catch(err => {
-                db.push({
-                  path: movie_path,
-                  omdb: null
-                })
-                count_http_call++
-                printText(count_http_call + "/" + movies_list.length)
-                resolve2(err) // on fait exprès de pas générer d'erreur si on trouve pas le film
+            getOMDBFilm(movie_path).then(film_o => {
+              db.push(film_o)
+              count_http_call++
+              printText(count_http_call + "/" + movies_list.length)
+              resolve2(film_o)
+            }).catch(err => {
+              db.push({
+                path: movie_path,
+                omdb: null
               })
+              count_http_call++
+              printText(count_http_call + "/" + movies_list.length)
+              resolve2(err) // on fait exprès de pas générer d'erreur si on trouve pas le film
+            })
             // }, parseInt(Math.random() * 5000))
           } else {
             // console.log(movie_path + "already exists in db")
             resolve2(movie_path + "already exists in db")
           }
         })
-      // when all promises are finished
+        // when all promises are finished
       })).then(results => {
         // we write the db on disk
         fs.writeFile(db_path, JSON.stringify(db, null, '\t'), 'utf8', err => {
@@ -139,12 +140,87 @@ function cacheWebResource(film_o) {
       })
     } else if (film_o.omdb.Poster == "N/A") {
       film_o.omdb.localPoster = "";
-      reject({err: "POSTER_NA", o: film_o})
+      reject({
+        err: "POSTER_NA",
+        o: film_o
+      })
     } else {
       film_o.omdb.localPoster = null;
-      reject({type: "NO_POSTER", err: JSON.stringify(film_o), o: film_o})
+      reject({
+        type: "NO_POSTER",
+        err: JSON.stringify(film_o),
+        o: film_o
+      })
     }
   })
+}
+
+function updateFilmInfo(film_path, new_film_o) {
+  var db_index = _.findIndex(db, ['path', new_film_o.path])
+  if (db_index < 0) {
+    return Promise.reject("Cannot find path to film '" + new_film_o.path + "' in db :(")
+  }
+  db.splice(db_index, 1, new_film_o)
+  return writeDB()
+}
+
+function updatePoster(film_o, new_url) {
+  if (!film_o.path) return Promise.reject("film_o provided is not a valid film object !");
+
+  return new Promise((resolve, reject) => {
+    var db_index = _.findIndex(db, ['path', film_o.path])
+    if (db_index < 0) {
+      reject("Cannot find path '" + film_o.path + "' in db :(")
+      return
+    }
+    // we download the poster in the cache
+    res = /\.(jpg|png|gif|jpeg)$/gi.exec(new_url)
+    if (res && res.length > 0) {
+      var random_path = genRandomId(CACHE_OMDB, res[0]);
+      download(new_url, random_path).then(path => {
+        if (film_o.omdb && film_o.omdb.localPoster && fs.existsSync(film_o.omdb.localPoster)) {
+          // on supprime l'ancien poster dans le cache
+          fs.unlink(film_o.omdb.localPoster, err => {
+            if (err) console.log("Error while deleting poster " + film_o.omdb.localPoster, err)
+          })
+        }
+
+        film_o.localPoster = path;
+        if (film_o.omdb) film_o.omdb.localPoster = path;
+        db.splice(db_index, 1, film_o)
+        // on écrit la db mise à jour
+        writeDB().then(_ => {
+          resolve(film_o)
+        }).catch(err => {
+          reject(err)
+        })
+
+      }).catch(err => {
+        reject(err)
+      })
+    } else {
+      film_o.omdb.localPoster = null;
+      reject("extension of url '" + url + "' is not an image")
+    }
+  })
+}
+
+function writeDB() {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(db_path, JSON.stringify(db, null, '\t'), 'utf8', err => {
+      if (err) {
+        reject(err);
+        return
+      }
+      resolve("db saved")
+    })
+  })
+}
+
+function getId(film_o) {
+  // renvoie un id cool du film à partir du path
+  if (!film_o || !film_o.path) throw "unvalid object film to get id from"
+  return hash('md5').update(film_o.path).digest('hex');
 }
 
 function genRandomId(path_dir, ext) {
@@ -192,9 +268,11 @@ function download(uri, path) {
 // download("https://images-na.ssl-images-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", './test.jpg').then(res => console.log(res)).catch(err => console.log(err))
 
 module.exports.db = db;
-
+module.exports.getId = getId;
 module.exports.updateDB = updateDB;
 module.exports.getOMDBFilm = getOMDBFilm;
+module.exports.updateFilmInfo = updateFilmInfo;
+module.exports.updatePoster = updatePoster;
 
 function printText(texte) {
   process.stdout.clearLine();

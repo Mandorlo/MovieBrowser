@@ -22,19 +22,27 @@ dblib.updateDB().then(res => {
 renderDashboard()
 
 function renderDashboard() {
+  $("#app").empty()
+
+  // on affiche la barre de navigation
+  var navbar = createNavbar();
+  $("#app").append(navbar)
+
   var root = $("<div class='main_root'></div>")
 
-  // var button = document.querySelector('button.change_poster');
-  // var dialog = $('#change_poster');
   $('#change_poster').find('button.close:not([disabled])').click(_ => {
     document.querySelector("#change_poster").close();
   });
   $('#change_infos').find('button.close:not([disabled])').click(_ => {
     document.querySelector("#change_infos").close();
   });
+  $('#change_root').find('button.close:not([disabled])').click(_ => {
+    document.querySelector("#change_root").close();
+  });
 
+  var root_dir = dblib.getFilmDir();
   dblib.db.forEach(film_o => {
-    if (fs.existsSync(film_o.path)) {
+    if (film_o.path.indexOf(root_dir) == 0 && fs.existsSync(film_o.path)) {
       var hash = dblib.getId(film_o)
       var container = $('<div class="main_container" id="' + hash + '"></div>')
       var localPoster = film_o['localPoster'];
@@ -78,6 +86,40 @@ function renderDashboard() {
     }
   })
   $("#app").append(root)
+}
+
+function createNavbar() {
+  var nav = $('<div id="navbar"></div>')
+  var change_dir = $('<button class="dir_path mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">' + dblib.getFilmDir() + '</button>')
+  $("#select_root").on('change', ev => {
+    if (ev.target.files.length) {
+      var myrootdir = ev.target.files[0].path;
+      console.log("dir:", myrootdir)
+      $("#path_root").val(myrootdir)
+    } else {
+      console.log("Je n'ai pas trouvé de fichiers dans le dossier choisi !")
+    }
+  })
+  change_dir.click(e => {
+    var ok = $('#ok_change_root')
+    ok.unbind("click");
+    ok.click(e => {
+      var myrootdir = $("#path_root").val();
+      console.log("val:", myrootdir)
+      // on change le path vers les films
+      dblib.setFilmDir(myrootdir).then(_ => {
+        document.querySelector("#change_root").close()
+        // on relance le rendu dashboard
+        renderDashboard()
+      }).catch(err => {
+        console.log("Cannot change root path films to " + myrootdir, err)
+        document.querySelector("#change_root").close()
+      })
+    })
+    document.querySelector("#change_root").showModal();
+  })
+  nav.append(change_dir)
+  return nav
 }
 
 function createChangeInfoButton(film_o) {

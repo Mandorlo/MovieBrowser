@@ -24,7 +24,24 @@
     document.write(process.versions.electron)
   </script>. -->
 
-<!-- ==================== DIALOG POUR CHANGER DE POSTER ============================= -->
+  <!-- ==================== DIALOG POUR CHANGER DE FILM DIR ============================= -->
+  <dialog id="change_root" class="mdl-dialog">
+    <h4 class="mdl-dialog__title">Changer le dossier Films</h4>
+    <div class="mdl-dialog__content">
+      <p id="dialog_root_text">
+        Sélectionnes le nouveau dossier de films
+      </p><br>
+      <input id="path_root" type="hidden">
+      <input id="select_root" type="file"
+       webkitdirectory />
+    </div>
+    <div class="mdl-dialog__actions">
+      <button id="ok_change_root" type="button" class="mdl-button ok">Ok</button>
+      <button type="button" class="mdl-button close">Close</button>
+    </div>
+  </dialog>
+
+  <!-- ==================== DIALOG POUR CHANGER DE POSTER ============================= -->
   <dialog id="change_poster" class="mdl-dialog">
     <h4 class="mdl-dialog__title">Changer le poster</h4>
     <div class="mdl-dialog__content">
@@ -41,21 +58,21 @@
 
 
   <!-- ==================== DIALOG POUR CHANGER LES INFOS ============================= -->
-    <dialog id="change_infos" class="mdl-dialog">
-      <h4 class="mdl-dialog__title">Changer le titre</h4>
-      <div class="mdl-dialog__content">
-        <p id="dialog_info_text">
-          Rentre ici le titre du film
-        </p><br>
-        <input id="dialog_info_title" type="text">
-      </div>
-      <div class="mdl-dialog__actions">
-        <button id="ok_change_infos" type="button" class="mdl-button ok">Ok</button>
-        <button type="button" class="mdl-button close">Close</button>
-      </div>
-    </dialog>
+  <dialog id="change_infos" class="mdl-dialog">
+    <h4 class="mdl-dialog__title">Changer le titre</h4>
+    <div class="mdl-dialog__content">
+      <p id="dialog_info_text">
+        Rentre ici le titre du film
+      </p><br>
+      <input id="dialog_info_title" type="text">
+    </div>
+    <div class="mdl-dialog__actions">
+      <button id="ok_change_infos" type="button" class="mdl-button ok">Ok</button>
+      <button type="button" class="mdl-button close">Close</button>
+    </div>
+  </dialog>
 
-<!-- ==================== MAIN APP ============================= -->
+  <!-- ==================== MAIN APP ============================= -->
   <div id="app"></div>
 
 

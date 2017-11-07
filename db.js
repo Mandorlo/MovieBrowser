@@ -9,8 +9,9 @@ const files = require('./files.js');
 
 const db_path = path.join(__dirname, "db.json");
 var db = require(db_path);
-
-const ROOT = "D:\\Films\\";
+const param_path = path.join(__dirname, "param.json")
+var PARAM = require(param_path);
+var ROOT = PARAM.films_dir;
 const CACHE = path.join(__dirname, "cache");
 const CACHE_OMDB = path.join(CACHE, "OMDB");
 
@@ -217,6 +218,18 @@ function writeDB() {
   })
 }
 
+function writeParam() {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(param_path, JSON.stringify(PARAM, null, '\t'), 'utf8', err => {
+      if (err) {
+        reject(err);
+        return
+      }
+      resolve("params saved")
+    })
+  })
+}
+
 function getId(film_o) {
   // renvoie un id cool du film à partir du path
   if (!film_o || !film_o.path) throw "unvalid object film to get id from"
@@ -266,10 +279,31 @@ function download(uri, path) {
 };
 // TEST :
 // download("https://images-na.ssl-images-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", './test.jpg').then(res => console.log(res)).catch(err => console.log(err))
+function getFilmDir() {
+  return ROOT
+}
+
+function setFilmDir(path) {
+  return new Promise((resolve, reject) => {
+    files.isDir(path).then(res => {
+      if (res) {
+        ROOT = path;
+        PARAM.films_dir = path;
+        writeParam().then(res => resolve(res)).catch(err => reject(err))
+      } else {
+        reject("Path " + path + " is not a valid directory !")
+      }
+    }).catch(err => {
+      reject(err)
+    })
+  })
+}
 
 module.exports.db = db;
 module.exports.getId = getId;
 module.exports.updateDB = updateDB;
+module.exports.getFilmDir = getFilmDir;
+module.exports.setFilmDir = setFilmDir;
 module.exports.getOMDBFilm = getOMDBFilm;
 module.exports.updateFilmInfo = updateFilmInfo;
 module.exports.updatePoster = updatePoster;

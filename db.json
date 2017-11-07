@@ -1,41 +1,758 @@
 [
 	{
-		"path": "D:\\Films\\_Kung Fu\\Hero\\Hero.mkv",
+		"path": "D:\\Films\\7 years in Tibet\\Seven Years in Tibet-720p MP4 AAC x264 BRRip 1997-CC.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Back to the future\\Back to the future III\\Back.to.the.Future.Part.3.1990.1080p.Brrip.x264.Deceit.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Gitta Mallasz\\CPC93002894_gitta_mallasz_le_scribe_des_anges.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\La vita è bella\\La vita è bella 1997 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako (3).mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Back to the future\\Back to the future I\\Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Amélie Poulain\\Amelie.2001.BDRip.1080p.Rus.Fre.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Nos jours heureux\\Nos.Jours.Heureux.FRENCH.DVDRiP.XviD.MZISYS.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Lost in translation\\Lost In Translation.VOSTF.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Big Fish\\Big Fish (2003).720p.700mb.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\1 - Harry Potter and the Sorcerers Stone\\Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Fellowship of the Ring\\The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.EXTENDED.2001.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Oceans Eleven\\Oceans Eleven 2001.720p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Loin des hommes\\Loin.Des.Hommes.2014.FRENCH.BRRip.XviD-DesTroY.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Return of the King\\The.Lord.of.the.Rings.The.Return.of.the.King.EXTENDED.2003.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\6 - Harry Potter and the Half Blood Prince\\Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\The Matrix\\The Matrix 1999 720p BluRay x264-MgB.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\7 - Harry Potter and the Deathly Hallows\\Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.1080p.BrRip.264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Indiana Jones and the raiders of the lost ark\\Indiana.Jones.And.The.Raiders.Of.The.Lost.Ark.1981.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Les Trois Frères\\Les.Trois.Freres.FRENCH.DVDRiP.DivX.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\The Hobbit\\The Hobbit - An unexpected journey\\The.Hobbit.An.Unexpected.Journey.2012.1080p.BRrip.x264.GAZ.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Le grand blond avec une chaussure noire\\le.grand.blond.avec.une.chaussure.noire.1972.french.720p.bluray.x264-rough.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Les Compères\\Les.Comperes.1983.FRENCH.DVDRip.XviD.AC3-NEWTEAM94.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Mulan\\Mulan.1998.1080p.BRrip.x264.GAZ.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Anna Karenina\\Anna.Karenina.2012.1080p.BRrip.x264.GAZ.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Two Towers\\The.Lord.of.the.Rings.The.Two.Towers.2002.ExD.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Pride and Prejudice\\Pride.and.Prejudice.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Pirates of the Caribbean - curse of the Black Pearl\\Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.1080p.BrRip.x264.Deceit.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Disney\\The Hunchback of Notre Dame\\The.Hunchback.Of.Notre.Dame.1996.720p.BRrip.x264.GAZ.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Premium Rush\\Premium.Rush.2012.720p.BDRip.XviD.AC3-ViSiON_IT.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Crouching Tiger Hidden Dragon\\Crouching.Tiger.Hidden.Dragon.2000.1080p.BluRay.x264.AAC.mkv-Zen_Bud_FR.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\Das ganz grosse Traum_LOW\\district-grossetraum_xvid.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Even the rain\\Even the Rain [Spanish](2010).mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 1\\Ip Man 2008 720-im_FR.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS18.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS2_Roger_Welker.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Leger sympa\\Elizabethtown\\Elizabethtown (2005) 720p Web_dl_sujaidr (pimprg).mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Gladiator\\Gladiator.BluRay.1080p.x264.5.1.Judas.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 10 FR Alexandre Men Parole d un martyr.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 11 FR La mission de Marthe Robin.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 03 FR Christ notre PAix Ninoy Aquino.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 03 FR Les enfants de Stung Ming Chey.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\The Lives of Others\\The.Lives.of.Others.(2006).BDRip.1080p.[envy].mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\Bernadette SOUBIROUS réalisé par Jean DELANNOY film complet 1988.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 06 FR Les premiers pas  des parents.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS15.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\04 10 FR Cette paix venue d ailleur Claire Ly.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_TEST.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 12 FR La force de l offrande.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 10 FR QUITTER POUR TROUVER.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\OSS 117 Le Caire nid d'espions\\OSS 117 Le Caire nid d'espions 2006 1080p FR.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\La Chèvre\\La chèvre (Gérard Depardieu et Pierre Richard) - dvdrip - divx fr 5.02 by Tarasboulba.AVI",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 03 FR La force du pardon.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 02 FR La kénose ou rien.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 10 FR L Offrande de Frere Roger.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Foi  histoire de la ccn.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\01 03 FR Mission d'unité.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 03 FR Tout est grâce.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 06 FR La communaute du Chemin Neuf a Kinshassa.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 12 FR Ce qu'il y a de fou dans le monde.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 03 FR Etty Hillesum L Amour comme seule solution.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 12 FR Said Fatima et Jesus.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 10 FR Defi de l Islam 1 Christian de Cherge et Mohammed.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Le curé d'Ars.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 06 FR Le glaive de la Parole.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Hautecombe Fev 2013.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 05 FR La beaute de la compassion Jean Vanier.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 10 FR Hrant Dink Amour et verite se rencontre.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Ensembles Mai 2005.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 02 FR Tu Frappes a ma porte.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 05 FR Martyrs de la fraternite.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 12 FR Haoxin et la Croix.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 03 FR Elisabeth de Hongrie - Reine des pauvres.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 02 FR Le reveil spirituel chez les jeunes.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 10 Qu'ils soient un n°2.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Frozen\\frozen.2013.1080p.bluray.x264-sparks_IT.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Les veilleurs.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 02 FR Lumière dans la nuit.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 11 FR Defi de l Islam 2 De toutes les nation faites des disciples.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 06 FR Pentecôte pour l unite.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 12 Vérités Arc en ciel n°3.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\Songhaï, une ferme bio au Bénin.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\BES octo 2011.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\feu rouge feu vert.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 12 FR N ayez pas peur du Saint Esprit.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Vie cachée à Nazareth.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 11 FR Sur les pas de Don Bosco.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode I\\Star.Wars.Episode.1.The.Phantom.Menace.1999.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\12 angry men\\12 Angry Men[1957]DvDrip[Eng]-Stealthmaster.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\vérité croisée V3.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\Wonder Woman\\Wonder.Woman.2017.1080p.WEB-DL.DD5.1.H264-STRiFE .mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Rear Window\\Rear.Window.1954.by_Hitchcock.720p.x264.AAC.MULTISUB.mkv-Zen_Bud.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\Spiderman\\Spiderman 1 2002 1080p x264.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode IV\\Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2004 03 Marie et l'oecuménisme n°5 Français.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode II\\Star.Wars.Episode.2.Attack.of.the.Clones.2002.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Cinema Paradiso\\Cinema.Paradiso.1988.SUBBED.1080p.BluRay.x264-CiNEFiLE.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 05 FR Jesus le chemin de paix Jean Vanier.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\béatification JP II.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Disney\\The Incredibles\\The Incredibles 2004 720p BRRip x264 RmD (HDScene Release)_FR.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 05 FR La fin du mur.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS9_Journaliste_David_Yallop.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 06 FR Le LINCEUL DE TURIN.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2005 04 Un pape à la recherche de l'Unité n°6.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode III\\Star.Wars.Episode.3.Revenge.of.the.Sith.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\St Ignace.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Sr Angélique.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Buongiorno Notte\\Buongiorno notte.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 08 FR Amis dans le Seigneur.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS17.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS3_Pianiste_Elisabeth_Sombart.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Schindler's list\\Schindler's List 1993 HDTVrip 720p 5.1_ch AVCHD h264 AAC subs 3h6m.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS11.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Hotel Rwanda\\Hotel.Rawanda.2008.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Robin Hood\\Robin.Hood.2010.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 PRESENTATIONFR.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Opera\\LaTraviata.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS10_procureur.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Musical\\Mamma mia\\Mamma.Mia!.2008.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS13.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 3\\Ip.Man.3.2015.1080p.BluRay.x264.VPPV.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS14.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS4_Islam_Malek_Chebel.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\Spirited Away\\Spirited.Away.2001.1080p.BluRay.x264.AAC.5.1-POOP.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 2\\FwD-IP Man II BDRip.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS1_KAKI.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\The Big Short\\The.Big.Short.2015.720p.BRRip.x264.AAC-ETRG.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS8_Vierge_Guadalupe_scientifique.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\Amadeus\\Amadeus.1984.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS16.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\Howls of the Moving Castle\\Howls.Moving.Castle.2004.720p.BluRay.x264-x0r.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Troy\\Troy.2004.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\ShaolinVol2.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 05 FR L Amis de pauvre Jean Vanier.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS12.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS5_JPII_Journaliste.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 11 FR Si tu veux la Paix aime les pauvres Sant Egidio.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 CLIP_INTERCESSION.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS7_Reporter_Robert_Serrou.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 05 FR Tu aimeras ton ennemi(2).avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 06 FR Kirchentag.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS6_Theologien_Francois_Brune.mp4",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\Mononoke hime\\Mononoke.hime.[Princess.Mononoke].[DUAL.AUDIO]1997.HDTVRip.x264.YIFY.mkv",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 02 FR Defi de l Islam 3 Pas d autre nom que Jesus.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 11 FR Lytta Basset La guerison interieure.avi",
+		"omdb": null
+	},
+	{
+		"path": "D:\\Films\\Lion\\Lion.2016.1080p.BluRay.x264-[YTS.AG].mp4",
 		"omdb": {
-			"Title": "Hero",
-			"Year": "2002",
-			"Rated": "PG-13",
-			"Released": "27 Aug 2004",
-			"Runtime": "107 min",
-			"Genre": "Action, Adventure, History",
-			"Director": "Yimou Zhang",
-			"Writer": "Feng Li (screenplay), Yimou Zhang (screenplay), Bin Wang (screenplay)",
-			"Actors": "Jet Li, Tony Chiu-Wai Leung, Maggie Cheung, Ziyi Zhang",
-			"Plot": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.",
-			"Language": "Mandarin",
-			"Country": "China, Hong Kong",
-			"Awards": "Nominated for 1 Oscar. Another 37 wins & 36 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Title": "The Lion King",
+			"Year": "1994",
+			"Rated": "G",
+			"Released": "24 Jun 1994",
+			"Runtime": "88 min",
+			"Genre": "Animation, Adventure, Drama",
+			"Director": "Roger Allers, Rob Minkoff",
+			"Writer": "Irene Mecchi (screenplay by), Jonathan Roberts (screenplay by), Linda Woolverton (screenplay by), Burny Mattinson (story), Barry Johnson (story), Lorna Cook (story), Thom Enriquez (story), Andy Gaskill (story), Gary Trousdale (story), Jim Capobianco (story), Kevin Harkey (story), Jorgen Klubien (story), Chris Sanders (story), Tom Sito (story), Larry Leker (story), Joe Ranft (story), Rick Maki (story), Ed Gombert (story), Francis Glebas (story), Mark Kausler (story), J.T. Allen (additional story material), George Scribner (additional story material), Miguel Tejada-Flores (additional story material), Jenny Tripp (additional story material), Bob Tzudiker (additional story material), Christopher Vogler (additional story material), Kirk Wise (additional story material), Noni White (additional story material), Brenda Chapman (story supervisor)",
+			"Actors": "Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings",
+			"Plot": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.",
+			"Language": "English, Swahili, Xhosa, Zulu",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 33 wins & 29 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
 			"Ratings": [
 				{
 					"Source": "Internet Movie Database",
-					"Value": "7.9/10"
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
 				},
 				{
 					"Source": "Metacritic",
-					"Value": "85/100"
+					"Value": "83/100"
 				}
 			],
-			"Metascore": "85",
-			"imdbRating": "7.9",
-			"imdbVotes": "157,337",
-			"imdbID": "tt0299977",
+			"Metascore": "83",
+			"imdbRating": "8.5",
+			"imdbVotes": "723,787",
+			"imdbID": "tt0110357",
 			"Type": "movie",
-			"DVD": "06 Jan 2004",
-			"BoxOffice": "N/A",
-			"Production": "N/A",
+			"DVD": "07 Oct 2003",
+			"BoxOffice": "$94,240,635",
+			"Production": "Buena Vista",
+			"Website": "http://disney.go.com/lionking/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lvTeYi8kCKbQf4Ijkhs2.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Catch me if you can\\Catch.Me.If.You.Can.2002.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Catch Me If You Can",
+			"Year": "2002",
+			"Rated": "PG-13",
+			"Released": "25 Dec 2002",
+			"Runtime": "141 min",
+			"Genre": "Biography, Crime, Drama",
+			"Director": "Steven Spielberg",
+			"Writer": "Jeff Nathanson (screenplay), Frank Abagnale Jr. (book), Stan Redding (book)",
+			"Actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+			"Plot": "The story of Frank Abagnale Jr., before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and legal prosecutor as a seasoned and dedicated FBI agent pursues him.",
+			"Language": "English, French",
+			"Country": "USA, Canada",
+			"Awards": "Nominated for 2 Oscars. Another 13 wins & 41 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "76/100"
+				}
+			],
+			"Metascore": "76",
+			"imdbRating": "8.1",
+			"imdbVotes": "616,064",
+			"imdbID": "tt0264464",
+			"Type": "movie",
+			"DVD": "06 May 2003",
+			"BoxOffice": "$164,400,000",
+			"Production": "DreamWorks SKG",
+			"Website": "http://www.dreamworks.com/catchthem/jump2.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\g70tYjEEJpzV9El8wZWd.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\A Street Cat Named Bob\\A.Street.Cat.Named.Bob.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "A Street Cat Named Bob",
+			"Year": "2016",
+			"Rated": "UNRATED",
+			"Released": "18 Nov 2016",
+			"Runtime": "103 min",
+			"Genre": "Biography, Comedy, Drama",
+			"Director": "Roger Spottiswoode",
+			"Writer": "James Bowen (novel), Garry Jenkins (novel), Tim John, Maria Nation",
+			"Actors": "Luke Treadaway, Bob the Cat, Ruta Gedmintas, Joanne Froggatt",
+			"Plot": "Based on the international best selling book. The true feel good story of how James Bowen, a busker and recovering drug addict, had his life transformed when he met a stray ginger cat.",
+			"Language": "English",
+			"Country": "UK",
+			"Awards": "1 win.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MTI1MzE5Nl5BMl5BanBnXkFtZTgwMjQzNjEzOTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "77%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "54/100"
+				}
+			],
+			"Metascore": "54",
+			"imdbRating": "7.4",
+			"imdbVotes": "16,670",
+			"imdbID": "tt3606888",
+			"Type": "movie",
+			"DVD": "09 May 2017",
+			"BoxOffice": "$35,070",
+			"Production": "Iris Productions",
 			"Website": "N/A",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\932ytdh9N7hlJFUFhY3V.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Beauty and the Beast\\Beauty.and.the.Beast.2017.720p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Beauty and the Beast",
+			"Year": "1991",
+			"Rated": "G",
+			"Released": "22 Nov 1991",
+			"Runtime": "84 min",
+			"Genre": "Animation, Family, Fantasy",
+			"Director": "Gary Trousdale, Kirk Wise",
+			"Writer": "Linda Woolverton (animation screenplay by), Brenda Chapman (story by), Chris Sanders (story by), Burny Mattinson (story by), Kevin Harkey (story by), Brian Pimental (story by), Bruce Woodside (story by), Joe Ranft (story by), Tom Ellery (story by), Kelly Asbury (story by), Robert Lence (story by)",
+			"Actors": "Robby Benson, Jesse Corti, Rex Everhart, Angela Lansbury",
+			"Plot": "A young woman whose father has been imprisoned by a terrifying beast offers herself in his place, unaware that her captor is actually a prince, physically altered by a magic spell.",
+			"Language": "English, French",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 24 wins & 21 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "95/100"
+				}
+			],
+			"Metascore": "95",
+			"imdbRating": "8.0",
+			"imdbVotes": "347,398",
+			"imdbID": "tt0101414",
+			"Type": "movie",
+			"DVD": "08 Oct 2002",
+			"BoxOffice": "$47,611,331",
+			"Production": "Buena Vista",
+			"Website": "http://www.disney.com/beautyandthebeast",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ib1uIDemf0srMaQR7luy.jpg"
 		}
 	},
 	{
@@ -78,42 +795,220 @@
 			"BoxOffice": "N/A",
 			"Production": "TriStar",
 			"Website": "N/A",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9Nrdy9bWseUMAy8hFxde.jpg"
 		}
 	},
 	{
-		"path": "D:\\Films\\_Drôle\\Gad Elmaleh-Papa est en Haut.avi",
+		"path": "D:\\Films\\The Mask of Zorro\\The.Mask.of.Zorro.1998.1080p.BluRay.x264.anoXmous.mp4",
 		"omdb": {
-			"Title": "Gad Elmaleh: Papa est en haut",
-			"Year": "2010",
-			"Rated": "N/A",
-			"Released": "05 May 2010",
-			"Runtime": "120 min",
-			"Genre": "Documentary, Comedy",
-			"Director": "N/A",
-			"Writer": "Gad Elmaleh",
-			"Actors": "Gad Elmaleh",
-			"Plot": "N/A",
-			"Language": "French",
-			"Country": "France",
-			"Awards": "N/A",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2EwYWZlMTctMGI5ZS00MWJlLWIxZWYtM2RhZjlmZTFiYjI1XkEyXkFqcGdeQXVyNjUxMTkyMTk@._V1_SX300.jpg",
+			"Title": "The Mask of Zorro",
+			"Year": "1998",
+			"Rated": "PG-13",
+			"Released": "17 Jul 1998",
+			"Runtime": "136 min",
+			"Genre": "Action, Adventure, Comedy",
+			"Director": "Martin Campbell",
+			"Writer": "Johnston McCulley (character Zorro), Ted Elliott (story), Terry Rossio (story), Randall Jahnson (story), John Eskow (screenplay), Ted Elliott (screenplay), Terry Rossio (screenplay)",
+			"Actors": "José María de Tavira, Diego Sieres, Emiliano Guerra, Yolanda Orisaga",
+			"Plot": "A young thief, seeking revenge for the death of his brother, is trained by the once great, but aged Zorro, who also pursues vengeance of his own.",
+			"Language": "English",
+			"Country": "USA, Germany",
+			"Awards": "Nominated for 2 Oscars. Another 8 wins & 16 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI3NzI2MjY2MF5BMl5BanBnXkFtZTYwMDM5ODU5._V1_SX300.jpg",
 			"Ratings": [
 				{
 					"Source": "Internet Movie Database",
-					"Value": "7.5/10"
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "83%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "63/100"
+				}
+			],
+			"Metascore": "63",
+			"imdbRating": "6.7",
+			"imdbVotes": "145,152",
+			"imdbID": "tt0120746",
+			"Type": "movie",
+			"DVD": "01 Dec 1998",
+			"BoxOffice": "N/A",
+			"Production": "Sony Pictures Entertainment",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TKcwvt9hpccrltCIkvVj.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Assassins Creed\\Assassins.Creed.2016.720p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Assassins Creed Black Flag Short Film",
+			"Year": "2014",
+			"Rated": "NOT RATED",
+			"Released": "N/A",
+			"Runtime": "8 min",
+			"Genre": "Short, Action",
+			"Director": "John Lyde",
+			"Writer": "N/A",
+			"Actors": "James Gaisford, Paul Hunt, William Rubio",
+			"Plot": "A short fan film based on Assassins Creed IV: Black Flag.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "N/A",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWVlZTRlNGMtYjkxZi00YTBmLWI5ODgtNWY2OGE2NDMwNmYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
 				}
 			],
 			"Metascore": "N/A",
-			"imdbRating": "7.5",
-			"imdbVotes": "62",
-			"imdbID": "tt3849124",
+			"imdbRating": "6.7",
+			"imdbVotes": "9",
+			"imdbID": "tt5727474",
 			"Type": "movie",
 			"DVD": "N/A",
 			"BoxOffice": "N/A",
 			"Production": "N/A",
 			"Website": "N/A",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ubh4OohsqKKt19lRUEBk.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Historique\\Munich\\Munich.2005.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Munich",
+			"Year": "2005",
+			"Rated": "R",
+			"Released": "06 Jan 2006",
+			"Runtime": "164 min",
+			"Genre": "Crime, Drama, History",
+			"Director": "Steven Spielberg",
+			"Writer": "Tony Kushner (screenplay), Eric Roth (screenplay), George Jonas (book)",
+			"Actors": "Eric Bana, Daniel Craig, Ciarán Hinds, Mathieu Kassovitz",
+			"Plot": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
+			"Language": "English, German, French, Hebrew, Arabic, Italian, Greek, Russian",
+			"Country": "France, Canada, USA",
+			"Awards": "Nominated for 5 Oscars. Another 13 wins & 64 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "77%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.6",
+			"imdbVotes": "186,678",
+			"imdbID": "tt0408306",
+			"Type": "movie",
+			"DVD": "09 May 2006",
+			"BoxOffice": "$47,379,090",
+			"Production": "Universal Pictures",
+			"Website": "http://www.munichmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ppoVTy8kAMlNaqIkQIdw.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Carnage\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Carnage",
+			"Year": "2011",
+			"Rated": "R",
+			"Released": "18 Nov 2011",
+			"Runtime": "80 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Roman Polanski",
+			"Writer": "Yasmina Reza (play), Yasmina Reza (screenplay), Roman Polanski (screenplay), Michael Katims (translation)",
+			"Actors": "Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly",
+			"Plot": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
+			"Language": "English",
+			"Country": "France, Germany, Poland, Spain",
+			"Awards": "Nominated for 2 Golden Globes. Another 7 wins & 19 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MjAyMDUwNl5BMl5BanBnXkFtZTcwOTQwMDMwNw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "61/100"
+				}
+			],
+			"Metascore": "61",
+			"imdbRating": "7.2",
+			"imdbVotes": "103,419",
+			"imdbID": "tt1692486",
+			"Type": "movie",
+			"DVD": "20 Mar 2012",
+			"BoxOffice": "$2,200,000",
+			"Production": "Sony Pictures Classics",
+			"Website": "http://www.sonyclassics.com/carnage/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Yp8RyFXOrjBLkg151A0d.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Curious Case of Benjamin Button\\The.Curious.Case.Of.Benjamin.Button.2008.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "The Curious Case of Benjamin Button",
+			"Year": "2008",
+			"Rated": "PG-13",
+			"Released": "25 Dec 2008",
+			"Runtime": "166 min",
+			"Genre": "Drama, Fantasy, Romance",
+			"Director": "David Fincher",
+			"Writer": "Eric Roth (screenplay), Eric Roth (story), Robin Swicord (story), F. Scott Fitzgerald (short story)",
+			"Actors": "Cate Blanchett, Brad Pitt, Julia Ormond, Faune Chambers Watkins",
+			"Plot": "Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.",
+			"Language": "English, Russian, French",
+			"Country": "USA",
+			"Awards": "Won 3 Oscars. Another 77 wins & 155 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ0NTY2ODY2M15BMl5BanBnXkFtZTgwMjE4MzkxMDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "72%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "70/100"
+				}
+			],
+			"Metascore": "70",
+			"imdbRating": "7.8",
+			"imdbVotes": "496,879",
+			"imdbID": "tt0421715",
+			"Type": "movie",
+			"DVD": "05 May 2009",
+			"BoxOffice": "$127,490,802",
+			"Production": "Paramount",
+			"Website": "http://www.BenjaminButton.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\kTRNZr34mByS85GpV7cv.jpg"
 		}
 	},
 	{
@@ -140,91 +1035,71 @@
 			"imdbID": "tt6418972",
 			"Type": "series",
 			"totalSeasons": "N/A",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\99OHSLJ5kviSKfELt5p9.jpg"
 		}
 	},
 	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
+		"path": "D:\\Films\\_Woody Allen\\The Curse of the Jade Scorpion\\The.Curse.of.the.Jade.Scorpion.2001.720p.BluRay.H264.AAC-RARBG.mp4",
 		"omdb": {
-			"Title": "M et le 3eme secret",
-			"Year": "2014",
-			"Rated": "N/A",
-			"Released": "19 Nov 2014",
-			"Runtime": "109 min",
-			"Genre": "Documentary",
-			"Director": "Pierre Barnerias",
-			"Writer": "N/A",
-			"Actors": "François D'Aubigny, André Dussollier, Hélène Ségara",
-			"Plot": "N/A",
-			"Language": "French",
-			"Country": "France",
-			"Awards": "N/A",
-			"Poster": "N/A",
-			"Ratings": [],
-			"Metascore": "N/A",
-			"imdbRating": "N/A",
-			"imdbVotes": "N/A",
-			"imdbID": "tt4204558",
-			"Type": "movie",
-			"DVD": "N/A",
-			"BoxOffice": "N/A",
-			"Production": "N/A",
-			"Website": "N/A",
-			"Response": "True"
-		}
-	},
-	{
-		"path": "D:\\Films\\_Opera\\L'elisir D'amore.mp4",
-		"omdb": {
-			"Title": "L'elisir d'amore",
-			"Year": "1991",
-			"Rated": "N/A",
-			"Released": "11 Nov 1991",
-			"Runtime": "129 min",
-			"Genre": "Comedy, Music",
-			"Director": "Brian Large",
-			"Writer": "Felice Romani (libretto)",
-			"Actors": "Kathleen Battle, Luciano Pavarotti, Juan Pons, Enzo Dara",
-			"Plot": "N/A",
-			"Language": "Italian",
-			"Country": "USA",
-			"Awards": "N/A",
-			"Poster": "http://ia.media-imdb.com/images/M/MV5BMTUyNTYxNjk3MF5BMl5BanBnXkFtZTcwOTQzNDgyMQ@@._V1_SX300.jpg",
+			"Title": "The Curse of the Jade Scorpion",
+			"Year": "2001",
+			"Rated": "PG-13",
+			"Released": "24 Aug 2001",
+			"Runtime": "103 min",
+			"Genre": "Comedy, Crime, Mystery",
+			"Director": "Woody Allen",
+			"Writer": "Woody Allen",
+			"Actors": "John Tormey, John Schuck, Woody Allen, Elizabeth Berkley",
+			"Plot": "An insurance investigator and an efficency expert who hate each other are both hypnotized by a crooked hypnotist with a jade scorpion into stealing jewels.",
+			"Language": "English, French",
+			"Country": "USA, Germany",
+			"Awards": "1 win & 1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzViMTNjNGUtMTQyNy00NTRhLWIzODEtYzJkM2YyNTg3YjMwXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SX300.jpg",
 			"Ratings": [
 				{
 					"Source": "Internet Movie Database",
-					"Value": "8.7/10"
+					"Value": "6.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "45%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "52/100"
 				}
 			],
-			"Metascore": "N/A",
-			"imdbRating": "8.7",
-			"imdbVotes": "53",
-			"imdbID": "tt0260875",
+			"Metascore": "52",
+			"imdbRating": "6.8",
+			"imdbVotes": "33,824",
+			"imdbID": "tt0256524",
 			"Type": "movie",
-			"DVD": "N/A",
-			"BoxOffice": "N/A",
-			"Production": "N/A",
-			"Website": "N/A",
-			"Response": "True"
+			"DVD": "29 Jan 2002",
+			"BoxOffice": "$6,793,998",
+			"Production": "Dreamworks",
+			"Website": "http://www.dreamworks.com/jadescorpion",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pfsk0qLHJxU2nPCWPzFX.jpg"
 		}
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Romero\\Romero.mp4",
+		"path": "D:\\Films\\_Disney\\The Emperor's New Groove\\The Emperor's New Groove_FR.mp4",
 		"omdb": {
-			"Title": "Romero",
-			"Year": "1989",
-			"Rated": "PG-13",
-			"Released": "25 Aug 1989",
-			"Runtime": "102 min",
-			"Genre": "Biography, Crime, Drama",
-			"Director": "John Duigan",
-			"Writer": "John Sacret Young",
-			"Actors": "Raul Julia, Richard Jordan, Ana Alicia, Eddie Velez",
-			"Plot": "The life and work of Archbishop Oscar Romero who opposed, at great personal risk, the tyrannical repression in El Salvador.",
-			"Language": "English, German",
+			"Title": "The Emperor's New Groove",
+			"Year": "2000",
+			"Rated": "G",
+			"Released": "15 Dec 2000",
+			"Runtime": "78 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Mark Dindal",
+			"Writer": "Chris Williams (story by), Mark Dindal (story by), David Reynolds (screenplay by), Stephen J. Anderson (additional story material by), Don Hall (additional story material by), John Norton (additional story material by), Roger Allers (based on an original story by), Matthew Jacobs (based on an original story by), Doug Frankel (additional story), Mark Kennedy (additional story), Mark Walton (additional story)",
+			"Actors": "David Spade, John Goodman, Eartha Kitt, Patrick Warburton",
+			"Plot": "Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.",
+			"Language": "English",
 			"Country": "USA",
-			"Awards": "2 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGFiZmNlMDMtN2EyOC00NGQ1LWIwYzMtN2ZkODQ3OWVjZDIyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+			"Awards": "Nominated for 1 Oscar. Another 7 wins & 26 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1ZDcwY2YtMzRhZi00OTYwLTkzMmYtMGMwN2Y3ZjM1MTM0XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
 			"Ratings": [
 				{
 					"Source": "Internet Movie Database",
@@ -232,19 +1107,332 @@
 				},
 				{
 					"Source": "Rotten Tomatoes",
-					"Value": "75%"
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "70/100"
 				}
 			],
-			"Metascore": "N/A",
+			"Metascore": "70",
 			"imdbRating": "7.3",
-			"imdbVotes": "1,790",
-			"imdbID": "tt0098219",
+			"imdbVotes": "142,631",
+			"imdbID": "tt0120917",
 			"Type": "movie",
-			"DVD": "26 Sep 2000",
+			"DVD": "01 May 2001",
+			"BoxOffice": "$87,320,505",
+			"Production": "Buena Vista Pictures",
+			"Website": "http://disney.go.com/disneypictures/emperorsnewgroove",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HhTymuKofxUIqxLptNIM.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Shutter Island\\Shutter.Island.2010.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Shutter Island",
+			"Year": "2010",
+			"Rated": "R",
+			"Released": "19 Feb 2010",
+			"Runtime": "138 min",
+			"Genre": "Mystery, Thriller",
+			"Director": "Martin Scorsese",
+			"Writer": "Laeta Kalogridis (screenplay), Dennis Lehane (novel)",
+			"Actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow",
+			"Plot": "In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane.",
+			"Language": "English, German",
+			"Country": "USA",
+			"Awards": "9 wins & 62 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2NkNTcxNjAtODhjMS00Mjg2LWI1OGItMjRhMGJlODBkZTVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAxMjE1NDg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "68%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "63/100"
+				}
+			],
+			"Metascore": "63",
+			"imdbRating": "8.1",
+			"imdbVotes": "883,162",
+			"imdbID": "tt1130884",
+			"Type": "movie",
+			"DVD": "08 Jun 2010",
+			"BoxOffice": "$125,001,000",
+			"Production": "Paramount Studios",
+			"Website": "http://www.shutterisland.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lUTcoQaiQ1iAnEXSbKQT.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Inception\\Inception.2010.720p.x264.mkv",
+		"omdb": {
+			"Title": "Inception",
+			"Year": "2010",
+			"Rated": "PG-13",
+			"Released": "16 Jul 2010",
+			"Runtime": "148 min",
+			"Genre": "Action, Adventure, Sci-Fi",
+			"Director": "Christopher Nolan",
+			"Writer": "Christopher Nolan",
+			"Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
+			"Plot": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
+			"Language": "English, Japanese, French",
+			"Country": "USA, UK",
+			"Awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "86%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "8.8",
+			"imdbVotes": "1,636,262",
+			"imdbID": "tt1375666",
+			"Type": "movie",
+			"DVD": "07 Dec 2010",
+			"BoxOffice": "$292,568,851",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://inceptionmovie.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\zH8EfLSQUvtenazWgq2D.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Arrival\\Arrival.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "Arrival",
+			"Year": "2016",
+			"Rated": "PG-13",
+			"Released": "11 Nov 2016",
+			"Runtime": "116 min",
+			"Genre": "Drama, Mystery, Sci-Fi",
+			"Director": "Denis Villeneuve",
+			"Writer": "Eric Heisserer (screenplay by), Ted Chiang (based on the story \"Story of Your Life\" written by)",
+			"Actors": "Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg",
+			"Plot": "When twelve mysterious spacecrafts appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.",
+			"Language": "English, Russian, Mandarin",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 58 wins & 243 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "81/100"
+				}
+			],
+			"Metascore": "81",
+			"imdbRating": "8.0",
+			"imdbVotes": "397,543",
+			"imdbID": "tt2543164",
+			"Type": "movie",
+			"DVD": "14 Feb 2017",
+			"BoxOffice": "$100,501,349",
+			"Production": "21 Laps Entertainment",
+			"Website": "http://www.arrivalmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\09xNidMwKXck86EPNqSC.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Tangled\\Tangled.2010.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Tangled",
+			"Year": "2010",
+			"Rated": "PG",
+			"Released": "24 Nov 2010",
+			"Runtime": "100 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Nathan Greno, Byron Howard",
+			"Writer": "Dan Fogelman (screenplay by), Jacob Grimm (based upon the fairy tale \"Rapunzel\" by), Wilhelm Grimm (based upon the fairy tale \"Rapunzel\" by)",
+			"Actors": "Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman",
+			"Plot": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 9 wins & 40 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "89%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "71/100"
+				}
+			],
+			"Metascore": "71",
+			"imdbRating": "7.8",
+			"imdbVotes": "325,886",
+			"imdbID": "tt0398286",
+			"Type": "movie",
+			"DVD": "29 Mar 2011",
+			"BoxOffice": "$200,803,309",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://Disney.com/Tangled",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\K5DSFLnKUGABx4ZwFpzS.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Pocahontas\\Pocahontas.1995.1080p.BrRip.x264.YIFY_FR.mp4",
+		"omdb": {
+			"Title": "Pocahontas",
+			"Year": "1995",
+			"Rated": "G",
+			"Released": "23 Jun 1995",
+			"Runtime": "81 min",
+			"Genre": "Animation, Adventure, Drama",
+			"Director": "Mike Gabriel, Eric Goldberg",
+			"Writer": "Carl Binder, Susannah Grant, Philip LaZebnik, Glen Keane (story), Joe Grant (story), Ralph Zondag (story), Burny Mattinson (story), Ed Gombert (story), Kaan Kalyon (story), Francis Glebas (story), Rob Gibbs (story), Bruce Morris (story), Todd Kurosawa (story), Duncan Marjoribanks (story), Chris Buck (story), Mike Gabriel (based on an idea by), Andrew Chapman (additional story development), Randy Cartwright (additional story development), Will Finn (additional story development), Broose Johnson (additional story development), T. Daniel Hofstedt (additional story development), David Pruiksma (additional story development), Nik Ranieri (additional story development), Vincent DeFrances (additional story development), Tom Mazzocco (additional story development), Don Dougherty (additional story development), Jorgen Klubien (additional story development)",
+			"Actors": "Joe Baker, Christian Bale, Irene Bedard, Billy Connolly",
+			"Plot": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth-century Virginia.",
+			"Language": "English, Algonquin",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 13 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "57%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "58/100"
+				}
+			],
+			"Metascore": "58",
+			"imdbRating": "6.7",
+			"imdbVotes": "134,768",
+			"imdbID": "tt0114148",
+			"Type": "movie",
+			"DVD": "06 Jun 2000",
 			"BoxOffice": "N/A",
-			"Production": "Four Square",
+			"Production": "Buena Vista Distribution Compa",
 			"Website": "N/A",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3P5gZnZmYPzWbRjt23xC.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\Man of steel\\Man.of.Steel.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Man of Steel",
+			"Year": "2013",
+			"Rated": "PG-13",
+			"Released": "14 Jun 2013",
+			"Runtime": "143 min",
+			"Genre": "Action, Adventure, Fantasy",
+			"Director": "Zack Snyder",
+			"Writer": "David S. Goyer (screenplay), David S. Goyer (story), Christopher Nolan (story), Jerry Siegel (Superman created by), Joe Shuster (Superman created by)",
+			"Actors": "Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",
+			"Plot": "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.",
+			"Language": "English",
+			"Country": "USA, Canada, UK",
+			"Awards": "7 wins & 46 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "55%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "55/100"
+				}
+			],
+			"Metascore": "55",
+			"imdbRating": "7.1",
+			"imdbVotes": "592,964",
+			"imdbID": "tt0770828",
+			"Type": "movie",
+			"DVD": "12 Nov 2013",
+			"BoxOffice": "$291,021,565",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://manofsteel.warnerbros.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\dKu4paQhnTWO6IvutvuM.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Moana\\Moana.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "Moana",
+			"Year": "2016",
+			"Rated": "PG",
+			"Released": "23 Nov 2016",
+			"Runtime": "107 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Ron Clements, John Musker, Don Hall(co-director), Chris Williams(co-director)",
+			"Writer": "Jared Bush (screenplay by), Ron Clements (story by), John Musker (story by), Chris Williams (story by), Don Hall (story by), Pamela Ribon (story by), Aaron Kandell (story by), Jordan Kandell (story by)",
+			"Actors": "Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison",
+			"Plot": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Oscars. Another 16 wins & 79 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "81/100"
+				}
+			],
+			"Metascore": "81",
+			"imdbRating": "7.6",
+			"imdbVotes": "161,930",
+			"imdbID": "tt3521164",
+			"Type": "movie",
+			"DVD": "07 Mar 2017",
+			"BoxOffice": "$248,752,120",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://movies.disney.com/moana",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\39tXo69CUNYZyQrr5jLW.jpg"
 		}
 	},
 	{
@@ -283,93 +1471,1452 @@
 			"BoxOffice": "N/A",
 			"Production": "Warner Bros. Pictures",
 			"Website": "http://www.romanzocriminale.it/",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\gr7pmcQPpd6xcyofajFf.jpg"
 		}
 	},
 	{
-		"path": "D:\\Films\\_Vieux films\\Il Postino\\Il Postino.avi",
+		"path": "D:\\Films\\_Action Aventure\\Hidalgo\\Hidalgo.2004.BluRay.1080p.x264.YIFY.mp4",
 		"omdb": {
-			"Title": "Il Postino",
-			"Year": "1994",
-			"Rated": "PG",
-			"Released": "22 Mar 1996",
-			"Runtime": "108 min",
-			"Genre": "Biography, Comedy, Drama",
-			"Director": "Michael Radford, Massimo Troisi",
-			"Writer": "Antonio Skármeta (novel), Furio Scarpelli (story), Giacomo Scarpelli (story), Anna Pavignano (screenplay), Michael Radford (screenplay), Furio Scarpelli (screenplay), Giacomo Scarpelli (screenplay), Massimo Troisi (screenplay)",
-			"Actors": "Philippe Noiret, Massimo Troisi, Maria Grazia Cucinotta, Renato Scarpa",
-			"Plot": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
-			"Language": "Italian, Spanish",
-			"Country": "Italy, France, Belgium",
-			"Awards": "Won 1 Oscar. Another 29 wins & 17 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWZmNjkzOGItNmI4ZS00MDQ1LThhMzQtOTI3MThjOTI4Njg2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg",
+			"Title": "Hidalgo",
+			"Year": "2004",
+			"Rated": "PG-13",
+			"Released": "05 Mar 2004",
+			"Runtime": "136 min",
+			"Genre": "Action, Adventure, Biography",
+			"Director": "Joe Johnston",
+			"Writer": "John Fusco",
+			"Actors": "Viggo Mortensen, Zuleikha Robinson, Omar Sharif, Louise Lombard",
+			"Plot": "In 1890, a down-and-out cowboy and his horse travel to Arabia to compete in a deadly cross desert horse race.",
+			"Language": "English, Arabic, Sioux",
+			"Country": "USA, Morocco",
+			"Awards": "1 win & 2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyNjg5MjcxMl5BMl5BanBnXkFtZTcwNDQxMzQyMQ@@._V1_SX300.jpg",
 			"Ratings": [
 				{
 					"Source": "Internet Movie Database",
-					"Value": "7.7/10"
+					"Value": "6.7/10"
 				},
 				{
 					"Source": "Rotten Tomatoes",
-					"Value": "93%"
+					"Value": "47%"
 				},
 				{
 					"Source": "Metacritic",
-					"Value": "81/100"
+					"Value": "54/100"
 				}
 			],
-			"Metascore": "81",
-			"imdbRating": "7.7",
-			"imdbVotes": "28,100",
-			"imdbID": "tt0110877",
+			"Metascore": "54",
+			"imdbRating": "6.7",
+			"imdbVotes": "70,705",
+			"imdbID": "tt0317648",
 			"Type": "movie",
-			"DVD": "14 Mar 2000",
-			"BoxOffice": "N/A",
-			"Production": "Penta Film",
-			"Website": "N/A",
-			"Response": "True"
+			"DVD": "03 Aug 2004",
+			"BoxOffice": "$67,249,474",
+			"Production": "Buena Vista Pictures",
+			"Website": "http://www.disney.com/hidalgo",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VtnLaPwEKCuZtPWLUWQN.jpg"
 		}
 	},
 	{
-		"path": "D:\\Films\\Forrest Gump\\Forrest Gump.avi",
+		"path": "D:\\Films\\_Woody Allen\\Manhattan\\Manhattan.1979.720p.BluRay.H264.AAC-RARBG.mp4",
 		"omdb": {
-			"Title": "Forrest Gump",
-			"Year": "1994",
-			"Rated": "PG-13",
-			"Released": "06 Jul 1994",
-			"Runtime": "142 min",
+			"Title": "Manhattan",
+			"Year": "1979",
+			"Rated": "R",
+			"Released": "25 Apr 1979",
+			"Runtime": "96 min",
 			"Genre": "Comedy, Drama, Romance",
-			"Director": "Robert Zemeckis",
-			"Writer": "Winston Groom (novel), Eric Roth (screenplay)",
-			"Actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
-			"Plot": "JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+			"Director": "Woody Allen",
+			"Writer": "Woody Allen, Marshall Brickman",
+			"Actors": "Woody Allen, Diane Keaton, Michael Murphy, Mariel Hemingway",
+			"Plot": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
 			"Language": "English",
 			"Country": "USA",
-			"Awards": "Won 6 Oscars. Another 39 wins & 66 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Awards": "Nominated for 2 Oscars. Another 15 wins & 21 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzdmY2I3MmEtOGFiZi00MTg1LWIxY2QtNWUwM2NmNWNlY2U5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
 			"Ratings": [
 				{
 					"Source": "Internet Movie Database",
-					"Value": "8.8/10"
+					"Value": "8.0/10"
 				},
 				{
 					"Source": "Rotten Tomatoes",
-					"Value": "71%"
+					"Value": "96%"
 				},
 				{
 					"Source": "Metacritic",
-					"Value": "82/100"
+					"Value": "83/100"
 				}
 			],
-			"Metascore": "82",
-			"imdbRating": "8.8",
-			"imdbVotes": "1,406,942",
-			"imdbID": "tt0109830",
+			"Metascore": "83",
+			"imdbRating": "8.0",
+			"imdbVotes": "113,460",
+			"imdbID": "tt0079522",
 			"Type": "movie",
-			"DVD": "28 Aug 2001",
-			"BoxOffice": "$405,000",
+			"DVD": "04 Jul 2000",
+			"BoxOffice": "N/A",
+			"Production": "United Artists",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iLWRiyaIeSxGjvmFbqpt.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\5 - Harry Potter and the Order of the Phoenix\\Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Harry Potter and the Order of the Phoenix",
+			"Year": "2007",
+			"Rated": "PG-13",
+			"Released": "11 Jul 2007",
+			"Runtime": "138 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "David Yates",
+			"Writer": "Michael Goldenberg (screenplay), J.K. Rowling (novel)",
+			"Actors": "Daniel Radcliffe, Harry Melling, Jason Boyd, Richard Macklin",
+			"Plot": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+			"Language": "English",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 2 BAFTA Film Awards. Another 14 wins & 40 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "78%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "71/100"
+				}
+			],
+			"Metascore": "71",
+			"imdbRating": "7.5",
+			"imdbVotes": "399,002",
+			"imdbID": "tt0373889",
+			"Type": "movie",
+			"DVD": "11 Nov 2007",
+			"BoxOffice": "$291,980,108",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.harrypotterorderofthephoenix.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\24XXroqwuVaXI6PLImVI.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\Jane Eyre\\Jane.Eyre.2011.720p.BrRip.X264.YIFY.mp4",
+		"omdb": {
+			"Title": "Jane Eyre",
+			"Year": "2011",
+			"Rated": "PG-13",
+			"Released": "22 Apr 2011",
+			"Runtime": "120 min",
+			"Genre": "Drama, Romance",
+			"Director": "Cary Fukunaga",
+			"Writer": "Charlotte Brontë (novel), Moira Buffini (screenplay)",
+			"Actors": "Mia Wasikowska, Jamie Bell, Su Elliot, Holliday Grainger",
+			"Plot": "A mousy governess who softens the heart of her employer soon discovers that he's hiding a terrible secret.",
+			"Language": "English, French",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 1 Oscar. Another 10 wins & 14 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "84%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "76/100"
+				}
+			],
+			"Metascore": "76",
+			"imdbRating": "7.4",
+			"imdbVotes": "69,094",
+			"imdbID": "tt1229822",
+			"Type": "movie",
+			"DVD": "16 Aug 2011",
+			"BoxOffice": "N/A",
+			"Production": "Focus Features",
+			"Website": "http://www.JaneEyretheMovie.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9xorOwlURABXkli2Zrjk.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Leger sympa\\The Devil wears Prada\\The.Devil.Wears.Prada.2006.720p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Devil Wears Prada",
+			"Year": "2006",
+			"Rated": "PG-13",
+			"Released": "30 Jun 2006",
+			"Runtime": "109 min",
+			"Genre": "Comedy, Drama",
+			"Director": "David Frankel",
+			"Writer": "Aline Brosh McKenna (screenplay), Lauren Weisberger (novel)",
+			"Actors": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci",
+			"Plot": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+			"Language": "English, French",
+			"Country": "USA, France",
+			"Awards": "Nominated for 2 Oscars. Another 16 wins & 50 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNjk4Njc3NV5BMl5BanBnXkFtZTcwNDkyMTEzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "75%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "62/100"
+				}
+			],
+			"Metascore": "62",
+			"imdbRating": "6.8",
+			"imdbVotes": "308,430",
+			"imdbID": "tt0458352",
+			"Type": "movie",
+			"DVD": "12 Dec 2006",
+			"BoxOffice": "$124,700,000",
+			"Production": "20th Century Fox",
+			"Website": "http://www.devilwearspradamovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eQdTUeJ4oW5WCJHUnT6i.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Her\\Her.2013.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Her",
+			"Year": "2013",
+			"Rated": "R",
+			"Released": "10 Jan 2014",
+			"Runtime": "126 min",
+			"Genre": "Drama, Romance, Sci-Fi",
+			"Director": "Spike Jonze",
+			"Writer": "Spike Jonze",
+			"Actors": "Joaquin Phoenix, Lynn Adrianna, Lisa Renee Pitts, Gabe Gomez",
+			"Plot": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 82 wins & 181 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "90/100"
+				}
+			],
+			"Metascore": "90",
+			"imdbRating": "8.0",
+			"imdbVotes": "407,767",
+			"imdbID": "tt1798709",
+			"Type": "movie",
+			"DVD": "13 May 2014",
+			"BoxOffice": "$17,901,029",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.herthemovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nZgOnbFDGac8F0o3sl8S.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\Batman begins\\Batman.Begins.2005.1080p.BluRay.x264.YIFY_FR.mp4",
+		"omdb": {
+			"Title": "Batman Begins",
+			"Year": "2005",
+			"Rated": "PG-13",
+			"Released": "15 Jun 2005",
+			"Runtime": "152 min",
+			"Genre": "Action, Adventure, Thriller",
+			"Director": "Christopher Nolan",
+			"Writer": "Bob Kane (characters), David S. Goyer (story), Christopher Nolan (screenplay), David S. Goyer (screenplay)",
+			"Actors": "Christian Bale, Michael Caine, Liam Neeson, Katie Holmes",
+			"Plot": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.",
+			"Language": "English, Urdu, Mandarin",
+			"Country": "USA, UK",
+			"Awards": "Nominated for 1 Oscar. Another 14 wins & 71 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "84%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "70/100"
+				}
+			],
+			"Metascore": "70",
+			"imdbRating": "8.3",
+			"imdbVotes": "1,079,730",
+			"imdbID": "tt0372784",
+			"Type": "movie",
+			"DVD": "18 Oct 2005",
+			"BoxOffice": "$204,100,000",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.batmanbegins.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\21Vyjw02mHQp82el9rQ3.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Pianist\\The.Pianist.2002.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Pianist",
+			"Year": "2002",
+			"Rated": "R",
+			"Released": "28 Mar 2003",
+			"Runtime": "150 min",
+			"Genre": "Biography, Drama, Music",
+			"Director": "Roman Polanski",
+			"Writer": "Ronald Harwood (screenplay), Wladyslaw Szpilman (book)",
+			"Actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard",
+			"Plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+			"Language": "English, German, Russian",
+			"Country": "France, Poland, Germany, UK",
+			"Awards": "Won 3 Oscars. Another 52 wins & 73 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "85/100"
+				}
+			],
+			"Metascore": "85",
+			"imdbRating": "8.5",
+			"imdbVotes": "560,136",
+			"imdbID": "tt0253474",
+			"Type": "movie",
+			"DVD": "27 May 2003",
+			"BoxOffice": "$32,519,322",
+			"Production": "Focus Features",
+			"Website": "http://www.thepianistmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TRO3LczeZdBYJLkoJUSu.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Taken\\Taken.2008.1080pBrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Taken",
+			"Year": "2008",
+			"Rated": "PG-13",
+			"Released": "30 Jan 2009",
+			"Runtime": "93 min",
+			"Genre": "Action, Crime, Thriller",
+			"Director": "Pierre Morel",
+			"Writer": "Luc Besson, Robert Mark Kamen",
+			"Actors": "Liam Neeson, Maggie Grace, Leland Orser, Jon Gries",
+			"Plot": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+			"Language": "English, French, Albanian, Arabic",
+			"Country": "France",
+			"Awards": "2 wins & 2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NzQ0OTYyOF5BMl5BanBnXkFtZTcwMDkyNjQyMg@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "58%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "50/100"
+				}
+			],
+			"Metascore": "50",
+			"imdbRating": "7.8",
+			"imdbVotes": "510,548",
+			"imdbID": "tt0936501",
+			"Type": "movie",
+			"DVD": "12 May 2009",
+			"BoxOffice": "$144,924,285",
+			"Production": "20th Century Fox",
+			"Website": "http://www.takenmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pF48DiHDjFqIrCUnlkBB.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Slumdog Millionaire\\Slumdog.Millionaire.2008.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Slumdog Millionaire",
+			"Year": "2008",
+			"Rated": "R",
+			"Released": "25 Dec 2008",
+			"Runtime": "120 min",
+			"Genre": "Drama",
+			"Director": "Danny Boyle, Loveleen Tandan(co-director)",
+			"Writer": "Simon Beaufoy (screenplay), Vikas Swarup (novel)",
+			"Actors": "Dev Patel, Saurabh Shukla, Anil Kapoor, Raj Zutshi",
+			"Plot": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\"",
+			"Language": "English, Hindi, French",
+			"Country": "UK, France, USA",
+			"Awards": "Won 8 Oscars. Another 144 wins & 126 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "86/100"
+				}
+			],
+			"Metascore": "86",
+			"imdbRating": "8.0",
+			"imdbVotes": "692,662",
+			"imdbID": "tt1010048",
+			"Type": "movie",
+			"DVD": "31 Mar 2009",
+			"BoxOffice": "$141,243,551",
+			"Production": "Fox Searchlight Pictures",
+			"Website": "http://www.foxsearchlight.com/slumdogmillionaire/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SF8UBghgVJSJO9iZOjZ7.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Out of Africa\\Out.of.Africa.1985.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Out of Africa",
+			"Year": "1985",
+			"Rated": "PG",
+			"Released": "20 Dec 1985",
+			"Runtime": "161 min",
+			"Genre": "Biography, Drama, Romance",
+			"Director": "Sydney Pollack",
+			"Writer": "Karen Blixen (based upon: \"Out of Africa\" and other writings), Judith Thurman (book), Errol Trzebinski (book), Kurt Luedtke (screenplay)",
+			"Actors": "Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",
+			"Plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+			"Language": "English, Swahili",
+			"Country": "USA, UK",
+			"Awards": "Won 7 Oscars. Another 23 wins & 27 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjg0ODYyMjk0MV5BMl5BanBnXkFtZTgwNzc2OTgzMTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "56%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.2",
+			"imdbVotes": "57,588",
+			"imdbID": "tt0089755",
+			"Type": "movie",
+			"DVD": "29 Jan 2002",
+			"BoxOffice": "N/A",
+			"Production": "Universal Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\u0C7JAiDcrGkFMM1BmJD.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Woody Allen\\Magic in the Moonlight\\Magic.in.the.Moonlight.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Magic in the Moonlight",
+			"Year": "2014",
+			"Rated": "PG-13",
+			"Released": "15 Aug 2014",
+			"Runtime": "97 min",
+			"Genre": "Comedy, Romance",
+			"Director": "Woody Allen",
+			"Writer": "Woody Allen",
+			"Actors": "Colin Firth, Antonia Clarke, Natasha Andrews, Valérie Beaulieu",
+			"Plot": "A romantic comedy about an Englishman brought in to help unmask a possible swindle. Personal and professional complications ensue.",
+			"Language": "English, French",
+			"Country": "USA, UK",
+			"Awards": "1 win & 1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NDY5NjIwN15BMl5BanBnXkFtZTgwNjQ2ODkxMjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "51%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "54/100"
+				}
+			],
+			"Metascore": "54",
+			"imdbRating": "6.6",
+			"imdbVotes": "53,488",
+			"imdbID": "tt2870756",
+			"Type": "movie",
+			"DVD": "16 Dec 2014",
+			"BoxOffice": "N/A",
+			"Production": "Sony Pictures Classics",
+			"Website": "http://sonyclassics.com/magicinthemoonlight/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SNDMe6Yp8OUHXgAaRXUi.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\2 - Harry Potter and the Chamber of Secrets\\Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Harry Potter and the Chamber of Secrets",
+			"Year": "2002",
+			"Rated": "PG",
+			"Released": "15 Nov 2002",
+			"Runtime": "161 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Chris Columbus",
+			"Writer": "J.K. Rowling (novel), Steve Kloves (screenplay)",
+			"Actors": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Griffiths",
+			"Plot": "Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.",
+			"Language": "English",
+			"Country": "UK, USA, Germany",
+			"Awards": "Nominated for 3 BAFTA Film Awards. Another 11 wins & 42 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "82%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "63/100"
+				}
+			],
+			"Metascore": "63",
+			"imdbRating": "7.4",
+			"imdbVotes": "434,310",
+			"imdbID": "tt0295297",
+			"Type": "movie",
+			"DVD": "11 Apr 2003",
+			"BoxOffice": "$261,835,892",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://harrypotter.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6LbxgpVe9klLWpfp3ukv.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The secret life of Walter Mitty\\The.Secret.Life.of.Walter.Mitty.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Secret Life of Walter Mitty",
+			"Year": "2013",
+			"Rated": "PG",
+			"Released": "25 Dec 2013",
+			"Runtime": "114 min",
+			"Genre": "Adventure, Comedy, Drama",
+			"Director": "Ben Stiller",
+			"Writer": "Steve Conrad (screenplay by), Steve Conrad (screen story by), James Thurber (based on the short story by)",
+			"Actors": "Ben Stiller, Kristen Wiig, Jon Daly, Kathryn Hahn",
+			"Plot": "When his job along with that of his co-worker are threatened, Walter takes action in the real world embarking on a global journey that turns into an adventure more extraordinary than anything he could have ever imagined.",
+			"Language": "English, Spanish, Icelandic",
+			"Country": "USA, UK",
+			"Awards": "5 wins & 18 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "50%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "54/100"
+				}
+			],
+			"Metascore": "54",
+			"imdbRating": "7.3",
+			"imdbVotes": "255,473",
+			"imdbID": "tt0359950",
+			"Type": "movie",
+			"DVD": "15 Apr 2014",
+			"BoxOffice": "$33,223,430",
+			"Production": "20th Century Fox",
+			"Website": "http://WalterMitty.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2FRgPgZs8zqbDFTe7Np1.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Drunken Master\\The.Legend.Of.Drunken.Master.1994.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "The Legend of Drunken Master",
+			"Year": "1994",
+			"Rated": "R",
+			"Released": "20 Oct 2000",
+			"Runtime": "102 min",
+			"Genre": "Action, Comedy",
+			"Director": "Chia-Liang Liu",
+			"Writer": "Edward Tang (screenplay), Man-Ming Tong (screenplay), Kai-Chi Yuen (screenplay), Rod Dean (english adaptation)",
+			"Actors": "Jackie Chan, Lung Ti, Anita Mui, Felix Wong",
+			"Plot": "A young martial artist is caught between respecting his pacifist father's wishes or stopping a group of disrespectful foreigners from stealing precious artifacts.",
+			"Language": "Cantonese",
+			"Country": "Hong Kong",
+			"Awards": "3 wins & 1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmRiZTZiMWEtZGVlNS00YzU1LTkxZjYtODNiMDEyYTIxYjA0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "83%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.6",
+			"imdbVotes": "37,267",
+			"imdbID": "tt0111512",
+			"Type": "movie",
+			"DVD": "20 Mar 2001",
+			"BoxOffice": "N/A",
+			"Production": "Dimension Films",
+			"Website": "http://www.dimensionfilms.com/mm_front/owa/dim_movie_page.entryPoint?midStr=1422",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Tvn4OJSsf7EfAFrFiZAA.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Lawrence of Arabia\\Lawrence.of.Arabia.(1962).720p.BrRip.YIFY.mkv",
+		"omdb": {
+			"Title": "Lawrence of Arabia",
+			"Year": "1962",
+			"Rated": "PG",
+			"Released": "11 Dec 1962",
+			"Runtime": "216 min",
+			"Genre": "Adventure, Biography, Drama",
+			"Director": "David Lean",
+			"Writer": "T.E. Lawrence (writings), Robert Bolt (screenplay), Michael Wilson (screenplay)",
+			"Actors": "Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins",
+			"Plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+			"Language": "English, Arabic, Turkish",
+			"Country": "UK, USA",
+			"Awards": "Won 7 Oscars. Another 23 wins & 14 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "100/100"
+				}
+			],
+			"Metascore": "100",
+			"imdbRating": "8.3",
+			"imdbVotes": "213,352",
+			"imdbID": "tt0056172",
+			"Type": "movie",
+			"DVD": "03 Apr 2001",
+			"BoxOffice": "N/A",
+			"Production": "Columbia Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\X9NzbRZnTxbWTgZaI3tY.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Up\\Up.2009.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Up",
+			"Year": "2009",
+			"Rated": "PG",
+			"Released": "29 May 2009",
+			"Runtime": "96 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Pete Docter, Bob Peterson(co-director)",
+			"Writer": "Pete Docter (story by), Bob Peterson (story by), Tom McCarthy (story by), Bob Peterson (screenplay by), Pete Docter (screenplay by)",
+			"Actors": "Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson",
+			"Plot": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 74 wins & 81 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "88/100"
+				}
+			],
+			"Metascore": "88",
+			"imdbRating": "8.3",
+			"imdbVotes": "747,473",
+			"imdbID": "tt1049413",
+			"Type": "movie",
+			"DVD": "10 Nov 2009",
+			"BoxOffice": "$292,979,556",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://Disney.com/UP",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bK0OvD6XrRnOYaVVz9O8.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Entrapment\\Entrapment.1999.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Entrapment",
+			"Year": "1999",
+			"Rated": "PG-13",
+			"Released": "30 Apr 1999",
+			"Runtime": "113 min",
+			"Genre": "Action, Crime, Romance",
+			"Director": "Jon Amiel",
+			"Writer": "Ronald Bass (story), Michael Hertzberg (story), Ronald Bass (screenplay), William Broyles Jr. (screenplay)",
+			"Actors": "Sean Connery, Catherine Zeta-Jones, Ving Rhames, Will Patton",
+			"Plot": "An insurance agent is sent by her employer to track down and help capture an art thief.",
+			"Language": "English",
+			"Country": "USA, UK, Germany",
+			"Awards": "4 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODgyMmE3YWQtNDE4Yy00ODExLThmNDUtYmM4ZTk2ZTVjNDEzL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "38%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "54/100"
+				}
+			],
+			"Metascore": "54",
+			"imdbRating": "6.3",
+			"imdbVotes": "93,610",
+			"imdbID": "tt0137494",
+			"Type": "movie",
+			"DVD": "23 Nov 1999",
+			"BoxOffice": "N/A",
+			"Production": "Twentieth Century Fox Home Entertainment",
+			"Website": "http://www.foxmovies.com/entrapmentcs.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\8cfle6SMpgZ4e8LMCAYB.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Hook\\Hook.1991.1080p.BRrip.x264.YIFY_FR.mp4",
+		"omdb": {
+			"Title": "Hook",
+			"Year": "1991",
+			"Rated": "PG",
+			"Released": "11 Dec 1991",
+			"Runtime": "142 min",
+			"Genre": "Adventure, Comedy, Family",
+			"Director": "Steven Spielberg",
+			"Writer": "J.M. Barrie (books), J.M. Barrie (play), James V. Hart (screen story), Nick Castle (screen story), James V. Hart (screenplay), Malia Scotch Marmo (screenplay)",
+			"Actors": "Dustin Hoffman, Robin Williams, Julia Roberts, Bob Hoskins",
+			"Plot": "When Captain Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 5 Oscars. Another 5 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmJjNTQzMjctMmE2NS00ZmYxLWE1NjYtYmRmNjNiMzljOTc3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "29%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "52/100"
+				}
+			],
+			"Metascore": "52",
+			"imdbRating": "6.7",
+			"imdbVotes": "196,886",
+			"imdbID": "tt0102057",
+			"Type": "movie",
+			"DVD": "21 Mar 2000",
+			"BoxOffice": "N/A",
+			"Production": "TriStar Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\tggYeOKZE3pQoGgKEwFF.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Tim Burton\\Edward Scissorhands\\Edward.Scissorhands.1990.720p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Edward Scissorhands",
+			"Year": "1990",
+			"Rated": "PG-13",
+			"Released": "14 Dec 1990",
+			"Runtime": "105 min",
+			"Genre": "Drama, Fantasy, Romance",
+			"Director": "Tim Burton",
+			"Writer": "Tim Burton (story), Caroline Thompson (story), Caroline Thompson (screenplay)",
+			"Actors": "Johnny Depp, Winona Ryder, Dianne Wiest, Anthony Michael Hall",
+			"Plot": "A gentle man, with scissors for hands, is brought into a new community after living in isolation.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 6 wins & 15 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTYyZWJjMGUtNGJiYy00ZWJhLWEwZTMtMmYyMzRhOTJmZGVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "89%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.9",
+			"imdbVotes": "385,382",
+			"imdbID": "tt0099487",
+			"Type": "movie",
+			"DVD": "18 Dec 2001",
+			"BoxOffice": "N/A",
+			"Production": "20th Century Fox",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9OlJscx5WetG9sS03SGa.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Tarzan\\Tarzan.1999.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Tarzan",
+			"Year": "1999",
+			"Rated": "G",
+			"Released": "18 Jun 1999",
+			"Runtime": "88 min",
+			"Genre": "Animation, Adventure, Family",
+			"Director": "Chris Buck, Kevin Lima",
+			"Writer": "Tab Murphy (screenplay), Bob Tzudiker (screenplay), Noni White (screenplay), Stephen J. Anderson (story), Mark Kennedy (story), Carole Holliday (story), Gaëtan Brizzi (story), Paul Brizzi (story), Don Dougherty (story), Ed Gombert (story), Randy Haycock (story), Don Hall (story), Kevin Harkey (story), Glen Keane (story), Burny Mattinson (story), Frank Nissen (story), John Norton (story), Jeff Snow (story), Michael Surrey (story), Chris Ure (story), Mark Walton (story), Stevie Wermers (story), Kelly Wightman (story), John Ramirez (story), Edgar Rice Burroughs (story \"Tarzan of the Apes\")",
+			"Actors": "Brian Blessed, Glenn Close, Minnie Driver, Tony Goldwyn",
+			"Plot": "A man raised by gorillas must decide where he really belongs when he discovers he is a human.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 10 wins & 23 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2ZiYWUxN2ItYmQxZi00NDlkLWE2NDAtOTNmYTg1MDI0NDk1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "88%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "79/100"
+				}
+			],
+			"Metascore": "79",
+			"imdbRating": "7.2",
+			"imdbVotes": "161,667",
+			"imdbID": "tt0120855",
+			"Type": "movie",
+			"DVD": "01 Jan 2000",
+			"BoxOffice": "N/A",
+			"Production": "Buena Vista Pictures",
+			"Website": "http://www.tarzanlordlajungle.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZQjUuz6LMeISc0xjvWLr.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Hobbit\\The Hobbit - The Desolation of Smaug\\The.Hobbit.The.Desolation.of.Smaug.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Hobbit: The Desolation of Smaug",
+			"Year": "2013",
+			"Rated": "PG-13",
+			"Released": "13 Dec 2013",
+			"Runtime": "161 min",
+			"Genre": "Adventure, Fantasy",
+			"Director": "Peter Jackson",
+			"Writer": "Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay), Guillermo del Toro (screenplay), J.R.R. Tolkien (novel)",
+			"Actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
+			"Plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+			"Language": "English",
+			"Country": "USA, New Zealand",
+			"Awards": "Nominated for 3 Oscars. Another 16 wins & 86 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "75%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "66/100"
+				}
+			],
+			"Metascore": "66",
+			"imdbRating": "7.9",
+			"imdbVotes": "525,029",
+			"imdbID": "tt1170358",
+			"Type": "movie",
+			"DVD": "08 Apr 2014",
+			"BoxOffice": "$180,443,783",
+			"Production": "Warner Bros.",
+			"Website": "http://www.thehobbit.com/index.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6Yzlh8kNDp4IwZGTOODo.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Religion\\The Shack\\The.Shack.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "The Shack",
+			"Year": "2017",
+			"Rated": "PG-13",
+			"Released": "03 Mar 2017",
+			"Runtime": "132 min",
+			"Genre": "Drama, Fantasy",
+			"Director": "Stuart Hazeldine",
+			"Writer": "John Fusco (screenplay by), Andrew Lanham (screenplay by), Destin Daniel Cretton (screenplay by), William P. Young (based on the book by), Wayne Jacobsen (in collaboration with), Brad Cummings (in collaboration with)",
+			"Actors": "Sam Worthington, Octavia Spencer, Tim McGraw, Radha Mitchell",
+			"Plot": "A grieving man receives a mysterious, personal invitation to meet with God at a place called \"The Shack.\"",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MDMxNzcxNl5BMl5BanBnXkFtZTgwODc4MzkwOTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "20%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "32/100"
+				}
+			],
+			"Metascore": "32",
+			"imdbRating": "6.3",
+			"imdbVotes": "16,912",
+			"imdbID": "tt2872518",
+			"Type": "movie",
+			"DVD": "30 May 2017",
+			"BoxOffice": "$57,330,873",
+			"Production": "Lionsgate",
+			"Website": "http://www.theshack.movie/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XWP6z4uiVpi8PY3cxrCr.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Historique\\12 Years a Slave\\12.Years.a.Slave.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "12 Years a Slave",
+			"Year": "2013",
+			"Rated": "R",
+			"Released": "08 Nov 2013",
+			"Runtime": "134 min",
+			"Genre": "Biography, Drama, History",
+			"Director": "Steve McQueen",
+			"Writer": "John Ridley (screenplay by), Solomon Northup (based on \"Twelve Years a Slave\" by)",
+			"Actors": "Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt",
+			"Plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+			"Language": "English",
+			"Country": "USA, UK",
+			"Awards": "Won 3 Oscars. Another 235 wins & 326 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "96/100"
+				}
+			],
+			"Metascore": "96",
+			"imdbRating": "8.1",
+			"imdbVotes": "507,515",
+			"imdbID": "tt2024544",
+			"Type": "movie",
+			"DVD": "04 Mar 2014",
+			"BoxOffice": "$50,628,650",
+			"Production": "Fox Searchlight",
+			"Website": "http://www.foxsearchlight.com/12yearsaslave/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\W39TtAc6vk9oOAve96rS.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Ratatouille\\Ratatouille.2007.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Ratatouille",
+			"Year": "2007",
+			"Rated": "G",
+			"Released": "29 Jun 2007",
+			"Runtime": "111 min",
+			"Genre": "Animation, Comedy, Family",
+			"Director": "Brad Bird, Jan Pinkava(co-director)",
+			"Writer": "Brad Bird (screenwriter), Jan Pinkava (original story by), Jim Capobianco (original story by), Brad Bird (original story by)",
+			"Actors": "Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy",
+			"Plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
+			"Language": "English, French",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 64 wins & 42 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "96/100"
+				}
+			],
+			"Metascore": "96",
+			"imdbRating": "8.0",
+			"imdbVotes": "516,734",
+			"imdbID": "tt0382932",
+			"Type": "movie",
+			"DVD": "06 Nov 2007",
+			"BoxOffice": "$112,408,657",
+			"Production": "Disney/Pixar",
+			"Website": "http://www.ratatouille.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Q8qQeoObLvWslGKDbFQt.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Woody Allen\\Small Time Crooks\\Small.Time.Crooks.2000.720p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Small Time Crooks",
+			"Year": "2000",
+			"Rated": "PG",
+			"Released": "19 May 2000",
+			"Runtime": "94 min",
+			"Genre": "Comedy, Crime",
+			"Director": "Woody Allen",
+			"Writer": "Woody Allen",
+			"Actors": "Woody Allen, Carolyn Saxon, Tracey Ullman, Michael Rapaport",
+			"Plot": "A loser of a crook and his wife strike it rich when a botched bank job's cover business becomes a spectacular success.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Golden Globe. Another 1 win & 3 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTA2NTBiMzEtMDA2My00YWNhLWJjMjAtYTUyMzMwNjM0Mjk2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "67%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "69/100"
+				}
+			],
+			"Metascore": "69",
+			"imdbRating": "6.7",
+			"imdbVotes": "32,931",
+			"imdbID": "tt0196216",
+			"Type": "movie",
+			"DVD": "19 Dec 2000",
+			"BoxOffice": "N/A",
+			"Production": "DreamWorks SKG",
+			"Website": "http://www.amazon.com/smalltimecrooks",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\LbHcsdb6igxYvhrgDqjq.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Inside out\\Inside.Out.2015.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Inside Out",
+			"Year": "2015",
+			"Rated": "PG",
+			"Released": "19 Jun 2015",
+			"Runtime": "95 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Pete Docter, Ronnie Del Carmen(co-director)",
+			"Writer": "Pete Docter (original story by), Ronnie Del Carmen (original story by), Pete Docter (screenplay by), Meg LeFauve (screenplay by), Josh Cooley (screenplay by), Michael Arndt (additional story material by), Bill Hader (additional dialogue by), Amy Poehler (additional dialogue by), Simon Rich (additional story material by)",
+			"Actors": "Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader",
+			"Plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 94 wins & 112 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "94/100"
+				}
+			],
+			"Metascore": "94",
+			"imdbRating": "8.2",
+			"imdbVotes": "442,298",
+			"imdbID": "tt2096673",
+			"Type": "movie",
+			"DVD": "03 Nov 2015",
+			"BoxOffice": "$264,317,903",
+			"Production": "Disney/Pixar",
+			"Website": "https://www.facebook.com/PixarInsideOut",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\RfzhkN11c75LhmOxCBjG.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Bollywood\\Bend it like Beckham\\Bend.It.Like.Beckham.2002.1080p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "Bend It Like Beckham",
+			"Year": "2002",
+			"Rated": "PG-13",
+			"Released": "01 Aug 2003",
+			"Runtime": "112 min",
+			"Genre": "Comedy, Drama, Romance",
+			"Director": "Gurinder Chadha",
+			"Writer": "Gurinder Chadha, Guljit Bindra, Paul Mayeda Berges",
+			"Actors": "Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers, Anupam Kher",
+			"Plot": "The daughter of orthodox Sikh rebels against her parents' traditionalism and joins a football team.",
+			"Language": "English, Panjabi, Hindi, German",
+			"Country": "UK, Germany, USA",
+			"Awards": "Nominated for 1 Golden Globe. Another 17 wins & 19 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1Njk5NjczM15BMl5BanBnXkFtZTYwNjc2NTQ3._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "66/100"
+				}
+			],
+			"Metascore": "66",
+			"imdbRating": "6.7",
+			"imdbVotes": "94,481",
+			"imdbID": "tt0286499",
+			"Type": "movie",
+			"DVD": "30 Sep 2003",
+			"BoxOffice": "$32,441,165",
+			"Production": "Fox Searchlight Pictures",
+			"Website": "http://www.foxsearchlight.com/benditlikebeckham",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YIpPiy19G3nsvckPuz4W.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Romero\\Romero.mp4",
+		"omdb": {
+			"Title": "Romero",
+			"Year": "1989",
+			"Rated": "PG-13",
+			"Released": "25 Aug 1989",
+			"Runtime": "102 min",
+			"Genre": "Biography, Crime, Drama",
+			"Director": "John Duigan",
+			"Writer": "John Sacret Young",
+			"Actors": "Raul Julia, Richard Jordan, Ana Alicia, Eddie Velez",
+			"Plot": "The life and work of Archbishop Oscar Romero who opposed, at great personal risk, the tyrannical repression in El Salvador.",
+			"Language": "English, German",
+			"Country": "USA",
+			"Awards": "2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGFiZmNlMDMtN2EyOC00NGQ1LWIwYzMtN2ZkODQ3OWVjZDIyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "75%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.3",
+			"imdbVotes": "1,790",
+			"imdbID": "tt0098219",
+			"Type": "movie",
+			"DVD": "26 Sep 2000",
+			"BoxOffice": "N/A",
+			"Production": "Four Square",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\FH4MK6ldRucIRpkVFTs5.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Monsters Inc\\Monsters.Inc.2001.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Monsters, Inc.",
+			"Year": "2001",
+			"Rated": "G",
+			"Released": "02 Nov 2001",
+			"Runtime": "92 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Pete Docter, David Silverman(co-director), Lee Unkrich(co-director)",
+			"Writer": "Pete Docter (original story by), Jill Culton (original story by), Jeff Pidgeon (original story by), Ralph Eggleston (original story by), Andrew Stanton (screenplay by), Daniel Gerson (screenplay by)",
+			"Actors": "John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi",
+			"Plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 13 wins & 38 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "78/100"
+				}
+			],
+			"Metascore": "78",
+			"imdbRating": "8.1",
+			"imdbVotes": "655,992",
+			"imdbID": "tt0198781",
+			"Type": "movie",
+			"DVD": "19 Feb 2013",
+			"BoxOffice": "$34,034,168",
+			"Production": "Buena Vista Distribution Compa",
+			"Website": "http://disney.go.com/monstersinc/index.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Cnsty41rgq0PkeG3gsom.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Woman in gold\\Woman.in.Gold.2015.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Woman in Gold",
+			"Year": "2015",
+			"Rated": "PG-13",
+			"Released": "10 Apr 2015",
+			"Runtime": "109 min",
+			"Genre": "Biography, Drama, History",
+			"Director": "Simon Curtis",
+			"Writer": "Alexi Kaye Campbell, E. Randol Schoenberg (life story), Maria Altmann (life story)",
+			"Actors": "Helen Mirren, Ryan Reynolds, Daniel Brühl, Katie Holmes",
+			"Plot": "Maria Altmann, an octogenarian Jewish refugee, takes on the Austrian government to recover artwork she believes rightfully belongs to her family.",
+			"Language": "English, German",
+			"Country": "UK",
+			"Awards": "6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMTUxNDQ5MjdeQTJeQWpwZ15BbWU4MDk4NTgxMzQx._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "55%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "51/100"
+				}
+			],
+			"Metascore": "51",
+			"imdbRating": "7.3",
+			"imdbVotes": "42,200",
+			"imdbID": "tt2404425",
+			"Type": "movie",
+			"DVD": "07 Jul 2015",
+			"BoxOffice": "N/A",
+			"Production": "The Weinstein Company",
+			"Website": "http://www.facebook.com/WomanInGoldMovie",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\QYkkyIGAzZUURb0MQBb9.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Indiana Jones and the last crusade\\Indiana.Jones.And.The.Last.Crusade.1989.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Indiana Jones and the Last Crusade",
+			"Year": "1989",
+			"Rated": "PG-13",
+			"Released": "24 May 1989",
+			"Runtime": "127 min",
+			"Genre": "Action, Adventure, Fantasy",
+			"Director": "Steven Spielberg",
+			"Writer": "Jeffrey Boam (screenplay), George Lucas (story), Menno Meyjes (story), George Lucas (characters), Philip Kaufman (characters)",
+			"Actors": "Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody",
+			"Plot": "When Dr. Henry Jones, Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Dr. Henry \"Indiana\" Jones, Jr. must follow in his father's footsteps to stop the Nazis from getting their hands on the Holy Grail first.",
+			"Language": "English, German, Greek, Arabic",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 6 wins & 20 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "88%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "65/100"
+				}
+			],
+			"Metascore": "65",
+			"imdbRating": "8.3",
+			"imdbVotes": "569,966",
+			"imdbID": "tt0097576",
+			"Type": "movie",
+			"DVD": "21 Oct 2003",
+			"BoxOffice": "N/A",
 			"Production": "Paramount Pictures",
-			"Website": "http://www.paramount.com/movies/forrest-gump/",
-			"Response": "True"
+			"Website": "http://www.indianajones.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WFIBg41ajHyGGoIc2cfg.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Armageddon\\Armageddon.1998.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Armageddon",
+			"Year": "1998",
+			"Rated": "PG-13",
+			"Released": "01 Jul 1998",
+			"Runtime": "151 min",
+			"Genre": "Action, Adventure, Sci-Fi",
+			"Director": "Michael Bay",
+			"Writer": "Jonathan Hensleigh (screenplay), J.J. Abrams (screenplay), Tony Gilroy (adaptation), Shane Salerno (adaptation), Robert Roy Pool (story), Jonathan Hensleigh (story)",
+			"Actors": "Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",
+			"Plot": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, N.A.S.A. recruits a misfit team of deep core drillers to save the planet.",
+			"Language": "English, Russian, Indonesian",
+			"Country": "USA",
+			"Awards": "Nominated for 4 Oscars. Another 15 wins & 35 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "39%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "42/100"
+				}
+			],
+			"Metascore": "42",
+			"imdbRating": "6.6",
+			"imdbVotes": "345,434",
+			"imdbID": "tt0120591",
+			"Type": "movie",
+			"DVD": "05 Jan 1999",
+			"BoxOffice": "N/A",
+			"Production": "Buena Vista",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\EmpgC1f1FUDd0tKyTMOW.jpg"
 		}
 	},
 	{
@@ -412,7 +2959,1140 @@
 			"BoxOffice": "N/A",
 			"Production": "B4U Entertainment",
 			"Website": "http://www.lagaan.com",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\4CKnRYsnBk56u6shgATk.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Woody Allen\\The Purple Rose of Cairo\\The.Purple.Rose.of.Cairo.1985.720p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "The Purple Rose of Cairo",
+			"Year": "1985",
+			"Rated": "PG",
+			"Released": "19 Apr 1985",
+			"Runtime": "82 min",
+			"Genre": "Comedy, Fantasy, Romance",
+			"Director": "Woody Allen",
+			"Writer": "Woody Allen",
+			"Actors": "Mia Farrow, Jeff Daniels, Danny Aiello, Irving Metzman",
+			"Plot": "In New Jersey in 1935, a movie character walks off the screen and into the real world.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 14 wins & 14 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2E1YWRlNzAtYzAwYy00MDg5LTlmYTUtYjdlZDI0NzFkNjNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "91%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.7",
+			"imdbVotes": "39,559",
+			"imdbID": "tt0089853",
+			"Type": "movie",
+			"DVD": "06 Nov 2001",
+			"BoxOffice": "N/A",
+			"Production": "Orion Pictures Corporation",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\T1yznc3iwBpUajoAGHHT.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Gone with the Wind\\Gone.With.The.Wind.1939.720p.BluRay.x264.YIFY.mkv",
+		"omdb": {
+			"Title": "Gone with the Wind",
+			"Year": "1939",
+			"Rated": "G",
+			"Released": "17 Jan 1940",
+			"Runtime": "238 min",
+			"Genre": "Drama, History, Romance",
+			"Director": "Victor Fleming, George Cukor, Sam Wood",
+			"Writer": "Margaret Mitchell (story of the old south \"Gone with the Wind\"), Sidney Howard (screenplay)",
+			"Actors": "Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes",
+			"Plot": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 8 Oscars. Another 10 wins & 9 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQwOWVkMGItMDU2Yy00YjIzLWJkMjEtNmVkZjE3MjMwYzEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "97/100"
+				}
+			],
+			"Metascore": "97",
+			"imdbRating": "8.2",
+			"imdbVotes": "236,664",
+			"imdbID": "tt0031381",
+			"Type": "movie",
+			"DVD": "07 Mar 2000",
+			"BoxOffice": "N/A",
+			"Production": "Loew's Inc.",
+			"Website": "http://warnervideo.com/gonewiththewind/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\tLAp1lzrgbAz3B7VthuP.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Interstellar\\Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Interstellar",
+			"Year": "2014",
+			"Rated": "PG-13",
+			"Released": "07 Nov 2014",
+			"Runtime": "169 min",
+			"Genre": "Adventure, Drama, Sci-Fi",
+			"Director": "Christopher Nolan",
+			"Writer": "Jonathan Nolan, Christopher Nolan",
+			"Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+			"Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+			"Language": "English",
+			"Country": "USA, UK, Canada, Iceland",
+			"Awards": "Won 1 Oscar. Another 43 wins & 143 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "8.6",
+			"imdbVotes": "1,102,530",
+			"imdbID": "tt0816692",
+			"Type": "movie",
+			"DVD": "31 Mar 2015",
+			"BoxOffice": "$158,737,441",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.InterstellarMovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\zqfwEZwyVnmkGEbuW2Ji.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Historique\\The Last Samurai\\The.Last.Samurai.2003.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Last Samurai",
+			"Year": "2003",
+			"Rated": "R",
+			"Released": "05 Dec 2003",
+			"Runtime": "154 min",
+			"Genre": "Action, Drama, History",
+			"Director": "Edward Zwick",
+			"Writer": "John Logan (story), John Logan (screenplay), Edward Zwick (screenplay), Marshall Herskovitz (screenplay)",
+			"Actors": "Ken Watanabe, Tom Cruise, William Atherton, Chad Lindberg",
+			"Plot": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
+			"Language": "English, Japanese",
+			"Country": "USA, New Zealand, Japan",
+			"Awards": "Nominated for 4 Oscars. Another 21 wins & 62 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "66%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "55/100"
+				}
+			],
+			"Metascore": "55",
+			"imdbRating": "7.7",
+			"imdbVotes": "340,924",
+			"imdbID": "tt0325710",
+			"Type": "movie",
+			"DVD": "04 May 2004",
+			"BoxOffice": "$111,000,000",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://lastsamurai.warnerbros.com/html_index.php",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UQXUByn0IY2GAnr2Uun3.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Action Aventure\\Jason Bourne 2016\\Jason.Bourne.2016.720p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "Jason Bourne",
+			"Year": "2016",
+			"Rated": "PG-13",
+			"Released": "29 Jul 2016",
+			"Runtime": "123 min",
+			"Genre": "Action, Thriller",
+			"Director": "Paul Greengrass",
+			"Writer": "Paul Greengrass, Christopher Rouse, Robert Ludlum (based on characters created by)",
+			"Actors": "Matt Damon, Tommy Lee Jones, Alicia Vikander, Vincent Cassel",
+			"Plot": "The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.",
+			"Language": "English, Greek, German",
+			"Country": "UK, China, USA",
+			"Awards": "2 wins & 18 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGJlYjVkMjQtN2NlZC00NTJhLThmZjItMTRlZDczMmE3YmI3XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "56%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "58/100"
+				}
+			],
+			"Metascore": "58",
+			"imdbRating": "6.7",
+			"imdbVotes": "165,127",
+			"imdbID": "tt4196776",
+			"Type": "movie",
+			"DVD": "06 Dec 2016",
+			"BoxOffice": "$162,162,120",
+			"Production": "Universal",
+			"Website": "http://www.jasonbournemovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\098PyWhjt1kkxq7ErfKY.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Anastasia\\Anastasia.1997.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Anastasia",
+			"Year": "1997",
+			"Rated": "G",
+			"Released": "21 Nov 1997",
+			"Runtime": "94 min",
+			"Genre": "Animation, Adventure, Drama",
+			"Director": "Don Bluth, Gary Goldman",
+			"Writer": "Susan Gauthier (screenplay), Bruce Graham (screenplay), Bob Tzudiker (screenplay), Noni White (screenplay), Eric Tuchman (animation adaptation)",
+			"Actors": "Meg Ryan, John Cusack, Kelsey Grammer, Christopher Lloyd",
+			"Plot": "The last surviving child of the Russian Royal Family joins two con men to reunite with her grandmother, the Dowager Empress, while the undead Rasputin seeks her death.",
+			"Language": "English, Russian, French",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Oscars. Another 10 wins & 21 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGJiNWFlYTMtZTBiZi00ZTVmLWJmZmMtNzEzYzZjNzYzZmRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "59/100"
+				}
+			],
+			"Metascore": "59",
+			"imdbRating": "7.1",
+			"imdbVotes": "94,644",
+			"imdbID": "tt0118617",
+			"Type": "movie",
+			"DVD": "16 Nov 1999",
+			"BoxOffice": "N/A",
+			"Production": "20th Century Fox",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\mdzONiWtmti2XSwCDcHs.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Eternal Sunshine of the Spotless Mind\\Eternal.Sunshine.of.the.Spotless.Mind.2004.1080p.BluRay.x264.anoXmous_.mp4",
+		"omdb": {
+			"Title": "Eternal Sunshine of the Spotless Mind",
+			"Year": "2004",
+			"Rated": "R",
+			"Released": "19 Mar 2004",
+			"Runtime": "108 min",
+			"Genre": "Drama, Romance, Sci-Fi",
+			"Director": "Michel Gondry",
+			"Writer": "Charlie Kaufman (story), Michel Gondry (story), Pierre Bismuth (story), Charlie Kaufman (screenplay)",
+			"Actors": "Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood",
+			"Plot": "When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 70 wins & 109 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "93%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "89/100"
+				}
+			],
+			"Metascore": "89",
+			"imdbRating": "8.3",
+			"imdbVotes": "738,370",
+			"imdbID": "tt0338013",
+			"Type": "movie",
+			"DVD": "28 Sep 2004",
+			"BoxOffice": "$34,126,138",
+			"Production": "Focus Features",
+			"Website": "http://www.eternalsunshine.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YOtiHg45iq0K9DIh1jDN.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Woody Allen\\Irrational Man\\Irrational.Man.2015.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Irrational Man",
+			"Year": "2015",
+			"Rated": "R",
+			"Released": "07 Aug 2015",
+			"Runtime": "95 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Woody Allen",
+			"Writer": "Woody Allen",
+			"Actors": "Joaquin Phoenix, Emma Stone, Joe Stapleton, Nancy Carroll",
+			"Plot": "A tormented philosophy professor finds a will to live when he commits an existential act.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NTM0Mzk5Ml5BMl5BanBnXkFtZTgwMzQ3Njc3NTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "45%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "53/100"
+				}
+			],
+			"Metascore": "53",
+			"imdbRating": "6.6",
+			"imdbVotes": "42,527",
+			"imdbID": "tt3715320",
+			"Type": "movie",
+			"DVD": "12 Jan 2016",
+			"BoxOffice": "N/A",
+			"Production": "Sony Pictures Classics",
+			"Website": "http://sonyclassics.com/irrationalman/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\aYwgc3jXSaKkpAWPvXAq.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Forrest Gump\\Forrest Gump.avi",
+		"omdb": {
+			"Title": "Forrest Gump",
+			"Year": "1994",
+			"Rated": "PG-13",
+			"Released": "06 Jul 1994",
+			"Runtime": "142 min",
+			"Genre": "Comedy, Drama, Romance",
+			"Director": "Robert Zemeckis",
+			"Writer": "Winston Groom (novel), Eric Roth (screenplay)",
+			"Actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+			"Plot": "JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 6 Oscars. Another 39 wins & 66 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "82/100"
+				}
+			],
+			"Metascore": "82",
+			"imdbRating": "8.8",
+			"imdbVotes": "1,406,942",
+			"imdbID": "tt0109830",
+			"Type": "movie",
+			"DVD": "28 Aug 2001",
+			"BoxOffice": "$405,000",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.paramount.com/movies/forrest-gump/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\sybBBck06YzZor0BbJt4.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Whiplash\\Whiplash.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Whiplash",
+			"Year": "2014",
+			"Rated": "R",
+			"Released": "15 Oct 2014",
+			"Runtime": "107 min",
+			"Genre": "Drama, Music",
+			"Director": "Damien Chazelle",
+			"Writer": "Damien Chazelle",
+			"Actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist",
+			"Plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 3 Oscars. Another 89 wins & 136 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTVhMWQ5MDktMGE3OS00MjVlLWExZWYtMzY2MTg4ZGFiZDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "88/100"
+				}
+			],
+			"Metascore": "88",
+			"imdbRating": "8.5",
+			"imdbVotes": "504,105",
+			"imdbID": "tt2582802",
+			"Type": "movie",
+			"DVD": "24 Feb 2015",
+			"BoxOffice": "N/A",
+			"Production": "Sony Pictures Classics",
+			"Website": "http://sonyclassics.com/whiplash/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\aruieEcacwDCeFT1ss4P.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Night at the Museum\\Night.at.the.Museum.2006.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Night at the Museum",
+			"Year": "2006",
+			"Rated": "PG",
+			"Released": "22 Dec 2006",
+			"Runtime": "108 min",
+			"Genre": "Adventure, Comedy, Family",
+			"Director": "Shawn Levy",
+			"Writer": "Robert Ben Garant (screenplay), Thomas Lennon (screenplay), Robert Ben Garant (screen story), Thomas Lennon (screen story), Milan Trenc (book)",
+			"Actors": "Ben Stiller, Carla Gugino, Dick Van Dyke, Mickey Rooney",
+			"Plot": "A newly recruited night security guard at the Museum of Natural History discovers that an ancient curse causes the animals and exhibits on display to come to life and wreak havoc.",
+			"Language": "English, Italian, Hebrew",
+			"Country": "USA, UK",
+			"Awards": "2 wins & 8 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyOTM4MDMxN15BMl5BanBnXkFtZTcwODg5NTQzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "43%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "48/100"
+				}
+			],
+			"Metascore": "48",
+			"imdbRating": "6.4",
+			"imdbVotes": "258,200",
+			"imdbID": "tt0477347",
+			"Type": "movie",
+			"DVD": "24 Apr 2007",
+			"BoxOffice": "$249,300,000",
+			"Production": "20th Century Fox",
+			"Website": "http://www.nightatthemuseum.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\oMxiYioQAh0vlLJ84cFH.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\3 - Harry Potter and the Prisoner of Azkaban\\Harry.Potter.and.the.Prisoner.of.Azkaban.2004.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Harry Potter and the Prisoner of Azkaban",
+			"Year": "2004",
+			"Rated": "PG",
+			"Released": "04 Jun 2004",
+			"Runtime": "142 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Alfonso Cuarón",
+			"Writer": "J.K. Rowling (novel), Steve Kloves (screenplay)",
+			"Actors": "Daniel Radcliffe, Richard Griffiths, Pam Ferris, Fiona Shaw",
+			"Plot": "It's Harry's third year at Hogwarts; not only does he have a new \"Defense Against the Dark Arts\" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.",
+			"Language": "English",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 2 Oscars. Another 14 wins & 45 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "91%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "82/100"
+				}
+			],
+			"Metascore": "82",
+			"imdbRating": "7.8",
+			"imdbVotes": "429,333",
+			"imdbID": "tt0304141",
+			"Type": "movie",
+			"DVD": "22 Nov 2004",
+			"BoxOffice": "$249,358,727",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://azkaban.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\zfKKQtvHMUwuPmgbB37A.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Brave\\Brave.2012.1080p.BRrip.x264.YIFY_FR.mp4",
+		"omdb": {
+			"Title": "Brave",
+			"Year": "2012",
+			"Rated": "PG",
+			"Released": "22 Jun 2012",
+			"Runtime": "93 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Mark Andrews, Brenda Chapman, Steve Purcell(co-director)",
+			"Writer": "Brenda Chapman (story by), Mark Andrews (screenplay by), Steve Purcell (screenplay by), Brenda Chapman (screenplay by), Irene Mecchi (screenplay by)",
+			"Actors": "Kelly Macdonald, Billy Connolly, Emma Thompson, Julie Walters",
+			"Plot": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 18 wins & 48 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "78%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "69/100"
+				}
+			],
+			"Metascore": "69",
+			"imdbRating": "7.2",
+			"imdbVotes": "303,208",
+			"imdbID": "tt1217209",
+			"Type": "movie",
+			"DVD": "13 Nov 2012",
+			"BoxOffice": "$237,282,182",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://disney.go.com/brave/?cmp=wdsmp_brv_url_dcombrave",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Vvj8drp1RelJuB8mc6tH.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Gad Elmaleh-Papa est en Haut.avi",
+		"omdb": {
+			"Title": "Gad Elmaleh: Papa est en haut",
+			"Year": "2010",
+			"Rated": "N/A",
+			"Released": "05 May 2010",
+			"Runtime": "120 min",
+			"Genre": "Documentary, Comedy",
+			"Director": "N/A",
+			"Writer": "Gad Elmaleh",
+			"Actors": "Gad Elmaleh",
+			"Plot": "N/A",
+			"Language": "French",
+			"Country": "France",
+			"Awards": "N/A",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2EwYWZlMTctMGI5ZS00MWJlLWIxZWYtM2RhZjlmZTFiYjI1XkEyXkFqcGdeQXVyNjUxMTkyMTk@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.5",
+			"imdbVotes": "62",
+			"imdbID": "tt3849124",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\afuooiJYSUt7GJroFLzo.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Hobbit\\The Hobbit - The Battle of the Five Armies\\The.Hobbit.The.Battle.of.the.Five.Armies.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Hobbit: The Battle of the Five Armies",
+			"Year": "2014",
+			"Rated": "PG-13",
+			"Released": "17 Dec 2014",
+			"Runtime": "144 min",
+			"Genre": "Adventure, Fantasy",
+			"Director": "Peter Jackson",
+			"Writer": "Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay), Guillermo del Toro (screenplay), J.R.R. Tolkien (novel)",
+			"Actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
+			"Plot": "Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+			"Language": "English",
+			"Country": "New Zealand, USA",
+			"Awards": "Nominated for 1 Oscar. Another 7 wins & 51 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "59%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "59/100"
+				}
+			],
+			"Metascore": "59",
+			"imdbRating": "7.4",
+			"imdbVotes": "398,637",
+			"imdbID": "tt2310332",
+			"Type": "movie",
+			"DVD": "24 Mar 2015",
+			"BoxOffice": "$187,747,747",
+			"Production": "Warner Bros.",
+			"Website": "http://www.thehobbit.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WkDZLc9as9sCUOq18Gxc.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\The Dark Knight Rises\\The.Dark.Knight.Rises.2012.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Dark Knight Rises",
+			"Year": "2012",
+			"Rated": "PG-13",
+			"Released": "20 Jul 2012",
+			"Runtime": "164 min",
+			"Genre": "Action, Thriller",
+			"Director": "Christopher Nolan",
+			"Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+			"Actors": "Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt",
+			"Plot": "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
+			"Language": "English, Arabic",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 1 BAFTA Film Award. Another 38 wins & 101 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "87%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "78/100"
+				}
+			],
+			"Metascore": "78",
+			"imdbRating": "8.4",
+			"imdbVotes": "1,257,286",
+			"imdbID": "tt1345836",
+			"Type": "movie",
+			"DVD": "03 Dec 2012",
+			"BoxOffice": "$448,130,642",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.thedarkknightrises.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\yJQvofmqkabBDLnG78Qy.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Brother Bear\\Brother.Bear.2003.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Brother Bear",
+			"Year": "2003",
+			"Rated": "G",
+			"Released": "31 Oct 2003",
+			"Runtime": "85 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Aaron Blaise, Robert Walker",
+			"Writer": "Tab Murphy (screenplay), Lorne Cameron (screenplay), David Hoselton (screenplay), Steve Bencich (screenplay), Ron J. Friedman (screenplay), Stephen J. Anderson (story supervisor), Stevie Wermers (story), Kevin Deters (story), Woody Woodman (story), Thom Enriquez (story), Kevin Harkey (story), Broose Johnson (story), John Norton (story), John Puglisi (story), Tim Hodge (additional story), Tom LaBaff (additional story), Ray Shenusay (additional story), Brian Pimental (additional story), Jim Story (additional story), Don Dougherty (additional story), Don Hall (additional story), Samuel Levine (additional story), Aurian Redson (additional story), Chris Williams (additional story), Jeff Hand (additional story material)",
+			"Actors": "Joaquin Phoenix, Jeremy Suarez, Jason Raize, Rick Moranis",
+			"Plot": "When a young Inuit hunter needlessly kills a bear, he is magically changed into a bear himself as punishment with a talkative cub being his only guide to changing back.",
+			"Language": "English, Inuktitut, Croatian, Serbian",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 2 wins & 21 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyNTAyNDYxNF5BMl5BanBnXkFtZTYwNjYwMjg2._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "38%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "48/100"
+				}
+			],
+			"Metascore": "48",
+			"imdbRating": "6.8",
+			"imdbVotes": "77,654",
+			"imdbID": "tt0328880",
+			"Type": "movie",
+			"DVD": "30 Mar 2004",
+			"BoxOffice": "$85,095,337",
+			"Production": "Buena Vista Pictures",
+			"Website": "http://disney.go.com/disneypictures/brotherbear/main.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\O46nLnh8xzHRI2ve8qPW.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Tracks\\Tracks.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Tracks",
+			"Year": "2013",
+			"Rated": "PG-13",
+			"Released": "06 Mar 2014",
+			"Runtime": "112 min",
+			"Genre": "Adventure, Biography, Drama",
+			"Director": "John Curran",
+			"Writer": "Marion Nelson (screenplay), Robyn Davidson (book)",
+			"Actors": "Lily Pearl, Mia Wasikowska, Philip Dodd, Fiona Press",
+			"Plot": "A young woman goes on a 1,700-mile trek across the deserts of West Australia with four camels and her faithful dog.",
+			"Language": "English, Aboriginal",
+			"Country": "Australia",
+			"Awards": "2 wins & 18 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTkyMjIzOTQ4MV5BMl5BanBnXkFtZTgwOTkzMDM1MTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "82%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "78/100"
+				}
+			],
+			"Metascore": "78",
+			"imdbRating": "7.2",
+			"imdbVotes": "22,506",
+			"imdbID": "tt2167266",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "$1,321,462",
+			"Production": "The Weinstein Company",
+			"Website": "https://www.facebook.com/weinsteinco",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fzQW7UgcH4FSdK9IJeuk.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Citizen Kane\\Citizen Kane (1941).mp4",
+		"omdb": {
+			"Title": "Citizen Kane",
+			"Year": "1941",
+			"Rated": "APPROVED",
+			"Released": "05 Sep 1941",
+			"Runtime": "119 min",
+			"Genre": "Drama, Mystery",
+			"Director": "Orson Welles",
+			"Writer": "Herman J. Mankiewicz (original screen play), Orson Welles (original screen play)",
+			"Actors": "Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick",
+			"Plot": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 9 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "100%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "100/100"
+				}
+			],
+			"Metascore": "100",
+			"imdbRating": "8.4",
+			"imdbVotes": "326,546",
+			"imdbID": "tt0033467",
+			"Type": "movie",
+			"DVD": "25 Sep 2001",
+			"BoxOffice": "N/A",
+			"Production": "RKO Radio Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TLwIJjM2dUyYV9h8se85.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\The Princess and the frog\\The.Princess.and.the.Frog.2009.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Princess and the Frog",
+			"Year": "2009",
+			"Rated": "G",
+			"Released": "11 Dec 2009",
+			"Runtime": "97 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Ron Clements, John Musker",
+			"Writer": "Ron Clements (story by), John Musker (story by), Greg Erb (story by), Jason Oremland (story by), Ron Clements (screenplay by), John Musker (screenplay by), Rob Edwards (screenplay by), E.D. Baker (story inspired in part by \"The Frog Princess\" by)",
+			"Actors": "Anika Noni Rose, Bruno Campos, Keith David, Michael-Leon Wooley",
+			"Plot": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
+			"Language": "English, French",
+			"Country": "USA",
+			"Awards": "Nominated for 3 Oscars. Another 11 wins & 38 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTQ5NzAzNl5BMl5BanBnXkFtZTcwMTcyNTU1Mg@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "73/100"
+				}
+			],
+			"Metascore": "73",
+			"imdbRating": "7.1",
+			"imdbVotes": "98,242",
+			"imdbID": "tt0780521",
+			"Type": "movie",
+			"DVD": "16 Mar 2010",
+			"BoxOffice": "$104,374,107",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://www.disney.com/princessandthefrog",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jF6GC4PfAmZ0JxmRpM2n.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\My neighbor Totoro\\My.Neighbor.Totoro.1988.1080p.BluRay.x264-[YTS.PE].mp4",
+		"omdb": {
+			"Title": "My Neighbor Totoro",
+			"Year": "1988",
+			"Rated": "G",
+			"Released": "16 Apr 1988",
+			"Runtime": "86 min",
+			"Genre": "Animation, Family, Fantasy",
+			"Director": "Hayao Miyazaki",
+			"Writer": "Hayao Miyazaki",
+			"Actors": "Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto",
+			"Plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+			"Language": "Japanese",
+			"Country": "Japan",
+			"Awards": "5 wins & 2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTdiOTQ0YmUtOGE3YS00NDg5LWI3YTEtNDAxZmE0MzRmZWM5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.2",
+			"imdbVotes": "201,476",
+			"imdbID": "tt0096283",
+			"Type": "movie",
+			"DVD": "07 Mar 2006",
+			"BoxOffice": "N/A",
+			"Production": "Tokuma Shoten",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2Y26ej1NkPtFCw9mMEkE.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Sci-Fi\\Minority report\\Minority.Report.2002.1080p.BluRay.x264.YIFY_FR.mp4",
+		"omdb": {
+			"Title": "Minority Report",
+			"Year": "2002",
+			"Rated": "PG-13",
+			"Released": "21 Jun 2002",
+			"Runtime": "145 min",
+			"Genre": "Action, Adventure, Crime",
+			"Director": "Steven Spielberg",
+			"Writer": "Philip K. Dick (short story), Scott Frank (screenplay), Jon Cohen (screenplay)",
+			"Actors": "Tom Cruise, Max von Sydow, Steve Harris, Neal McDonough",
+			"Plot": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.",
+			"Language": "English, Swedish",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 19 wins & 85 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDgzNDk3ZDctYTUxMC00MDQzLWI1MTctMmQxYWE0MGUzYzIxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "90%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "80/100"
+				}
+			],
+			"Metascore": "80",
+			"imdbRating": "7.7",
+			"imdbVotes": "431,232",
+			"imdbID": "tt0181689",
+			"Type": "movie",
+			"DVD": "17 Dec 2002",
+			"BoxOffice": "$132,000,000",
+			"Production": "Dreamworks",
+			"Website": "http://www.minorityreport.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\llVPmOKJxMJVrpEQnWk9.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The Golden Compass\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Golden Compass",
+			"Year": "2007",
+			"Rated": "PG-13",
+			"Released": "07 Dec 2007",
+			"Runtime": "113 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Chris Weitz",
+			"Writer": "Chris Weitz (screenplay), Philip Pullman (novel)",
+			"Actors": "Nicole Kidman, Daniel Craig, Dakota Blue Richards, Ben Walker",
+			"Plot": "In a parallel universe, young Lyra Belacqua journeys to the far North to save her best friend and other kidnapped children from terrible experiments by a mysterious organization.",
+			"Language": "English, Icelandic, Russian, French",
+			"Country": "UK, USA",
+			"Awards": "Won 1 Oscar. Another 6 wins & 32 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2NDkxMjQxMV5BMl5BanBnXkFtZTYwNTMxMDM4._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "43%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "51/100"
+				}
+			],
+			"Metascore": "51",
+			"imdbRating": "6.1",
+			"imdbVotes": "157,839",
+			"imdbID": "tt0385752",
+			"Type": "movie",
+			"DVD": "29 Apr 2008",
+			"BoxOffice": "$70,100,000",
+			"Production": "New Line Cinema",
+			"Website": "http://www.goldencompassmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\LkLejwZmo4ajDp9P0ZZD.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\August Rush\\August.Rush.2007.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "August Rush",
+			"Year": "2007",
+			"Rated": "PG",
+			"Released": "21 Nov 2007",
+			"Runtime": "114 min",
+			"Genre": "Drama, Music",
+			"Director": "Kirsten Sheridan",
+			"Writer": "Nick Castle (screenplay), James V. Hart (screenplay), Paul Castro (story), Nick Castle (story)",
+			"Actors": "Freddie Highmore, Keri Russell, Jonathan Rhys Meyers, Terrence Howard",
+			"Plot": "A drama with fairy tale elements, where an orphaned musical prodigy uses his gift as a clue to finding his birth parents.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 4 wins & 10 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDIwNjE3NjU2NV5BMl5BanBnXkFtZTcwNTQ2NjQzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "37%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "38/100"
+				}
+			],
+			"Metascore": "38",
+			"imdbRating": "7.5",
+			"imdbVotes": "93,149",
+			"imdbID": "tt0426931",
+			"Type": "movie",
+			"DVD": "11 Mar 2008",
+			"BoxOffice": "$31,529,568",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://augustrushmovie.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\DivUOBsLhn4o4KAQJiU7.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Ghosts of Girlfriend past\\Ghosts.of.Girlfriends.Past.2009.BluRay.720p.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Ghosts of Girlfriends Past",
+			"Year": "2009",
+			"Rated": "PG-13",
+			"Released": "01 May 2009",
+			"Runtime": "100 min",
+			"Genre": "Comedy, Fantasy, Romance",
+			"Director": "Mark Waters",
+			"Writer": "Jon Lucas, Scott Moore",
+			"Actors": "Matthew McConaughey, Jennifer Garner, Michael Douglas, Breckin Meyer",
+			"Plot": "While attending his brother's wedding, a serial womanizer is haunted by the ghosts of his past girlfriends.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "1 win.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0Njk2NTIyMTVeQTJeQWpwZ15BbWU3MDU0MzUyMzI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "5.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "27%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "34/100"
+				}
+			],
+			"Metascore": "34",
+			"imdbRating": "5.8",
+			"imdbVotes": "72,078",
+			"imdbID": "tt0821640",
+			"Type": "movie",
+			"DVD": "22 Sep 2009",
+			"BoxOffice": "$55,179,308",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.ghostsofgirlfriendspastmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\U15e5aGnYxWMdn0KsSsb.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Leger sympa\\The Intern\\The.Intern.2015.720p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "The Intern",
+			"Year": "2015",
+			"Rated": "PG-13",
+			"Released": "25 Sep 2015",
+			"Runtime": "121 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Nancy Meyers",
+			"Writer": "Nancy Meyers",
+			"Actors": "Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm",
+			"Plot": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "1 win & 7 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "60%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "51/100"
+				}
+			],
+			"Metascore": "51",
+			"imdbRating": "7.1",
+			"imdbVotes": "167,565",
+			"imdbID": "tt2361509",
+			"Type": "movie",
+			"DVD": "19 Jan 2016",
+			"BoxOffice": "$60,886,513",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.theinternmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\cT3pgv6G2eTROqn3Qij8.jpg"
 		}
 	},
 	{
@@ -455,7 +4135,952 @@
 			"BoxOffice": "$100,003,492",
 			"Production": "Paramount Pictures",
 			"Website": "http://www.collateral-themovie.com/",
-			"Response": "True"
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fQcflRDip1axWIslNgcG.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Il Postino\\Il Postino.avi",
+		"omdb": {
+			"Title": "Il Postino",
+			"Year": "1994",
+			"Rated": "PG",
+			"Released": "22 Mar 1996",
+			"Runtime": "108 min",
+			"Genre": "Biography, Comedy, Drama",
+			"Director": "Michael Radford, Massimo Troisi",
+			"Writer": "Antonio Skármeta (novel), Furio Scarpelli (story), Giacomo Scarpelli (story), Anna Pavignano (screenplay), Michael Radford (screenplay), Furio Scarpelli (screenplay), Giacomo Scarpelli (screenplay), Massimo Troisi (screenplay)",
+			"Actors": "Philippe Noiret, Massimo Troisi, Maria Grazia Cucinotta, Renato Scarpa",
+			"Plot": "Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.",
+			"Language": "Italian, Spanish",
+			"Country": "Italy, France, Belgium",
+			"Awards": "Won 1 Oscar. Another 29 wins & 17 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWZmNjkzOGItNmI4ZS00MDQ1LThhMzQtOTI3MThjOTI4Njg2XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "93%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "81/100"
+				}
+			],
+			"Metascore": "81",
+			"imdbRating": "7.7",
+			"imdbVotes": "28,100",
+			"imdbID": "tt0110877",
+			"Type": "movie",
+			"DVD": "14 Mar 2000",
+			"BoxOffice": "N/A",
+			"Production": "Penta Film",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UCNbVKTldBwda4EfV3sp.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\KungFu Panda 2\\Kung.Fu.Panda.2.2011.1080p.BluRay.x264-[YTS.AG].mp4",
+		"omdb": {
+			"Title": "Kung Fu Panda 2",
+			"Year": "2011",
+			"Rated": "PG",
+			"Released": "26 May 2011",
+			"Runtime": "90 min",
+			"Genre": "Animation, Action, Adventure",
+			"Director": "Jennifer Yuh Nelson",
+			"Writer": "Jonathan Aibel, Glenn Berger",
+			"Actors": "Jack Black, Angelina Jolie, Dustin Hoffman, Gary Oldman",
+			"Plot": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 5 wins & 46 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MTQ3NTI3Nl5BMl5BanBnXkFtZTcwNzEzODQ2NA@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "81%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "67/100"
+				}
+			],
+			"Metascore": "67",
+			"imdbRating": "7.3",
+			"imdbVotes": "204,119",
+			"imdbID": "tt1302011",
+			"Type": "movie",
+			"DVD": "13 Dec 2011",
+			"BoxOffice": "$165,230,261",
+			"Production": "Paramount Studios/Dreamworks",
+			"Website": "http://www.kungfupanda.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\P5YtDBdrz2ERfJUBSaGM.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Captain Fantastic\\Captain.Fantastic.2016.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Captain Fantastic",
+			"Year": "2016",
+			"Rated": "R",
+			"Released": "29 Jul 2016",
+			"Runtime": "118 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Matt Ross",
+			"Writer": "Matt Ross",
+			"Actors": "Viggo Mortensen, George MacKay, Samantha Isler, Annalise Basso",
+			"Plot": "In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.",
+			"Language": "English, Esperanto",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 14 wins & 42 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "83%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "72/100"
+				}
+			],
+			"Metascore": "72",
+			"imdbRating": "7.9",
+			"imdbVotes": "122,495",
+			"imdbID": "tt3553976",
+			"Type": "movie",
+			"DVD": "25 Oct 2016",
+			"BoxOffice": "$5,875,006",
+			"Production": "Electric City Entertainment",
+			"Website": "http://www.bleeckerstreetmedia.com/captainfantastic",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qw5nFf3RUm22YT1lf0xX.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Disney\\How to train your dragon\\How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "How to Train Your Dragon",
+			"Year": "2010",
+			"Rated": "PG",
+			"Released": "26 Mar 2010",
+			"Runtime": "98 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Dean DeBlois, Chris Sanders",
+			"Writer": "William Davies (screenplay), Dean DeBlois (screenplay), Chris Sanders (screenplay), Cressida Cowell (book)",
+			"Actors": "Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera",
+			"Plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Oscars. Another 25 wins & 61 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "8.1",
+			"imdbVotes": "538,916",
+			"imdbID": "tt0892769",
+			"Type": "movie",
+			"DVD": "15 Oct 2010",
+			"BoxOffice": "$216,900,000",
+			"Production": "Paramount/DWA",
+			"Website": "http://www.HowToTrainYourDragon.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qGZPcbqNEZB1EYcyOESd.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\4 - Harry Potter and the Goblet of Fire\\Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Harry Potter and the Goblet of Fire",
+			"Year": "2005",
+			"Rated": "PG-13",
+			"Released": "18 Nov 2005",
+			"Runtime": "157 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Mike Newell",
+			"Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+			"Actors": "Eric Sykes, Timothy Spall, David Tennant, Daniel Radcliffe",
+			"Plot": "A young wizard finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+			"Language": "English, French",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 1 Oscar. Another 13 wins & 42 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "88%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "81/100"
+				}
+			],
+			"Metascore": "81",
+			"imdbRating": "7.7",
+			"imdbVotes": "430,197",
+			"imdbID": "tt0330373",
+			"Type": "movie",
+			"DVD": "07 Mar 2006",
+			"BoxOffice": "$289,994,397",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://harrypotter.warnerbros.com/gobletoffire/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PQxlXhqKntrNlwX1uX38.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Dead Poets Society\\Dead.Poets.Society.1989.1080p.BluRay.x264.anoXmous_FR.mp4",
+		"omdb": {
+			"Title": "Dead Poets Society",
+			"Year": "1989",
+			"Rated": "PG",
+			"Released": "09 Jun 1989",
+			"Runtime": "128 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Peter Weir",
+			"Writer": "Tom Schulman",
+			"Actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles",
+			"Plot": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.",
+			"Language": "English, Latin",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 18 wins & 18 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "86%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "79/100"
+				}
+			],
+			"Metascore": "79",
+			"imdbRating": "8.0",
+			"imdbVotes": "305,159",
+			"imdbID": "tt0097165",
+			"Type": "movie",
+			"DVD": "10 Nov 1998",
+			"BoxOffice": "N/A",
+			"Production": "Buena Vista Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UpU7fLpGejqT6C9EW4j5.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Musical\\La la land\\La.La.Land.2016.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "La La Land",
+			"Year": "2016",
+			"Rated": "PG-13",
+			"Released": "25 Dec 2016",
+			"Runtime": "128 min",
+			"Genre": "Comedy, Drama, Music",
+			"Director": "Damien Chazelle",
+			"Writer": "Damien Chazelle",
+			"Actors": "Ryan Gosling, Emma Stone, Amiée Conn, Terry Walters",
+			"Plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+			"Language": "English",
+			"Country": "USA, Hong Kong",
+			"Awards": "Won 6 Oscars. Another 206 wins & 248 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "93/100"
+				}
+			],
+			"Metascore": "93",
+			"imdbRating": "8.2",
+			"imdbVotes": "314,638",
+			"imdbID": "tt3783958",
+			"Type": "movie",
+			"DVD": "25 Apr 2017",
+			"BoxOffice": "$151,058,124",
+			"Production": "Liongate Films",
+			"Website": "http://www.lalaland.movie/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\j9vmAVkvk0t6iPLxtcVS.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Sister Act I\\Sister.Act.1992.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Sister Act",
+			"Year": "1992",
+			"Rated": "PG",
+			"Released": "29 May 1992",
+			"Runtime": "100 min",
+			"Genre": "Comedy, Crime, Family",
+			"Director": "Emile Ardolino",
+			"Writer": "Paul Rudnick",
+			"Actors": "Whoopi Goldberg, Maggie Smith, Kathy Najimy, Wendy Makkena",
+			"Plot": "When a worldly singer witnesses a mob crime, the police hide her as a nun in a traditional convent where she has trouble fitting in.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Golden Globes. Another 8 wins & 7 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTFmOTYxOWMtMDE2MC00ODhmLTlhM2QtZjZkZmVhZGYyNGFlXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "73%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "6.3",
+			"imdbVotes": "71,010",
+			"imdbID": "tt0105417",
+			"Type": "movie",
+			"DVD": "18 Jan 2000",
+			"BoxOffice": "$139,605,150",
+			"Production": "Buena Vista",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ObqjlAbH24QcSVcmLhB9.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\A Beautiful Mind\\A.Beautiful.Mind.2001.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "A Beautiful Mind",
+			"Year": "2001",
+			"Rated": "PG-13",
+			"Released": "04 Jan 2002",
+			"Runtime": "135 min",
+			"Genre": "Biography, Drama",
+			"Director": "Ron Howard",
+			"Writer": "Akiva Goldsman, Sylvia Nasar (book)",
+			"Actors": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",
+			"Plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 4 Oscars. Another 33 wins & 67 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "75%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "72/100"
+				}
+			],
+			"Metascore": "72",
+			"imdbRating": "8.2",
+			"imdbVotes": "682,084",
+			"imdbID": "tt0268978",
+			"Type": "movie",
+			"DVD": "25 Jun 2002",
+			"BoxOffice": "N/A",
+			"Production": "Universal Pictures",
+			"Website": "http://www.abeautifulmind.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KIQAHLNZqPfPQZuO61Cb.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\Good Will Hunting\\Good.Will.Hunting.1997.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Good Will Hunting",
+			"Year": "1997",
+			"Rated": "R",
+			"Released": "09 Jan 1998",
+			"Runtime": "126 min",
+			"Genre": "Drama",
+			"Director": "Gus Van Sant",
+			"Writer": "Matt Damon, Ben Affleck",
+			"Actors": "Matt Damon, Ben Affleck, Stellan Skarsgård, John Mighton",
+			"Plot": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 22 wins & 55 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "97%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "70/100"
+				}
+			],
+			"Metascore": "70",
+			"imdbRating": "8.3",
+			"imdbVotes": "678,656",
+			"imdbID": "tt0119217",
+			"Type": "movie",
+			"DVD": "08 Dec 1998",
+			"BoxOffice": "N/A",
+			"Production": "Miramax Films",
+			"Website": "http://www.miramax.com/movie/good-will-hunting/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\8fECOMmmfj93YrtUUCm3.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\The theory of everything\\The.Theory.of.Everything.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Theory of Everything",
+			"Year": "2014",
+			"Rated": "PG-13",
+			"Released": "26 Nov 2014",
+			"Runtime": "123 min",
+			"Genre": "Biography, Drama, Romance",
+			"Director": "James Marsh",
+			"Writer": "Anthony McCarten (screenplay), Jane Hawking (book)",
+			"Actors": "Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry",
+			"Plot": "A look at the relationship between the famous physicist Stephen Hawking and his wife.",
+			"Language": "English, French",
+			"Country": "UK, Japan, USA",
+			"Awards": "Won 1 Oscar. Another 24 wins & 121 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "78%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "72/100"
+				}
+			],
+			"Metascore": "72",
+			"imdbRating": "7.7",
+			"imdbVotes": "312,456",
+			"imdbID": "tt2980516",
+			"Type": "movie",
+			"DVD": "17 Feb 2015",
+			"BoxOffice": "$35,887,263",
+			"Production": "Focus Features",
+			"Website": "http://www.focusfeatures.com/the_theory_of_everything",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bOZOy4ARLXWPcVGCImZp.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\Hero\\Hero.mkv",
+		"omdb": {
+			"Title": "Hero",
+			"Year": "2002",
+			"Rated": "PG-13",
+			"Released": "27 Aug 2004",
+			"Runtime": "107 min",
+			"Genre": "Action, Adventure, History",
+			"Director": "Yimou Zhang",
+			"Writer": "Feng Li (screenplay), Yimou Zhang (screenplay), Bin Wang (screenplay)",
+			"Actors": "Jet Li, Tony Chiu-Wai Leung, Maggie Cheung, Ziyi Zhang",
+			"Plot": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.",
+			"Language": "Mandarin",
+			"Country": "China, Hong Kong",
+			"Awards": "Nominated for 1 Oscar. Another 37 wins & 36 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWQ2MjQ0OTctMWE1OC00NjZjLTk3ZDAtNTk3NTZiYWMxYTlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "85/100"
+				}
+			],
+			"Metascore": "85",
+			"imdbRating": "7.9",
+			"imdbVotes": "157,337",
+			"imdbID": "tt0299977",
+			"Type": "movie",
+			"DVD": "06 Jan 2004",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZcRPEonKkHAartP2JaVr.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\My Fair Lady\\My.Fair.Lady.1964.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "My Fair Lady",
+			"Year": "1964",
+			"Rated": "G",
+			"Released": "25 Dec 1964",
+			"Runtime": "170 min",
+			"Genre": "Drama, Family, Musical",
+			"Director": "George Cukor",
+			"Writer": "Alan Jay Lerner (book), George Bernard Shaw (from a play by), Alan Jay Lerner (screenplay)",
+			"Actors": "Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White",
+			"Plot": "A misogynistic and snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 8 Oscars. Another 16 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTEzMzE4MF5BMl5BanBnXkFtZTcwMDAzMTUyMg@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.9",
+			"imdbVotes": "72,457",
+			"imdbID": "tt0058385",
+			"Type": "movie",
+			"DVD": "05 Aug 2003",
+			"BoxOffice": "N/A",
+			"Production": "Warner Bros. Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bIICIfkXvQpI33Xy0UUF.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\The Imitation game\\The.Imitation.Game.2014.1080p.BluRay.x264.anoXmous.mp4",
+		"omdb": {
+			"Title": "The Imitation Game",
+			"Year": "2014",
+			"Rated": "PG-13",
+			"Released": "25 Dec 2014",
+			"Runtime": "114 min",
+			"Genre": "Biography, Drama, Thriller",
+			"Director": "Morten Tyldum",
+			"Writer": "Graham Moore, Andrew Hodges (book)",
+			"Actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear",
+			"Plot": "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
+			"Language": "English, German",
+			"Country": "UK, USA",
+			"Awards": "Won 1 Oscar. Another 45 wins & 155 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "91%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "73/100"
+				}
+			],
+			"Metascore": "73",
+			"imdbRating": "8.0",
+			"imdbVotes": "550,190",
+			"imdbID": "tt2084970",
+			"Type": "movie",
+			"DVD": "31 Mar 2015",
+			"BoxOffice": "N/A",
+			"Production": "The Weinstein Company",
+			"Website": "http://theimitationgamemovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\hatcJQrx7E5FTDpnztLf.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Musical\\Music and Lyrics\\Music.and.Lyrics.2007.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Music and Lyrics",
+			"Year": "2007",
+			"Rated": "PG-13",
+			"Released": "14 Feb 2007",
+			"Runtime": "96 min",
+			"Genre": "Comedy, Music, Romance",
+			"Director": "Marc Lawrence",
+			"Writer": "Marc Lawrence",
+			"Actors": "Hugh Grant, Scott Porter, Nick Bacon, Andrew Wyatt",
+			"Plot": "A washed up singer is given a couple days to compose a chart-topping hit for an aspiring teen sensation. Though he's never written a decent lyric in his life, he sparks with an offbeat younger woman with a flair for words.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5MTQwODI3OV5BMl5BanBnXkFtZTcwODM2MjEzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "62%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "59/100"
+				}
+			],
+			"Metascore": "59",
+			"imdbRating": "6.5",
+			"imdbVotes": "86,553",
+			"imdbID": "tt0758766",
+			"Type": "movie",
+			"DVD": "08 May 2007",
+			"BoxOffice": "$50,400,000",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://musicandlyrics.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\yKEM70j3GyQyfuf64cJv.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Begin Again\\Begin.Again.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Begin Again",
+			"Year": "2013",
+			"Rated": "R",
+			"Released": "11 Jul 2014",
+			"Runtime": "104 min",
+			"Genre": "Comedy, Drama, Music",
+			"Director": "John Carney",
+			"Writer": "John Carney",
+			"Actors": "James Corden, Keira Knightley, Mark Ruffalo, Hailee Steinfeld",
+			"Plot": "A chance encounter between a disgraced music-business executive and a young singer-songwriter, new to Manhattan, turns into a promising collaboration between the two talents.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 4 wins & 16 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAxMTI4MTgzMV5BMl5BanBnXkFtZTgwOTAwODEwMjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "81%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "62/100"
+				}
+			],
+			"Metascore": "62",
+			"imdbRating": "7.4",
+			"imdbVotes": "116,807",
+			"imdbID": "tt1980929",
+			"Type": "movie",
+			"DVD": "28 Oct 2014",
+			"BoxOffice": "$12,078,174",
+			"Production": "The Weinstein Company",
+			"Website": "http://beginagainfilm.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7bRlvLSeyba6xAIZWRWq.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Pretty Woman\\Pretty.Woman.1990.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Pretty Woman",
+			"Year": "1990",
+			"Rated": "R",
+			"Released": "23 Mar 1990",
+			"Runtime": "119 min",
+			"Genre": "Comedy, Romance",
+			"Director": "Garry Marshall",
+			"Writer": "J.F. Lawton",
+			"Actors": "Richard Gere, Julia Roberts, Ralph Bellamy, Jason Alexander",
+			"Plot": "A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 8 wins & 10 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "61%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "51/100"
+				}
+			],
+			"Metascore": "51",
+			"imdbRating": "7.0",
+			"imdbVotes": "233,593",
+			"imdbID": "tt0100405",
+			"Type": "movie",
+			"DVD": "19 May 1998",
+			"BoxOffice": "N/A",
+			"Production": "Buena Vista",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3dUCxVwANYTK3xQoLTgt.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Personnages\\Cinderella Man\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Cinderella Man",
+			"Year": "2005",
+			"Rated": "PG-13",
+			"Released": "03 Jun 2005",
+			"Runtime": "144 min",
+			"Genre": "Biography, Drama, Sport",
+			"Director": "Ron Howard",
+			"Writer": "Cliff Hollingsworth (screenplay), Akiva Goldsman (screenplay), Cliff Hollingsworth (story)",
+			"Actors": "Russell Crowe, Renée Zellweger, Paul Giamatti, Craig Bierko",
+			"Plot": "The story of James Braddock, a supposedly washed-up boxer who came back to become a champion and an inspiration in the 1930s.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 3 Oscars. Another 16 wins & 41 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODEyYmQxZjUtZGQ0NS00ZTAwLTkwOGQtNGY2NzEwMWE0MDc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "80%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "69/100"
+				}
+			],
+			"Metascore": "69",
+			"imdbRating": "8.0",
+			"imdbVotes": "157,328",
+			"imdbID": "tt0352248",
+			"Type": "movie",
+			"DVD": "06 Dec 2005",
+			"BoxOffice": "$61,600,000",
+			"Production": "Universal Pictures",
+			"Website": "http://www.cinderellamanmovie.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\uU8r9HpCHJE6OXYyumOr.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Opera\\L'elisir D'amore.mp4",
+		"omdb": {
+			"Title": "L'elisir d'amore",
+			"Year": "1991",
+			"Rated": "N/A",
+			"Released": "11 Nov 1991",
+			"Runtime": "129 min",
+			"Genre": "Comedy, Music",
+			"Director": "Brian Large",
+			"Writer": "Felice Romani (libretto)",
+			"Actors": "Kathleen Battle, Luciano Pavarotti, Juan Pons, Enzo Dara",
+			"Plot": "N/A",
+			"Language": "Italian",
+			"Country": "USA",
+			"Awards": "N/A",
+			"Poster": "http://ia.media-imdb.com/images/M/MV5BMTUyNTYxNjk3MF5BMl5BanBnXkFtZTcwOTQzNDgyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.7/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.7",
+			"imdbVotes": "53",
+			"imdbID": "tt0260875",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\vNNEjOHjvz9XmHAl4xaZ.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\The talented Mr Ripley\\The.Talented.Mr.Ripley.1999.720p.x264-.mkv",
+		"omdb": {
+			"Title": "The Talented Mr. Ripley",
+			"Year": "1999",
+			"Rated": "R",
+			"Released": "25 Dec 1999",
+			"Runtime": "139 min",
+			"Genre": "Crime, Drama, Thriller",
+			"Director": "Anthony Minghella",
+			"Writer": "Patricia Highsmith (novel), Anthony Minghella (screenplay)",
+			"Actors": "Matt Damon, Gwyneth Paltrow, Jude Law, Cate Blanchett",
+			"Plot": "In late 1950s New York, Tom Ripley, a young underachiever, is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures.",
+			"Language": "English, Italian",
+			"Country": "USA",
+			"Awards": "Nominated for 5 Oscars. Another 10 wins & 75 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODA3NDhiZjYtYTk2NS00ZWYwLTljYTQtMjU0NzcyMGEzNTU2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "83%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "76/100"
+				}
+			],
+			"Metascore": "76",
+			"imdbRating": "7.3",
+			"imdbVotes": "148,660",
+			"imdbID": "tt0134119",
+			"Type": "movie",
+			"DVD": "27 Jun 2000",
+			"BoxOffice": "N/A",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.talentedmrripley.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VNczh4CNCWvqQHz8f2AZ.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\_Musical\\The Sound of Music\\The.Sound.of.Music.1965.720p.BRrip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Sound of Music",
+			"Year": "1965",
+			"Rated": "G",
+			"Released": "29 Mar 1965",
+			"Runtime": "174 min",
+			"Genre": "Biography, Drama, Family",
+			"Director": "Robert Wise",
+			"Writer": "George Hurdalek (with the partial use of ideas by), Howard Lindsay (from the stage musical book by), Russel Crouse (from the stage musical book by), Ernest Lehman (screenplay)",
+			"Actors": "Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn",
+			"Plot": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.",
+			"Language": "English, German",
+			"Country": "USA",
+			"Awards": "Won 5 Oscars. Another 12 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "86%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.0",
+			"imdbVotes": "162,032",
+			"imdbID": "tt0059742",
+			"Type": "movie",
+			"DVD": "21 Aug 2000",
+			"BoxOffice": "N/A",
+			"Production": "20th Century-Fox",
+			"Website": "http://www.foxhome.com/soundofmusicdvd/index_frames.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\n6uwfDIGa6150CLiVPBK.jpg"
+		}
+	},
+	{
+		"path": "D:\\Films\\Harry Potter\\7 - Harry Potter and the Deathly Hallows\\Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Harry Potter and the Deathly Hallows: Part 1",
+			"Year": "2010",
+			"Rated": "PG-13",
+			"Released": "19 Nov 2010",
+			"Runtime": "146 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "David Yates",
+			"Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+			"Actors": "Bill Nighy, Emma Watson, Richard Griffiths, Harry Melling",
+			"Plot": "As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.",
+			"Language": "English",
+			"Country": "UK, USA",
+			"Awards": "Nominated for 2 Oscars. Another 16 wins & 53 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "78%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "65/100"
+				}
+			],
+			"Metascore": "65",
+			"imdbRating": "7.7",
+			"imdbVotes": "369,752",
+			"imdbID": "tt0926084",
+			"Type": "movie",
+			"DVD": "15 Apr 2011",
+			"BoxOffice": "$294,980,434",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://www.HarryPotter.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\IV3kVdfzGn4lHqN8stS0.jpg"
 		}
 	}
 ]

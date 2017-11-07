@@ -39,10 +39,18 @@ function get(opt) {
 
 function normFileTitle(fname) {
   // normalises a film filename (like The.Sound.of.Music.1965.720p.BRrip.x264.YIFY) to search in omdb (=> the sound of music)
-  var s = fname.replace(/(720p|1080p|yify|x264)/gi, "")
+  var arr = "director\\'?s?\\scut|720p|1080p|yify|x264|x265|h264|rarbg|bd\\s?rip|remastered|vostfr|vost|divx|yts[\\s\\.\\_\\-]?pe|yts[\\s\\.\\_\\-]?ag|bluray|dvd|brrip|xvid|10bit|hevc|hdtv\\s?rip|web\\s?dl|dual\\s?audio|x0r|mkv|mp4|anoxmous"
+  var s = fname
+  arr.split("|").forEach(el => {
+    s = s.replace(new RegExp(el, "gi"), "")
+  })
+  s = s.replace(/[\[\]\(\)]/gi, "")
+  s = s.replace(/(19|20)[0-9]{2}/gi, "")
+  s = s.replace(/[\s\.\-\_](FR|RU|aac|rip|french|subs)([\s\.\-\_]|$)/gi, "")
   s = s.replace(/\.(mp4|mkv|avi|webm|flv|ogv|mov|mpg|mpeg|m4v|3gp)$/gi, "")
-  s = s.replace(/\./gi, " ")
-  return s
+  s = s.replace(/[\.\_]/gi, " ")
+  s = s.replace(/\s\s/gi, " ")
+  return s.trim()
 }
 
 module.exports.get = get;

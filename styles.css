@@ -3,6 +3,10 @@ body {
   background-color: #333;
 }
 
+#progress {
+  width: 100%;
+}
+
 /* =========================== NAVBAR ============================= */
 
 #navbar {
@@ -13,7 +17,6 @@ body {
   line-height: 40px;
   vertical-align: middle;
   padding-top: 7px;
-  margin-bottom: 10px;
   z-index: 300;
 }
 
@@ -57,6 +60,7 @@ button.reload {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  padding-top: 30px;
 }
 
 .main_container {

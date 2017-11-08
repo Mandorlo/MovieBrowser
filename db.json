@@ -4654,347 +4654,6 @@
 		}
 	},
 	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"omdb": {
-			"Title": "Cinderella Man",
-			"Year": "2005",
-			"Rated": "PG-13",
-			"Released": "03 Jun 2005",
-			"Runtime": "144 min",
-			"Genre": "Biography, Drama, Sport",
-			"Director": "Ron Howard",
-			"Writer": "Cliff Hollingsworth (screenplay), Akiva Goldsman (screenplay), Cliff Hollingsworth (story)",
-			"Actors": "Russell Crowe, Renée Zellweger, Paul Giamatti, Craig Bierko",
-			"Plot": "The story of James Braddock, a supposedly washed-up boxer who came back to become a champion and an inspiration in the 1930s.",
-			"Language": "English",
-			"Country": "USA",
-			"Awards": "Nominated for 3 Oscars. Another 16 wins & 41 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODEyYmQxZjUtZGQ0NS00ZTAwLTkwOGQtNGY2NzEwMWE0MDc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "8.0/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "80%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "69/100"
-				}
-			],
-			"Metascore": "69",
-			"imdbRating": "8.0",
-			"imdbVotes": "157,328",
-			"imdbID": "tt0352248",
-			"Type": "movie",
-			"DVD": "06 Dec 2005",
-			"BoxOffice": "$61,600,000",
-			"Production": "Universal Pictures",
-			"Website": "http://www.cinderellamanmovie.com",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\C62xuFRWMw2tAouUhbx2.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Taken (2008) [1080p]\\Taken.2008.1080pBrRip.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "Taken",
-			"Year": "2008",
-			"Rated": "PG-13",
-			"Released": "30 Jan 2009",
-			"Runtime": "93 min",
-			"Genre": "Action, Crime, Thriller",
-			"Director": "Pierre Morel",
-			"Writer": "Luc Besson, Robert Mark Kamen",
-			"Actors": "Liam Neeson, Maggie Grace, Leland Orser, Jon Gries",
-			"Plot": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
-			"Language": "English, French, Albanian, Arabic",
-			"Country": "France",
-			"Awards": "2 wins & 2 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NzQ0OTYyOF5BMl5BanBnXkFtZTcwMDkyNjQyMg@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "7.8/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "58%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "50/100"
-				}
-			],
-			"Metascore": "50",
-			"imdbRating": "7.8",
-			"imdbVotes": "510,548",
-			"imdbID": "tt0936501",
-			"Type": "movie",
-			"DVD": "12 May 2009",
-			"BoxOffice": "$144,924,285",
-			"Production": "20th Century Fox",
-			"Website": "http://www.takenmovie.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\AA82LzI4G3DL6P8yX4Mz.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\The Golden Compass (2007) [1080p]\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "The Golden Compass",
-			"Year": "2007",
-			"Rated": "PG-13",
-			"Released": "07 Dec 2007",
-			"Runtime": "113 min",
-			"Genre": "Adventure, Family, Fantasy",
-			"Director": "Chris Weitz",
-			"Writer": "Chris Weitz (screenplay), Philip Pullman (novel)",
-			"Actors": "Nicole Kidman, Daniel Craig, Dakota Blue Richards, Ben Walker",
-			"Plot": "In a parallel universe, young Lyra Belacqua journeys to the far North to save her best friend and other kidnapped children from terrible experiments by a mysterious organization.",
-			"Language": "English, Icelandic, Russian, French",
-			"Country": "UK, USA",
-			"Awards": "Won 1 Oscar. Another 6 wins & 32 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2NDkxMjQxMV5BMl5BanBnXkFtZTYwNTMxMDM4._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "6.1/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "43%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "51/100"
-				}
-			],
-			"Metascore": "51",
-			"imdbRating": "6.1",
-			"imdbVotes": "157,839",
-			"imdbID": "tt0385752",
-			"Type": "movie",
-			"DVD": "29 Apr 2008",
-			"BoxOffice": "$70,100,000",
-			"Production": "New Line Cinema",
-			"Website": "http://www.goldencompassmovie.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fuTF1PORFTKkxgafRbqm.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Slumdog Millionaire (2008) [1080p]\\Slumdog.Millionaire.2008.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "Slumdog Millionaire",
-			"Year": "2008",
-			"Rated": "R",
-			"Released": "25 Dec 2008",
-			"Runtime": "120 min",
-			"Genre": "Drama",
-			"Director": "Danny Boyle, Loveleen Tandan(co-director)",
-			"Writer": "Simon Beaufoy (screenplay), Vikas Swarup (novel)",
-			"Actors": "Dev Patel, Saurabh Shukla, Anil Kapoor, Raj Zutshi",
-			"Plot": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\"",
-			"Language": "English, Hindi, French",
-			"Country": "UK, France, USA",
-			"Awards": "Won 8 Oscars. Another 144 wins & 126 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "8.0/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "92%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "86/100"
-				}
-			],
-			"Metascore": "86",
-			"imdbRating": "8.0",
-			"imdbVotes": "692,662",
-			"imdbID": "tt1010048",
-			"Type": "movie",
-			"DVD": "31 Mar 2009",
-			"BoxOffice": "$141,243,551",
-			"Production": "Fox Searchlight Pictures",
-			"Website": "http://www.foxsearchlight.com/slumdogmillionaire/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\48GnBZ2JoVqbOl0yMIks.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Munich (2005) [1080p]\\Munich.2005.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "Munich",
-			"Year": "2005",
-			"Rated": "R",
-			"Released": "06 Jan 2006",
-			"Runtime": "164 min",
-			"Genre": "Crime, Drama, History",
-			"Director": "Steven Spielberg",
-			"Writer": "Tony Kushner (screenplay), Eric Roth (screenplay), George Jonas (book)",
-			"Actors": "Eric Bana, Daniel Craig, Ciarán Hinds, Mathieu Kassovitz",
-			"Plot": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
-			"Language": "English, German, French, Hebrew, Arabic, Italian, Greek, Russian",
-			"Country": "France, Canada, USA",
-			"Awards": "Nominated for 5 Oscars. Another 13 wins & 64 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "7.6/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "77%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "74/100"
-				}
-			],
-			"Metascore": "74",
-			"imdbRating": "7.6",
-			"imdbVotes": "186,678",
-			"imdbID": "tt0408306",
-			"Type": "movie",
-			"DVD": "09 May 2006",
-			"BoxOffice": "$47,379,090",
-			"Production": "Universal Pictures",
-			"Website": "http://www.munichmovie.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2dphsifybuT4nJ1OChGm.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Begin Again (2013) [1080p]\\Begin.Again.2013.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "Begin Again",
-			"Year": "2013",
-			"Rated": "R",
-			"Released": "11 Jul 2014",
-			"Runtime": "104 min",
-			"Genre": "Comedy, Drama, Music",
-			"Director": "John Carney",
-			"Writer": "John Carney",
-			"Actors": "James Corden, Keira Knightley, Mark Ruffalo, Hailee Steinfeld",
-			"Plot": "A chance encounter between a disgraced music-business executive and a young singer-songwriter, new to Manhattan, turns into a promising collaboration between the two talents.",
-			"Language": "English",
-			"Country": "USA",
-			"Awards": "Nominated for 1 Oscar. Another 4 wins & 16 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAxMTI4MTgzMV5BMl5BanBnXkFtZTgwOTAwODEwMjE@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "7.4/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "81%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "62/100"
-				}
-			],
-			"Metascore": "62",
-			"imdbRating": "7.4",
-			"imdbVotes": "116,807",
-			"imdbID": "tt1980929",
-			"Type": "movie",
-			"DVD": "28 Oct 2014",
-			"BoxOffice": "$12,078,174",
-			"Production": "The Weinstein Company",
-			"Website": "http://beginagainfilm.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\09oXr1rPPYPUbo1tYRZn.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Pride and Prejudice (2005) [1080p]\\Pride.and.Prejudice.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
-		"omdb": {
-			"Title": "Pride and Prejudice",
-			"Year": "1995–",
-			"Rated": "TV-PG",
-			"Released": "14 Jan 1996",
-			"Runtime": "327 min",
-			"Genre": "Drama, Romance",
-			"Director": "N/A",
-			"Writer": "N/A",
-			"Actors": "Jennifer Ehle, Colin Firth, Susannah Harker, Julia Sawalha",
-			"Plot": "Jane Austen's classic novel about the prejudice that occurred between the 19th century classes and the pride which would keep lovers apart.",
-			"Language": "English",
-			"Country": "UK",
-			"Awards": "Won 1 Primetime Emmy. Another 8 wins & 13 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDM0MjFlOGYtNTg2ZC00MmRkLTg5OTQtM2U5ZjUyYTgxZThiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "9.0/10"
-				}
-			],
-			"Metascore": "N/A",
-			"imdbRating": "9.0",
-			"imdbVotes": "59,521",
-			"imdbID": "tt0112130",
-			"Type": "series",
-			"totalSeasons": "1",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SGBrP4MajsVDICy8tjn4.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\The Dark Knight Rises (2012) [1080p]\\The.Dark.Knight.Rises.2012.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "The Dark Knight Rises",
-			"Year": "2012",
-			"Rated": "PG-13",
-			"Released": "20 Jul 2012",
-			"Runtime": "164 min",
-			"Genre": "Action, Thriller",
-			"Director": "Christopher Nolan",
-			"Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
-			"Actors": "Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt",
-			"Plot": "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
-			"Language": "English, Arabic",
-			"Country": "UK, USA",
-			"Awards": "Nominated for 1 BAFTA Film Award. Another 38 wins & 101 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "8.4/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "87%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "78/100"
-				}
-			],
-			"Metascore": "78",
-			"imdbRating": "8.4",
-			"imdbVotes": "1,257,286",
-			"imdbID": "tt1345836",
-			"Type": "movie",
-			"DVD": "03 Dec 2012",
-			"BoxOffice": "$448,130,642",
-			"Production": "Warner Bros. Pictures",
-			"Website": "http://www.thedarkknightrises.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\H7eD2Ff9uwXhXWiQQ5U1.jpg"
-		}
-	},
-	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Drunken Master (1978) [720p] [YTS.PE]\\Drunken.Master.1978.720p.BluRay.x264-[YTS.PE].mp4",
 		"omdb": {
 			"Title": "The Legend of Drunken Master",
@@ -5039,51 +4698,7 @@
 		}
 	},
 	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\The Pianist (2002) [1080p]\\The.Pianist.2002.1080p.BrRip.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "The Pianist",
-			"Year": "2002",
-			"Rated": "R",
-			"Released": "28 Mar 2003",
-			"Runtime": "150 min",
-			"Genre": "Biography, Drama, Music",
-			"Director": "Roman Polanski",
-			"Writer": "Ronald Harwood (screenplay), Wladyslaw Szpilman (book)",
-			"Actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard",
-			"Plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
-			"Language": "English, German, Russian",
-			"Country": "France, Poland, Germany, UK",
-			"Awards": "Won 3 Oscars. Another 52 wins & 73 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "8.5/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "96%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "85/100"
-				}
-			],
-			"Metascore": "85",
-			"imdbRating": "8.5",
-			"imdbVotes": "560,136",
-			"imdbID": "tt0253474",
-			"Type": "movie",
-			"DVD": "27 May 2003",
-			"BoxOffice": "$32,519,322",
-			"Production": "Focus Features",
-			"Website": "http://www.thepianistmovie.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Cme0S9blmu6Gm78HQoCa.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
 		"omdb": {
 			"Title": "Startup.com",
 			"Year": "2001",
@@ -5295,94 +4910,6 @@
 		}
 	},
 	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
-		"omdb": {
-			"Title": "Startup.com",
-			"Year": "2001",
-			"Rated": "R",
-			"Released": "01 Jun 2001",
-			"Runtime": "107 min",
-			"Genre": "Documentary",
-			"Director": "Chris Hegedus, Jehane Noujaim",
-			"Writer": "N/A",
-			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
-			"Plot": "Traces the birth and failure of new media company govWorks.com.",
-			"Language": "English",
-			"Country": "USA",
-			"Awards": "10 wins & 6 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "7.1/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "92%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "75/100"
-				}
-			],
-			"Metascore": "75",
-			"imdbRating": "7.1",
-			"imdbVotes": "3,081",
-			"imdbID": "tt0256408",
-			"Type": "movie",
-			"DVD": "18 Sep 2001",
-			"BoxOffice": "$505,254",
-			"Production": "Artisan Entertainment",
-			"Website": "http://www.artisanent.com/startupdotcom",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\NJC9HzhuPNn4izakmaXa.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
-		"omdb": {
-			"Title": "Startup.com",
-			"Year": "2001",
-			"Rated": "R",
-			"Released": "01 Jun 2001",
-			"Runtime": "107 min",
-			"Genre": "Documentary",
-			"Director": "Chris Hegedus, Jehane Noujaim",
-			"Writer": "N/A",
-			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
-			"Plot": "Traces the birth and failure of new media company govWorks.com.",
-			"Language": "English",
-			"Country": "USA",
-			"Awards": "10 wins & 6 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "7.1/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "92%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "75/100"
-				}
-			],
-			"Metascore": "75",
-			"imdbRating": "7.1",
-			"imdbVotes": "3,081",
-			"imdbID": "tt0256408",
-			"Type": "movie",
-			"DVD": "18 Sep 2001",
-			"BoxOffice": "$505,254",
-			"Production": "Artisan Entertainment",
-			"Website": "http://www.artisanent.com/startupdotcom",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lRzLrf5su1bw5I3y68MH.jpg"
-		}
-	},
-	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\Babel.2006.1080p.BluRay.H264.AAC-RARBG.mp4",
 		"omdb": {
 			"Title": "Babel",
@@ -5424,94 +4951,6 @@
 			"Website": "http://www.paramountvantage.com/babel/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eCjFq14JtBqzgI2at8bC.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"omdb": {
-			"Title": "Carnage",
-			"Year": "2011",
-			"Rated": "R",
-			"Released": "18 Nov 2011",
-			"Runtime": "80 min",
-			"Genre": "Comedy, Drama",
-			"Director": "Roman Polanski",
-			"Writer": "Yasmina Reza (play), Yasmina Reza (screenplay), Roman Polanski (screenplay), Michael Katims (translation)",
-			"Actors": "Jodie Foster, Kate Winslet, Christoph Waltz, John C. Reilly",
-			"Plot": "Two pairs of parents hold a cordial meeting after their sons are involved in a fight, though as their time together progresses, increasingly childish behavior throws the discussion into chaos.",
-			"Language": "English",
-			"Country": "France, Germany, Poland, Spain",
-			"Awards": "Nominated for 2 Golden Globes. Another 7 wins & 19 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MjAyMDUwNl5BMl5BanBnXkFtZTcwOTQwMDMwNw@@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "7.2/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "71%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "61/100"
-				}
-			],
-			"Metascore": "61",
-			"imdbRating": "7.2",
-			"imdbVotes": "103,419",
-			"imdbID": "tt1692486",
-			"Type": "movie",
-			"DVD": "20 Mar 2012",
-			"BoxOffice": "$2,200,000",
-			"Production": "Sony Pictures Classics",
-			"Website": "http://www.sonyclassics.com/carnage/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\5yn7VAgoYgJ5w6bqSniy.jpg"
-		}
-	},
-	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Interstellar (2014) (2014) [1080p]\\Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4",
-		"omdb": {
-			"Title": "Interstellar",
-			"Year": "2014",
-			"Rated": "PG-13",
-			"Released": "07 Nov 2014",
-			"Runtime": "169 min",
-			"Genre": "Adventure, Drama, Sci-Fi",
-			"Director": "Christopher Nolan",
-			"Writer": "Jonathan Nolan, Christopher Nolan",
-			"Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
-			"Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-			"Language": "English",
-			"Country": "USA, UK, Canada, Iceland",
-			"Awards": "Won 1 Oscar. Another 43 wins & 143 nominations.",
-			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
-			"Ratings": [
-				{
-					"Source": "Internet Movie Database",
-					"Value": "8.6/10"
-				},
-				{
-					"Source": "Rotten Tomatoes",
-					"Value": "71%"
-				},
-				{
-					"Source": "Metacritic",
-					"Value": "74/100"
-				}
-			],
-			"Metascore": "74",
-			"imdbRating": "8.6",
-			"imdbVotes": "1,102,530",
-			"imdbID": "tt0816692",
-			"Type": "movie",
-			"DVD": "31 Mar 2015",
-			"BoxOffice": "$158,737,441",
-			"Production": "Paramount Pictures",
-			"Website": "http://www.InterstellarMovie.com/",
-			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\wSTcCDDoykPzEQJCXNz3.jpg"
 		}
 	},
 	{
@@ -5969,5 +5408,93 @@
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
 		"title": "M et le 3eme secret",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PQnuJdmODB6jBArb7T5Z.jpg"
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Little.Miss.Sunshine.2006.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
+		"omdb": {
+			"Title": "Startup.com",
+			"Year": "2001",
+			"Rated": "R",
+			"Released": "01 Jun 2001",
+			"Runtime": "107 min",
+			"Genre": "Documentary",
+			"Director": "Chris Hegedus, Jehane Noujaim",
+			"Writer": "N/A",
+			"Actors": "Kaleil Isaza Tuzman, Tom Herman, Kenneth Austin, Tricia Burke",
+			"Plot": "Traces the birth and failure of new media company govWorks.com.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "10 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODgwNDk0MF5BMl5BanBnXkFtZTcwMjcwMjIyMQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "92%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.1",
+			"imdbVotes": "3,081",
+			"imdbID": "tt0256408",
+			"Type": "movie",
+			"DVD": "18 Sep 2001",
+			"BoxOffice": "$505,254",
+			"Production": "Artisan Entertainment",
+			"Website": "http://www.artisanent.com/startupdotcom",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Y2xEpVBkHknPQk20FmKa.jpg"
+		}
+	},
+	{
+		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\James Bond Casino Royale (2006) [1080p]\\Casino.Royale.2006.1080p.BRrip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Casino Royale",
+			"Year": "2006",
+			"Rated": "PG-13",
+			"Released": "17 Nov 2006",
+			"Runtime": "144 min",
+			"Genre": "Action, Adventure, Thriller",
+			"Director": "Martin Campbell",
+			"Writer": "Neal Purvis (screenplay), Robert Wade (screenplay), Paul Haggis (screenplay), Ian Fleming (novel)",
+			"Actors": "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench",
+			"Plot": "Armed with a license to kill, Secret Agent James Bond sets out on his first mission as 007, and must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale, Montenegro, but things are not what they seem.",
+			"Language": "English, French",
+			"Country": "UK, Czech Republic, USA, Germany, Bahamas, Italy",
+			"Awards": "Won 1 BAFTA Film Award. Another 26 wins & 43 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "95%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "80/100"
+				}
+			],
+			"Metascore": "80",
+			"imdbRating": "8.0",
+			"imdbVotes": "504,713",
+			"imdbID": "tt0381061",
+			"Type": "movie",
+			"DVD": "13 Mar 2007",
+			"BoxOffice": "$167,007,184",
+			"Production": "Sony",
+			"Website": "http://www.sonypictures.com/movies/casinoroyale/site/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\MNlQ8wtpsO3cnIEc0ZoV.jpg"
+		}
 	}
 ]

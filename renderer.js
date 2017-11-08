@@ -15,6 +15,7 @@ const omdb = require('./omdb.js');
 const files = require("./files.js");
 const ui = require('./ui.js');
 
+// au lancement, on update la db
 dblib.updateDB().then(res => {
   console.log(res)
 }).catch(err => {
@@ -45,7 +46,10 @@ function renderDashboard() {
   files.listMoviesPaths(root_dir).then(mov_list => {
     mov_list = _.shuffle(mov_list); // on met un peu d'aléa dans la liste
     console.log(mov_list.length + " films trouvés ! Merci Seigneur !")
-    mov_list.forEach(mov_path => {
+    // setProgress(50)
+
+    mov_list.forEach((mov_path, ind_mov) => {
+      // setProgress(parseInt(ind_mov * 100 / mov_list.length))
       // on cherche le film dans la base
       var mov_path_fname = path.basename(mov_path)
       var film_o = _.find(dblib.db, p => {
@@ -193,10 +197,19 @@ function createNavbar() {
     renderDashboard()
   })
 
+  // ========= 4 ============= On ajoute la barre de recherche
+  var searchbar = $('<div class="mdh-expandable-search mdl-cell--hide-phone">' +
+        '<i class="material-icons search-icon">search</i>' +
+        '<form action="#">' +
+          '<input type="text" placeholder="Search" size="1">' +
+        '</form>' +
+      '</div>')
+
   nav.append(change_dir)
   nav.append(zIn)
   nav.append(zOut)
   nav.append(reload)
+  nav.append(searchbar)
   return nav
 }
 
@@ -315,6 +328,21 @@ function playVideo(path) {
   shell.openItem(path);
 }
 
+
+// document.querySelector('#progress').addEventListener('mdl-componentupgraded', function() {
+//   this.MaterialProgress.setProgress(10);
+// });
+// setProgress(80);
+// function setProgress(n) {
+//   console.log("progress...")
+//   var _this = this;
+//   document.querySelector('#progress').addEventListener('mdl-componentupgraded', function() {
+//     _this.MaterialProgress.setProgress(n);
+//   });
+// }
+
 module.exports.db = dblib.db;
 module.exports.playVideo = playVideo;
 module.exports.renderDashboard = renderDashboard;
+
+module.exports.MaterialProgress;

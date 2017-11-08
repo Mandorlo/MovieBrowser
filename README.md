@@ -1,8 +1,8 @@
 # TODO
 
-* ajouter un bouton pour rafraichir la page / la db
-* améliorer la db update en regardant, même si le path est différent, si le film n'est pas quand même déjà dans la base
+* ajouter une barre de recherche et la possibilité d'ajouter des tags
 * ajouter un toast pour afficher les erreurs
+* ajouter la date d'ajout du film dans la base dans l'objet film_o
 
 # Setup
 

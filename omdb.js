@@ -2,11 +2,11 @@
 
 var request = require('request');
 
-function searchFilm(search_s) {
-  return get({"t": search_s})
+function searchFilm(search_s, str = false) {
+  return get({"t": search_s}, str)
 }
 
-function get(opt) {
+function get(opt, str) {
   var myurl = "http://www.omdbapi.com/?apikey=47dce8d4";
   for (var k in opt) {
     myurl += "&" + k + "=" + encodeURI(opt[k])
@@ -28,7 +28,8 @@ function get(opt) {
         if (o && o.Response && o.Response == "False") {
           reject({opt: opt, err: o})
         } else if (o && o.Response && o.Response == "True") {
-          resolve(o)
+          if (str) resolve(JSON.stringify(o, null, '  '))
+          else resolve(o)
         } else {
           reject({opt: opt, err: "Arg pb with OMDB API..."})
         }

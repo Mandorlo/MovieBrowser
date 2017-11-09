@@ -7,12 +7,14 @@
   align-items: center;
   justify-content: center;
   line-height: 40px;
-}
-
-.mdh-expandable-search form {
   max-width: 600px;
   width: 500px;
 }
+
+/*.mdh-expandable-search form {
+  max-width: 600px;
+  width: 500px;
+}*/
 
 .mdh-expandable-search,
 .mdh-expandable-search form,

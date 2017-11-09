@@ -3,145 +3,189 @@
 		"path": "D:\\Films\\7 years in Tibet\\Seven Years in Tibet-720p MP4 AAC x264 BRRip 1997-CC.mp4",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\frE5G2LjjG5621IBvQWJ.jpeg",
-		"title": "Seven Years in Tibet"
+		"title": "Seven Years in Tibet",
+		"tags": [
+			"historique",
+			"histoire",
+			"vrai"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Back to the future\\Back to the future III\\Back.to.the.Future.Part.3.1990.1080p.Brrip.x264.Deceit.YIFY.mp4",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Z5QhbIkWZjlwQdt3rjvj.jpg",
-		"title": "Back to the Future III"
+		"title": "Back to the Future III",
+		"tags": [
+			"sci-fi"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Gitta Mallasz\\CPC93002894_gitta_mallasz_le_scribe_des_anges.avi",
 		"omdb": null,
 		"title": "Gitta Mallasz le Scribe des Anges",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\hBs6bs7Z8Wyjem7CYjjC.gif"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\hBs6bs7Z8Wyjem7CYjjC.gif",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\La vita è bella\\La vita è bella 1997 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako (3).mkv",
 		"omdb": null,
 		"title": "La Vita è Bella",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Sqpux1Fo8LSZo3lgIrqu.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Sqpux1Fo8LSZo3lgIrqu.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Amélie Poulain\\Amelie.2001.BDRip.1080p.Rus.Fre.mkv",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\MvceUrGy1dwoq5aBEnUv.jpg",
-		"title": "Amélie Poulain"
+		"title": "Amélie Poulain",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Nos jours heureux\\Nos.Jours.Heureux.FRENCH.DVDRiP.XviD.MZISYS.avi",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VDvMMhyYgLXDCc26HNSr.jpg",
-		"title": "Nos Jours Heureux"
+		"title": "Nos Jours Heureux",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Lost in translation\\Lost In Translation.VOSTF.avi",
 		"omdb": null,
 		"title": "Lost in Translation",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\dpoOfspL0MwB4sf27dr2.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\dpoOfspL0MwB4sf27dr2.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Big Fish\\Big Fish (2003).720p.700mb.mkv",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pTyvCHMXrrZuA9hOKr05.jpg",
-		"title": "Big Fish"
+		"title": "Big Fish",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\1 - Harry Potter and the Sorcerers Stone\\Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY.mp4",
 		"omdb": null,
 		"title": "Harry Potter and the Sorcerers Stone",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OliUyvxfuk30qRU8slb8.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OliUyvxfuk30qRU8slb8.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Fellowship of the Ring\\The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.EXTENDED.2001.1080p.BrRip.x264.YIFY.mp4",
 		"omdb": null,
 		"title": "The Lord of the Rings - The Fellowship of the Ring",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6P9JHOOg0qxbwACnhowd.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6P9JHOOg0qxbwACnhowd.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Oceans Eleven\\Oceans Eleven 2001.720p.BrRip.x264.YIFY.mp4",
 		"omdb": null,
 		"title": "Oceans Eleven",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\p0MKZqOQ7gtWxxxZKGcY.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\p0MKZqOQ7gtWxxxZKGcY.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Loin des hommes\\Loin.Des.Hommes.2014.FRENCH.BRRip.XviD-DesTroY.avi",
 		"omdb": null,
 		"title": "Loin des Hommes",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\RoKOnNy85CIvtungAOVB.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\RoKOnNy85CIvtungAOVB.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Return of the King\\The.Lord.of.the.Rings.The.Return.of.the.King.EXTENDED.2003.1080p.BrRip.x264.YIFY.mp4",
 		"omdb": null,
 		"title": "The Lord of the Rings The Return of the King",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XwomBnAvHpULZ7VIsQe6.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XwomBnAvHpULZ7VIsQe6.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\6 - Harry Potter and the Half Blood Prince\\Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rWjvejCe4A4sMLrkgULz.jpg",
-		"title": "Harry Potter and the Half Blood Prince"
+		"title": "Harry Potter and the Half Blood Prince",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\The Matrix\\The Matrix 1999 720p BluRay x264-MgB.mp4",
 		"omdb": null,
 		"title": "The Matrix",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ETBvbrjKAM3YhUBKN4xf.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ETBvbrjKAM3YhUBKN4xf.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\7 - Harry Potter and the Deathly Hallows\\Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.1080p.BrRip.264.YIFY.mp4",
 		"omdb": null,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PcG0sdBQ5EQchkGyQ5oe.jpg",
-		"title": "Harry Potter and the Deathly Hallows Part 2"
+		"title": "Harry Potter and the Deathly Hallows Part 2",
+		"tags": [
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Indiana Jones and the raiders of the lost ark\\Indiana.Jones.And.The.Raiders.Of.The.Lost.Ark.1981.1080p.BluRay.x264.YIFY.mp4",
 		"omdb": null,
 		"title": "Indiana Jones And The Raiders Of The Lost Ark",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SsSFXD0mL7NuD0JDIEId.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SsSFXD0mL7NuD0JDIEId.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Mulan\\Mulan.1998.1080p.BRrip.x264.GAZ.YIFY.mp4",
 		"omdb": null,
 		"title": "Mulan GAZ",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lz0qMhWv6aYl2PPUgXyO.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lz0qMhWv6aYl2PPUgXyO.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Anna Karenina\\Anna.Karenina.2012.1080p.BRrip.x264.GAZ.mp4",
 		"omdb": null,
 		"title": "Anna Karenina",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eS5jEjeAfaTJzNoZMTv4.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eS5jEjeAfaTJzNoZMTv4.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Lord of the Rings\\The Lord of the Rings - The Two Towers\\The.Lord.of.the.Rings.The.Two.Towers.2002.ExD.1080p.BrRip.x264.YIFY.mp4",
 		"omdb": null,
 		"title": "The Lord of the Rings The Two Towers",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qyELwkBMdnucUTtzmuEG.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qyELwkBMdnucUTtzmuEG.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Pride and Prejudice\\Pride.and.Prejudice.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
 		"omdb": null,
 		"title": "Pride and Prejudice",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lny7Lj3fkbgzct36qRnk.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lny7Lj3fkbgzct36qRnk.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Pirates of the Caribbean - curse of the Black Pearl\\Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.1080p.BrRip.x264.Deceit.YIFY.mp4",
 		"omdb": null,
 		"title": "Pirates of the Caribbean Curse of the Black Pearl",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lx0wM26hDkCiqSe7DqzD.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Lx0wM26hDkCiqSe7DqzD.jpg",
+		"note": 0,
+		"tags": [
+			"johnny",
+			"depp"
+		]
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Premium Rush\\Premium.Rush.2012.720p.BDRip.XviD.AC3-ViSiON_IT.avi",
 		"omdb": null,
 		"title": "Premium Rush",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\012v2SaSarfE4xM5D36B.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\012v2SaSarfE4xM5D36B.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Frozen\\frozen.2013.1080p.bluray.x264-sparks_IT.mkv",
 		"omdb": null,
 		"title": "Frozen",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\J51WCb1iEE9AQi9LXI7e.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\J51WCb1iEE9AQi9LXI7e.jpg",
+		"tags": [
+			"disney",
+			"animation",
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Lion\\Lion.2016.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -185,7 +229,8 @@
 			"Website": "http://disney.go.com/lionking/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lvTeYi8kCKbQf4Ijkhs2.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Catch me if you can\\Catch.Me.If.You.Can.2002.1080p.BluRay.x264.YIFY.mp4",
@@ -229,7 +274,8 @@
 			"Website": "http://www.dreamworks.com/catchthem/jump2.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\g70tYjEEJpzV9El8wZWd.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\A Street Cat Named Bob\\A.Street.Cat.Named.Bob.2016.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -273,7 +319,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\932ytdh9N7hlJFUFhY3V.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Beauty and the Beast\\Beauty.and.the.Beast.2017.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -317,7 +364,8 @@
 			"Website": "http://www.disney.com/beautyandthebeast",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ib1uIDemf0srMaQR7luy.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Donnie Brasco\\Donnie Brasco.avi",
@@ -361,7 +409,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9Nrdy9bWseUMAy8hFxde.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Mask of Zorro\\The.Mask.of.Zorro.1998.1080p.BluRay.x264.anoXmous.mp4",
@@ -405,7 +454,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TKcwvt9hpccrltCIkvVj.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Assassins Creed\\Assassins.Creed.2016.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -443,7 +493,8 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OVUmtyMw8R6N9b5xKvSZ.jpg"
 		},
 		"title": "Assassins Creed",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OVUmtyMw8R6N9b5xKvSZ.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OVUmtyMw8R6N9b5xKvSZ.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Munich\\Munich.2005.1080p.BluRay.x264.YIFY.mp4",
@@ -487,7 +538,8 @@
 			"Website": "http://www.munichmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ppoVTy8kAMlNaqIkQIdw.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Carnage\\Carnage.2011.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -531,7 +583,8 @@
 			"Website": "http://www.sonyclassics.com/carnage/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Yp8RyFXOrjBLkg151A0d.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Curious Case of Benjamin Button\\The.Curious.Case.Of.Benjamin.Button.2008.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -575,7 +628,8 @@
 			"Website": "http://www.BenjaminButton.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\kTRNZr34mByS85GpV7cv.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Asterix et Obelix Mission Cléopâtre\\Asterix & Obelix.Mission.Cleopatra.2002.BluRay.720p.DTS.x264-CHD.mkv",
@@ -605,7 +659,8 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OzLpmQsK8BW8FetfQBKC.jpg"
 		},
 		"title": "Astérix et Obélix Mission Cléopâtre",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OzLpmQsK8BW8FetfQBKC.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OzLpmQsK8BW8FetfQBKC.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\The Curse of the Jade Scorpion\\The.Curse.of.the.Jade.Scorpion.2001.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -649,7 +704,8 @@
 			"Website": "http://www.dreamworks.com/jadescorpion",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pfsk0qLHJxU2nPCWPzFX.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\The Emperor's New Groove\\The Emperor's New Groove_FR.mp4",
@@ -693,7 +749,8 @@
 			"Website": "http://disney.go.com/disneypictures/emperorsnewgroove",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HhTymuKofxUIqxLptNIM.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Shutter Island\\Shutter.Island.2010.1080p.BluRay.x264.YIFY.mp4",
@@ -737,7 +794,8 @@
 			"Website": "http://www.shutterisland.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lUTcoQaiQ1iAnEXSbKQT.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Inception\\Inception.2010.720p.x264.mkv",
@@ -781,7 +839,13 @@
 			"Website": "http://inceptionmovie.warnerbros.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\zH8EfLSQUvtenazWgq2D.jpg"
-		}
+		},
+		"title": "Inception",
+		"tags": [
+			"action",
+			"aventure"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Arrival\\Arrival.2016.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -825,7 +889,8 @@
 			"Website": "http://www.arrivalmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\09xNidMwKXck86EPNqSC.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Tangled\\Tangled.2010.1080p.BluRay.x264.YIFY.mp4",
@@ -869,7 +934,8 @@
 			"Website": "http://Disney.com/Tangled",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\K5DSFLnKUGABx4ZwFpzS.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Pocahontas\\Pocahontas.1995.1080p.BrRip.x264.YIFY_FR.mp4",
@@ -913,7 +979,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3P5gZnZmYPzWbRjt23xC.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Superheroes\\Man of steel\\Man.of.Steel.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -957,7 +1024,8 @@
 			"Website": "http://manofsteel.warnerbros.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\dKu4paQhnTWO6IvutvuM.jpg"
-		}
+		},
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Moana\\Moana.2016.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -1001,7 +1069,8 @@
 			"Website": "http://movies.disney.com/moana",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\39tXo69CUNYZyQrr5jLW.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Films étrangers\\Romanzo criminale\\Romanzo Criminale.avi",
@@ -1041,7 +1110,8 @@
 			"Website": "http://www.romanzocriminale.it/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\gr7pmcQPpd6xcyofajFf.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Hidalgo\\Hidalgo.2004.BluRay.1080p.x264.YIFY.mp4",
@@ -1085,7 +1155,8 @@
 			"Website": "http://www.disney.com/hidalgo",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VtnLaPwEKCuZtPWLUWQN.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\Manhattan\\Manhattan.1979.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -1129,7 +1200,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iLWRiyaIeSxGjvmFbqpt.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\5 - Harry Potter and the Order of the Phoenix\\Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4",
@@ -1173,7 +1245,8 @@
 			"Website": "http://www.harrypotterorderofthephoenix.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\24XXroqwuVaXI6PLImVI.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\Jane Eyre\\Jane.Eyre.2011.720p.BrRip.X264.YIFY.mp4",
@@ -1217,7 +1290,8 @@
 			"Website": "http://www.JaneEyretheMovie.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9xorOwlURABXkli2Zrjk.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Leger sympa\\The Devil wears Prada\\The.Devil.Wears.Prada.2006.720p.BrRip.x264.YIFY.mp4",
@@ -1261,7 +1335,8 @@
 			"Website": "http://www.devilwearspradamovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eQdTUeJ4oW5WCJHUnT6i.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Her\\Her.2013.720p.BluRay.x264.YIFY.mp4",
@@ -1305,7 +1380,8 @@
 			"Website": "http://www.herthemovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nZgOnbFDGac8F0o3sl8S.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Superheroes\\Batman begins\\Batman.Begins.2005.1080p.BluRay.x264.YIFY_FR.mp4",
@@ -1349,7 +1425,8 @@
 			"Website": "http://www.batmanbegins.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\21Vyjw02mHQp82el9rQ3.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Pianist\\The.Pianist.2002.1080p.BrRip.x264.YIFY.mp4",
@@ -1393,7 +1470,8 @@
 			"Website": "http://www.thepianistmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TRO3LczeZdBYJLkoJUSu.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Taken\\Taken.2008.1080pBrRip.x264.YIFY.mp4",
@@ -1437,7 +1515,13 @@
 			"Website": "http://www.takenmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pF48DiHDjFqIrCUnlkBB.jpg"
-		}
+		},
+		"title": "Taken",
+		"tags": [
+			"action",
+			"aventure"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Slumdog Millionaire\\Slumdog.Millionaire.2008.1080p.BluRay.x264.YIFY.mp4",
@@ -1481,7 +1565,8 @@
 			"Website": "http://www.foxsearchlight.com/slumdogmillionaire/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SF8UBghgVJSJO9iZOjZ7.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Out of Africa\\Out.of.Africa.1985.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -1521,7 +1606,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\u0C7JAiDcrGkFMM1BmJD.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\Magic in the Moonlight\\Magic.in.the.Moonlight.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -1565,7 +1651,8 @@
 			"Website": "http://sonyclassics.com/magicinthemoonlight/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SNDMe6Yp8OUHXgAaRXUi.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\2 - Harry Potter and the Chamber of Secrets\\Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4",
@@ -1609,7 +1696,8 @@
 			"Website": "http://harrypotter.warnerbros.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6LbxgpVe9klLWpfp3ukv.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The secret life of Walter Mitty\\The.Secret.Life.of.Walter.Mitty.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -1653,7 +1741,8 @@
 			"Website": "http://WalterMitty.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2FRgPgZs8zqbDFTe7Np1.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Drunken Master\\The.Legend.Of.Drunken.Master.1994.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -1697,7 +1786,8 @@
 			"Website": "http://www.dimensionfilms.com/mm_front/owa/dim_movie_page.entryPoint?midStr=1422",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Tvn4OJSsf7EfAFrFiZAA.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\Lawrence of Arabia\\Lawrence.of.Arabia.(1962).720p.BrRip.YIFY.mkv",
@@ -1741,7 +1831,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\X9NzbRZnTxbWTgZaI3tY.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Up\\Up.2009.1080p.BluRay.x264.YIFY.mp4",
@@ -1785,7 +1876,13 @@
 			"Website": "http://Disney.com/UP",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bK0OvD6XrRnOYaVVz9O8.jpg"
-		}
+		},
+		"title": "Up",
+		"tags": [
+			"animation",
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Entrapment\\Entrapment.1999.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -1829,7 +1926,8 @@
 			"Website": "http://www.foxmovies.com/entrapmentcs.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\8cfle6SMpgZ4e8LMCAYB.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Hook\\Hook.1991.1080p.BRrip.x264.YIFY_FR.mp4",
@@ -1873,7 +1971,12 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\tggYeOKZE3pQoGgKEwFF.jpg"
-		}
+		},
+		"title": "Hook",
+		"tags": [
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Tim Burton\\Edward Scissorhands\\Edward.Scissorhands.1990.720p.BrRip.x264.YIFY.mp4",
@@ -1917,7 +2020,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9OlJscx5WetG9sS03SGa.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Tarzan\\Tarzan.1999.1080p.BrRip.x264.YIFY.mp4",
@@ -1961,7 +2065,13 @@
 			"Website": "http://www.tarzanlordlajungle.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZQjUuz6LMeISc0xjvWLr.jpg"
-		}
+		},
+		"title": "Tarzan",
+		"tags": [
+			"animation",
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Hobbit\\The Hobbit - The Desolation of Smaug\\The.Hobbit.The.Desolation.of.Smaug.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -2005,7 +2115,8 @@
 			"Website": "http://www.thehobbit.com/index.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6Yzlh8kNDp4IwZGTOODo.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\The Shack\\The.Shack.2017.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -2049,7 +2160,8 @@
 			"Website": "http://www.theshack.movie/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XWP6z4uiVpi8PY3cxrCr.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\12 Years a Slave\\12.Years.a.Slave.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -2093,7 +2205,12 @@
 			"Website": "http://www.foxsearchlight.com/12yearsaslave/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\W39TtAc6vk9oOAve96rS.jpg"
-		}
+		},
+		"title": "12 Years a Slave",
+		"tags": [
+			"historique"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Ratatouille\\Ratatouille.2007.1080p.BrRip.x264.YIFY.mp4",
@@ -2137,7 +2254,13 @@
 			"Website": "http://www.ratatouille.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Q8qQeoObLvWslGKDbFQt.jpg"
-		}
+		},
+		"title": "Ratatouille",
+		"tags": [
+			"animation",
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\Small Time Crooks\\Small.Time.Crooks.2000.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -2181,7 +2304,8 @@
 			"Website": "http://www.amazon.com/smalltimecrooks",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\LbHcsdb6igxYvhrgDqjq.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Inside out\\Inside.Out.2015.1080p.BluRay.x264.YIFY.mp4",
@@ -2225,7 +2349,8 @@
 			"Website": "https://www.facebook.com/PixarInsideOut",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\RfzhkN11c75LhmOxCBjG.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Bollywood\\Bend it like Beckham\\Bend.It.Like.Beckham.2002.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -2269,7 +2394,8 @@
 			"Website": "http://www.foxsearchlight.com/benditlikebeckham",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YIpPiy19G3nsvckPuz4W.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\Romero\\Romero.mp4",
@@ -2309,7 +2435,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\FH4MK6ldRucIRpkVFTs5.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Monsters Inc\\Monsters.Inc.2001.1080p.BrRip.x264.YIFY.mp4",
@@ -2353,7 +2480,8 @@
 			"Website": "http://disney.go.com/monstersinc/index.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Cnsty41rgq0PkeG3gsom.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Woman in gold\\Woman.in.Gold.2015.720p.BluRay.x264.YIFY.mp4",
@@ -2397,7 +2525,8 @@
 			"Website": "http://www.facebook.com/WomanInGoldMovie",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\QYkkyIGAzZUURb0MQBb9.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Indiana Jones and the last crusade\\Indiana.Jones.And.The.Last.Crusade.1989.1080p.BluRay.x264.YIFY.mp4",
@@ -2441,7 +2570,8 @@
 			"Website": "http://www.indianajones.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WFIBg41ajHyGGoIc2cfg.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Armageddon\\Armageddon.1998.1080p.BrRip.x264.YIFY.mp4",
@@ -2485,7 +2615,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\EmpgC1f1FUDd0tKyTMOW.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Bollywood\\Lagaan_\\Lagaan Once Upon a Time in India.avi",
@@ -2529,7 +2660,8 @@
 			"Website": "http://www.lagaan.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\4CKnRYsnBk56u6shgATk.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\The Purple Rose of Cairo\\The.Purple.Rose.of.Cairo.1985.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -2573,7 +2705,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\T1yznc3iwBpUajoAGHHT.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Gone with the Wind\\Gone.With.The.Wind.1939.720p.BluRay.x264.YIFY.mkv",
@@ -2617,7 +2750,12 @@
 			"Website": "http://warnervideo.com/gonewiththewind/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\tLAp1lzrgbAz3B7VthuP.jpg"
-		}
+		},
+		"title": "Gone with the Wind",
+		"tags": [
+			"vieux"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Interstellar\\Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -2661,7 +2799,8 @@
 			"Website": "http://www.InterstellarMovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\zqfwEZwyVnmkGEbuW2Ji.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\The Last Samurai\\The.Last.Samurai.2003.1080p.BrRip.x264.YIFY.mp4",
@@ -2705,7 +2844,8 @@
 			"Website": "http://lastsamurai.warnerbros.com/html_index.php",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UQXUByn0IY2GAnr2Uun3.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Jason Bourne 2016\\Jason.Bourne.2016.720p.BluRay.x264-[YTS.AG].mp4",
@@ -2749,7 +2889,8 @@
 			"Website": "http://www.jasonbournemovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\098PyWhjt1kkxq7ErfKY.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Anastasia\\Anastasia.1997.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -2793,7 +2934,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\mdzONiWtmti2XSwCDcHs.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Eternal Sunshine of the Spotless Mind\\Eternal.Sunshine.of.the.Spotless.Mind.2004.1080p.BluRay.x264.anoXmous_.mp4",
@@ -2837,7 +2979,8 @@
 			"Website": "http://www.eternalsunshine.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YOtiHg45iq0K9DIh1jDN.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\Irrational Man\\Irrational.Man.2015.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -2881,7 +3024,8 @@
 			"Website": "http://sonyclassics.com/irrationalman/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\aYwgc3jXSaKkpAWPvXAq.jpg"
-		}
+		},
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\Forrest Gump\\Forrest Gump.avi",
@@ -2925,7 +3069,8 @@
 			"Website": "http://www.paramount.com/movies/forrest-gump/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\sybBBck06YzZor0BbJt4.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Whiplash\\Whiplash.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -2969,7 +3114,8 @@
 			"Website": "http://sonyclassics.com/whiplash/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\aruieEcacwDCeFT1ss4P.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Night at the Museum\\Night.at.the.Museum.2006.1080p.BrRip.x264.YIFY.mp4",
@@ -3013,7 +3159,8 @@
 			"Website": "http://www.nightatthemuseum.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\oMxiYioQAh0vlLJ84cFH.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\3 - Harry Potter and the Prisoner of Azkaban\\Harry.Potter.and.the.Prisoner.of.Azkaban.2004.1080p.BrRip.x264.YIFY.mp4",
@@ -3057,7 +3204,8 @@
 			"Website": "http://azkaban.warnerbros.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\zfKKQtvHMUwuPmgbB37A.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Brave\\Brave.2012.1080p.BRrip.x264.YIFY_FR.mp4",
@@ -3101,7 +3249,13 @@
 			"Website": "http://disney.go.com/brave/?cmp=wdsmp_brv_url_dcombrave",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Vvj8drp1RelJuB8mc6tH.jpg"
-		}
+		},
+		"title": "Brave",
+		"tags": [
+			"animation",
+			"famille"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Gad Elmaleh-Papa est en Haut.avi",
@@ -3137,7 +3291,13 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\afuooiJYSUt7GJroFLzo.jpg"
-		}
+		},
+		"title": "Gad Elmaleh: Papa est en haut",
+		"tags": [
+			"humour",
+			"drole"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Hobbit\\The Hobbit - The Battle of the Five Armies\\The.Hobbit.The.Battle.of.the.Five.Armies.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -3181,7 +3341,8 @@
 			"Website": "http://www.thehobbit.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WkDZLc9as9sCUOq18Gxc.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Superheroes\\The Dark Knight Rises\\The.Dark.Knight.Rises.2012.1080p.BluRay.x264.YIFY.mp4",
@@ -3225,7 +3386,8 @@
 			"Website": "http://www.thedarkknightrises.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\yJQvofmqkabBDLnG78Qy.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Brother Bear\\Brother.Bear.2003.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -3269,7 +3431,8 @@
 			"Website": "http://disney.go.com/disneypictures/brotherbear/main.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\O46nLnh8xzHRI2ve8qPW.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Tracks\\Tracks.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -3313,7 +3476,12 @@
 			"Website": "https://www.facebook.com/weinsteinco",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fzQW7UgcH4FSdK9IJeuk.jpg"
-		}
+		},
+		"title": "Tracks",
+		"tags": [
+			"personnage"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\Citizen Kane\\Citizen Kane (1941).mp4",
@@ -3357,7 +3525,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TLwIJjM2dUyYV9h8se85.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\The Princess and the frog\\The.Princess.and.the.Frog.2009.1080p.BrRip.x264.YIFY.mp4",
@@ -3401,7 +3570,8 @@
 			"Website": "http://www.disney.com/princessandthefrog",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jF6GC4PfAmZ0JxmRpM2n.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Miyazaki\\My neighbor Totoro\\My.Neighbor.Totoro.1988.1080p.BluRay.x264-[YTS.PE].mp4",
@@ -3441,7 +3611,14 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2Y26ej1NkPtFCw9mMEkE.jpg"
-		}
+		},
+		"title": "My Neighbor Totoro",
+		"tags": [
+			"animation",
+			"anime",
+			"japonais"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Minority report\\Minority.Report.2002.1080p.BluRay.x264.YIFY_FR.mp4",
@@ -3487,7 +3664,8 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WsjRs8Klqdfvwmezou3E.jpg"
 		},
 		"title": "Minority Report",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WsjRs8Klqdfvwmezou3E.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WsjRs8Klqdfvwmezou3E.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Golden Compass\\The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.mp4",
@@ -3531,7 +3709,12 @@
 			"Website": "http://www.goldencompassmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\LkLejwZmo4ajDp9P0ZZD.jpg"
-		}
+		},
+		"title": "The Golden Compass",
+		"tags": [
+			"livre"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\August Rush\\August.Rush.2007.1080p.BrRip.x264.YIFY.mp4",
@@ -3575,7 +3758,8 @@
 			"Website": "http://augustrushmovie.warnerbros.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\DivUOBsLhn4o4KAQJiU7.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Ghosts of Girlfriend past\\Ghosts.of.Girlfriends.Past.2009.BluRay.720p.x264.YIFY.mp4",
@@ -3619,7 +3803,8 @@
 			"Website": "http://www.ghostsofgirlfriendspastmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\U15e5aGnYxWMdn0KsSsb.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Leger sympa\\The Intern\\The.Intern.2015.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -3663,7 +3848,8 @@
 			"Website": "http://www.theinternmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\cT3pgv6G2eTROqn3Qij8.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Collateral\\Collateral.mp4",
@@ -3707,7 +3893,8 @@
 			"Website": "http://www.collateral-themovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fQcflRDip1axWIslNgcG.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\Il Postino\\Il Postino.avi",
@@ -3751,7 +3938,12 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UCNbVKTldBwda4EfV3sp.jpg"
-		}
+		},
+		"title": "Il Postino",
+		"tags": [
+			"vieux"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\KungFu Panda 2\\Kung.Fu.Panda.2.2011.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -3795,7 +3987,8 @@
 			"Website": "http://www.kungfupanda.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\P5YtDBdrz2ERfJUBSaGM.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Captain Fantastic\\Captain.Fantastic.2016.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -3839,7 +4032,8 @@
 			"Website": "http://www.bleeckerstreetmedia.com/captainfantastic",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qw5nFf3RUm22YT1lf0xX.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\How to train your dragon\\How.To.Train.Your.Dragon.2010.1080p.BrRip.x264.YIFY.mp4",
@@ -3883,7 +4077,8 @@
 			"Website": "http://www.HowToTrainYourDragon.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qGZPcbqNEZB1EYcyOESd.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\4 - Harry Potter and the Goblet of Fire\\Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4",
@@ -3927,7 +4122,8 @@
 			"Website": "http://harrypotter.warnerbros.com/gobletoffire/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PQxlXhqKntrNlwX1uX38.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Dead Poets Society\\Dead.Poets.Society.1989.1080p.BluRay.x264.anoXmous_FR.mp4",
@@ -3971,7 +4167,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UpU7fLpGejqT6C9EW4j5.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Musical\\La la land\\La.La.Land.2016.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -4015,7 +4212,12 @@
 			"Website": "http://www.lalaland.movie/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\j9vmAVkvk0t6iPLxtcVS.jpg"
-		}
+		},
+		"title": "La La Land",
+		"tags": [
+			"romance"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Sister Act I\\Sister.Act.1992.720p.BluRay.x264.YIFY.mp4",
@@ -4055,7 +4257,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ObqjlAbH24QcSVcmLhB9.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\A Beautiful Mind\\A.Beautiful.Mind.2001.1080p.BrRip.x264.YIFY.mp4",
@@ -4099,7 +4302,12 @@
 			"Website": "http://www.abeautifulmind.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KIQAHLNZqPfPQZuO61Cb.jpg"
-		}
+		},
+		"title": "A Beautiful Mind",
+		"tags": [
+			"personnage"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\Good Will Hunting\\Good.Will.Hunting.1997.1080p.BrRip.x264.YIFY.mp4",
@@ -4143,7 +4351,8 @@
 			"Website": "http://www.miramax.com/movie/good-will-hunting/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\8fECOMmmfj93YrtUUCm3.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\The theory of everything\\The.Theory.of.Everything.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -4187,7 +4396,8 @@
 			"Website": "http://www.focusfeatures.com/the_theory_of_everything",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bOZOy4ARLXWPcVGCImZp.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Hero\\Hero.mkv",
@@ -4227,7 +4437,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZcRPEonKkHAartP2JaVr.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\My Fair Lady\\My.Fair.Lady.1964.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -4267,7 +4478,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bIICIfkXvQpI33Xy0UUF.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\The Imitation game\\The.Imitation.Game.2014.1080p.BluRay.x264.anoXmous.mp4",
@@ -4311,7 +4523,8 @@
 			"Website": "http://theimitationgamemovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\hatcJQrx7E5FTDpnztLf.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Musical\\Music and Lyrics\\Music.and.Lyrics.2007.720p.BluRay.x264.YIFY.mp4",
@@ -4355,7 +4568,8 @@
 			"Website": "http://musicandlyrics.warnerbros.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\yKEM70j3GyQyfuf64cJv.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Begin Again\\Begin.Again.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -4399,7 +4613,8 @@
 			"Website": "http://beginagainfilm.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7bRlvLSeyba6xAIZWRWq.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Pretty Woman\\Pretty.Woman.1990.1080p.BluRay.x264.YIFY.mp4",
@@ -4443,7 +4658,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3dUCxVwANYTK3xQoLTgt.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\Cinderella Man\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -4487,7 +4703,15 @@
 			"Website": "http://www.cinderellamanmovie.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\uU8r9HpCHJE6OXYyumOr.jpg"
-		}
+		},
+		"title": "Cinderella Man",
+		"tags": [
+			"personnage",
+			"historique",
+			"histoire",
+			"vrai"
+		],
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Opera\\L'elisir D'amore.mp4",
@@ -4522,8 +4746,11 @@
 			"Production": "N/A",
 			"Website": "N/A",
 			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\vNNEjOHjvz9XmHAl4xaZ.jpg"
-		}
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZIn1UATPF0LHn9pQ44S2.jpg"
+		},
+		"note": 0,
+		"title": "L'elisir d'amore",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZIn1UATPF0LHn9pQ44S2.jpg"
 	},
 	{
 		"path": "D:\\Films\\The talented Mr Ripley\\The.Talented.Mr.Ripley.1999.720p.x264-.mkv",
@@ -4567,7 +4794,8 @@
 			"Website": "http://www.talentedmrripley.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VNczh4CNCWvqQHz8f2AZ.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Musical\\The Sound of Music\\The.Sound.of.Music.1965.720p.BRrip.x264.YIFY.mp4",
@@ -4607,7 +4835,8 @@
 			"Website": "http://www.foxhome.com/soundofmusicdvd/index_frames.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\n6uwfDIGa6150CLiVPBK.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Harry Potter\\7 - Harry Potter and the Deathly Hallows\\Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4",
@@ -4651,7 +4880,8 @@
 			"Website": "http://www.HarryPotter.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\IV3kVdfzGn4lHqN8stS0.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Drunken Master (1978) [720p] [YTS.PE]\\Drunken.Master.1978.720p.BluRay.x264-[YTS.PE].mp4",
@@ -4695,7 +4925,8 @@
 			"Website": "http://www.dimensionfilms.com/mm_front/owa/dim_movie_page.entryPoint?midStr=1422",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\irRQj7rEJzP9mbj2AHTz.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Cinderella.Man.2005.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
@@ -4739,7 +4970,8 @@
 			"Website": "http://www.artisanent.com/startupdotcom",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iO0WvqL9CF7jHnIhNLwb.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Her (2013)\\Her.2013.720p.BluRay.x264.YIFY.mp4",
@@ -4783,7 +5015,8 @@
 			"Website": "http://www.herthemovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xOUf9PAKLdMmBfg4Cj5C.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Amadeus.1984.Directors.Cut.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
@@ -4827,7 +5060,8 @@
 			"Website": "http://www.artisanent.com/startupdotcom",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\bUvoGLAT0exooxCz4cZk.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Little.Miss.Sunshine.2006.1080p.BluRay.H264.AAC-RARBG\\Little.Miss.Sunshine.2006.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -4871,7 +5105,8 @@
 			"Website": "http://www2.foxsearchlight.com/littlemisssunshine/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\0gIZ35e3gMnm881vnT98.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Devdas 2002 Hindi 720p BRRip CharmeLeon Silver RG\\Sample.mkv",
@@ -4907,7 +5142,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ReB4k7WSXgHB0nZI1Mbv.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\Babel.2006.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -4951,7 +5187,8 @@
 			"Website": "http://www.paramountvantage.com/babel/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eCjFq14JtBqzgI2at8bC.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Babel.2006.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
@@ -4995,7 +5232,8 @@
 			"Website": "http://www.artisanent.com/startupdotcom",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\f06W8266K5tvByHmfcRL.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Hobbit\\The Hobbit - An unexpected journey\\The.Hobbit.An.Unexpected.Journey.2012.1080p.BRrip.x264.YIFY.mp4",
@@ -5039,7 +5277,8 @@
 			"Website": "http://www.thehobbit.com/index.html",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7Xfo6e2sRK08eDsnLlGV.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\The Hunchback of Notre Dame\\The.Hunchback.Of.Notre.Dame.1996.720p.BRrip.x264.GAZ.YIFY.mp4",
@@ -5079,7 +5318,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\geUQgVHkSQcD3Fog84x0.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Back to the future\\Back to the future I\\Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
@@ -5123,7 +5363,8 @@
 			"Website": "http://www.bttfmovie.com/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\icZ4lFJuJQcyjb1puYhl.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\The Incredibles\\The Incredibles 2004 720p BRRip x264 RmD (HDScene Release)_FR.mkv",
@@ -5163,7 +5404,8 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\264LKL6qzoAdjONkw9Kv.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Musical\\Mamma mia\\Mamma.Mia!.2008.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
@@ -5207,207 +5449,363 @@
 			"Website": "http://www.mammamiamovie.com",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KqfmjBr4L9nKtp9639FT.jpg"
-		}
+		},
+		"title": "Mamma Mia!",
+		"tags": [
+			"musical"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS8_Vierge_Guadalupe_scientifique.mp4",
 		"title": "M et le 3eme secret BONUS8 Vierge Guadalupe scientifique",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jMJhlZZpn08MUGlZWLrC.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jMJhlZZpn08MUGlZWLrC.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode III\\Star.Wars.Episode.3.Revenge.of.the.Sith.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
 		"title": "Star Wars Episode 3 Revenge of the Sith",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2CpFBcr2WleK9yJIRV7e.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2CpFBcr2WleK9yJIRV7e.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Miyazaki\\Mononoke hime\\Mononoke.hime.[Princess.Mononoke].[DUAL.AUDIO]1997.HDTVRip.x264.YIFY.mkv",
 		"title": "Mononoke Hime",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jiana6hJncg7DQhbwT96.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jiana6hJncg7DQhbwT96.jpg",
+		"note": 0,
+		"tags": [
+			"miyazaki",
+			"anime",
+			"animation",
+			"japonais"
+		]
 	},
 	{
 		"path": "D:\\Films\\_Superheroes\\Wonder Woman\\Wonder.Woman.2017.1080p.WEB-DL.DD5.1.H264-STRiFE .mkv",
 		"title": "Wonder Woman",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YJ3brUMb69wZ78sIfsPt.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YJ3brUMb69wZ78sIfsPt.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Schindler's list\\Schindler's List 1993 HDTVrip 720p 5.1_ch AVCHD h264 AAC subs 3h6m.mp4",
 		"title": "Schindler's List",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\V5kv0HAqc9JJRQQazr0J.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\V5kv0HAqc9JJRQQazr0J.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode II\\Star.Wars.Episode.2.Attack.of.the.Clones.2002.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
 		"title": "Star Wars Episode 2 Attack of the Clones",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rISoagTq0tidf2gnxrWL.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rISoagTq0tidf2gnxrWL.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\Cinema Paradiso\\Cinema.Paradiso.1988.SUBBED.1080p.BluRay.x264-CiNEFiLE.mkv",
 		"title": "Cinema Paradiso",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ca2853P6OCnlabSQxZF2.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ca2853P6OCnlabSQxZF2.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\La Chèvre\\La chèvre (Gérard Depardieu et Pierre Richard) - dvdrip - divx fr 5.02 by Tarasboulba.AVI",
 		"title": "La Chèvre",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2K7YFOPrCYcSFvXhdjxB.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2K7YFOPrCYcSFvXhdjxB.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Buongiorno Notte\\Buongiorno notte.avi",
 		"title": "Buongiorno Notte",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Od0ydOAmREdyTVrcYsQt.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Od0ydOAmREdyTVrcYsQt.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\The Big Short\\The.Big.Short.2015.720p.BRRip.x264.AAC-ETRG.mp4",
 		"title": "The Big Short",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\r0GTr7sDFNiaV0NRtmRC.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\r0GTr7sDFNiaV0NRtmRC.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 1\\Ip Man 2008 720-im_FR.mkv",
 		"title": "Ip Man",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VbltnSGCOiKZgSaUQtPr.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VbltnSGCOiKZgSaUQtPr.jpg",
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode IV\\Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
 		"title": "Star Wars Episode 4 A New Hope",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7JBizFgYzUaFuTKjonk6.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7JBizFgYzUaFuTKjonk6.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\12 angry men\\12 Angry Men[1957]DvDrip[Eng]-Stealthmaster.avi",
 		"title": "12 Angry Men",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2YfSRr3KBPM5aIHlEvvm.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2YfSRr3KBPM5aIHlEvvm.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Crouching Tiger Hidden Dragon\\Crouching.Tiger.Hidden.Dragon.2000.1080p.BluRay.x264.AAC.mkv-Zen_Bud_FR.mkv",
 		"title": "Crouching Tiger Hidden Dragon",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZukLnWc53LOTLGEWiIh8.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZukLnWc53LOTLGEWiIh8.jpg",
+		"tags": [
+			"kung",
+			"fu"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\OSS 117 Le Caire nid d'espions\\OSS 117 Le Caire nid d'espions 2006 1080p FR.mkv",
 		"title": "OSS 117 Le Caire nid d'espions",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\cRPIVj1o9CFzWRmAz9wU.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\cRPIVj1o9CFzWRmAz9wU.jpg",
+		"tags": [
+			"drole",
+			"comedie"
+		],
+		"omdb": {
+			"Title": "OSS 117: Cairo, Nest of Spies",
+			"Year": "2006",
+			"Rated": "NOT RATED",
+			"Released": "09 May 2008",
+			"Runtime": "99 min",
+			"Genre": "Action, Adventure, Comedy",
+			"Director": "Michel Hazanavicius",
+			"Writer": "Jean-François Halin (scenario), Jean Bruce (novel), Jean-François Halin (adaptation), Michel Hazanavicius (adaptation)",
+			"Actors": "Jean Dujardin, François Damiens, Khalid Maadour, Youssef Hamid",
+			"Plot": "Secret agent OSS 117 foils Nazis, beds local beauties, and brings peace to the Middle East.",
+			"Language": "French, Arabic, German",
+			"Country": "France",
+			"Awards": "4 wins & 7 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTE4OTA5N15BMl5BanBnXkFtZTcwODc4MzU2MQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "76%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "62/100"
+				}
+			],
+			"Metascore": "62",
+			"imdbRating": "7.1",
+			"imdbVotes": "14,950",
+			"imdbID": "tt0464913",
+			"Type": "movie",
+			"DVD": "07 Nov 2006",
+			"BoxOffice": "$88,822",
+			"Production": "Music Box Films",
+			"Website": "http://oss117movie.com",
+			"Response": "True"
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Hotel Rwanda\\Hotel.Rawanda.2008.1080p.BrRip.x264.YIFY.mp4",
 		"title": "Hotel Rwanda",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9QV166d7C1WoNHga2jWh.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9QV166d7C1WoNHga2jWh.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Gladiator\\Gladiator.BluRay.1080p.x264.5.1.Judas.mp4",
 		"title": "Gladiator",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ogdOBHwyWWVOZNAYYWlU.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ogdOBHwyWWVOZNAYYWlU.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Films étrangers\\The Lives of Others\\The.Lives.of.Others.(2006).BDRip.1080p.[envy].mkv",
 		"title": "Das Leben der Anderen",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\GWvbW3NRSJEIDKYuehq8.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\GWvbW3NRSJEIDKYuehq8.jpg",
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Les Trois Frères\\Les.Trois.Freres.FRENCH.DVDRiP.DivX.avi",
 		"title": "Les Trois Frères",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HfbPGDrS5KYxs1Jo0UyV.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HfbPGDrS5KYxs1Jo0UyV.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Leger sympa\\Elizabethtown\\Elizabethtown (2005) 720p Web_dl_sujaidr (pimprg).mkv",
 		"title": "Elizabethtown",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ogv8s4kKao05ZOutx8TJ.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ogv8s4kKao05ZOutx8TJ.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 3\\Ip.Man.3.2015.1080p.BluRay.x264.VPPV.mp4",
 		"title": "Ip Man III",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\vDwmOXV09o9AyLWPrR21.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\vDwmOXV09o9AyLWPrR21.jpg",
+		"tags": [
+			"kung",
+			"fu"
+		],
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Ip Man\\Ip Man 2\\FwD-IP Man II BDRip.avi",
 		"title": "Ip Man II",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\wG2CV1vYDWtW9GWjTiWn.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\wG2CV1vYDWtW9GWjTiWn.jpg",
+		"tags": [
+			"kung",
+			"fu"
+		],
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Le grand blond avec une chaussure noire\\le.grand.blond.avec.une.chaussure.noire.1972.french.720p.bluray.x264-rough.mkv",
 		"title": "Le Grand Blond avec une Chaussure Noire",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KyqB4yWuQkdICJpmQS3f.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KyqB4yWuQkdICJpmQS3f.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Films étrangers\\Das ganz grosse Traum_LOW\\district-grossetraum_xvid.avi",
 		"title": "Der Ganz Grosse Traum",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\a5z79qbjyLOsDH2wUIcM.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\a5z79qbjyLOsDH2wUIcM.jpg",
+		"note": 10
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS17.mp4",
 		"title": "M et le 3eme secret BONUS17",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KXEOtkOhSbv7lElfOAb0.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KXEOtkOhSbv7lElfOAb0.jpg",
+		"tags": [
+			"religion"
+		],
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS15.mp4",
 		"title": "M et le 3eme secret BONUS15",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WmRmaDHniti81Ms25bHw.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WmRmaDHniti81Ms25bHw.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Troy\\Troy.2004.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
 		"title": "Troy Directors Cut",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZCgR26INpyJfYDFpbRDm.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ZCgR26INpyJfYDFpbRDm.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Miyazaki\\Spirited Away\\Spirited.Away.2001.1080p.BluRay.x264.AAC.5.1-POOP.mp4",
 		"title": "Spirited Away",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xChrvet5pdJwlZpNNrzi.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xChrvet5pdJwlZpNNrzi.jpg",
+		"tags": [
+			"animation",
+			"anime",
+			"japonais",
+			"miyazaki"
+		],
+		"omdb": {
+			"Title": "Spirited Away",
+			"Year": "2001",
+			"Rated": "PG",
+			"Released": "28 Mar 2003",
+			"Runtime": "125 min",
+			"Genre": "Animation, Adventure, Family",
+			"Director": "Hayao Miyazaki",
+			"Writer": "Hayao Miyazaki",
+			"Actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô",
+			"Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+			"Language": "Japanese, English",
+			"Country": "Japan",
+			"Awards": "Won 1 Oscar. Another 56 wins & 27 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGJjNzZmMmUtMjljNC00ZjU5LWJiODQtZmEzZTU0MjBlNzgxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "97%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "96/100"
+				}
+			],
+			"Metascore": "96",
+			"imdbRating": "8.6",
+			"imdbVotes": "477,601",
+			"imdbID": "tt0245429",
+			"Type": "movie",
+			"DVD": "15 Apr 2003",
+			"BoxOffice": "$9,855,615",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://bventertainment.go.com/movies/spiritedaway",
+			"Response": "True"
+		},
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Opera\\LaTraviata.mp4",
 		"title": "La Traviata",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\IeklcZU6jkBKgin8rHTB.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\IeklcZU6jkBKgin8rHTB.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS13.mp4",
 		"title": "M et le 3eme secret BONUS13",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HR6vZ863BVVfDuMcLui9.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HR6vZ863BVVfDuMcLui9.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS16.mp4",
 		"title": "M et le 3eme secret BONUS16",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xUaciBhVmv9twS76xQm4.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xUaciBhVmv9twS76xQm4.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS6_Theologien_Francois_Brune.mp4",
 		"title": "M et le 3eme secret BONUS6 Theologien Francois Brune",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XAIxqBCx5YHUuehADDhF.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XAIxqBCx5YHUuehADDhF.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Star Wars\\Star Wars Episode I\\Star.Wars.Episode.1.The.Phantom.Menace.1999.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
 		"title": "Star Wars Episode 1 The Phantom Menace",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6C66WPs7Yl7OSFtIDkHT.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\6C66WPs7Yl7OSFtIDkHT.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\Amadeus\\Amadeus.1984.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
 		"title": "Amadeus Directors Cut",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nqXBl6VaRjXvmYK2Dq4U.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nqXBl6VaRjXvmYK2Dq4U.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Les Compères\\Les.Comperes.1983.FRENCH.DVDRip.XviD.AC3-NEWTEAM94.avi",
 		"title": "Les Compères",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\u3Zd3xARUjdVE0vBtG9a.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\u3Zd3xARUjdVE0vBtG9a.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS11.mp4",
 		"title": "M et le 3eme secret BONUS11",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ncnhCFXu3xxWZ04Wajyy.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ncnhCFXu3xxWZ04Wajyy.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Robin Hood\\Robin.Hood.2010.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4",
 		"title": "Robin Hood Directors Cut",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iG76QWunAx4o5MWW54Mc.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iG76QWunAx4o5MWW54Mc.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Historique\\Even the rain\\Even the Rain [Spanish](2010).mp4",
 		"title": "Even the Rain",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XxlmVO4AvhhtDEGVatXS.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\XxlmVO4AvhhtDEGVatXS.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS3_Pianiste_Elisabeth_Sombart.mp4",
 		"title": "M et le 3eme secret BONUS3 Pianiste Elisabeth Sombart",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\FEp6Z2CuJZIPRCeH8QXP.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\FEp6Z2CuJZIPRCeH8QXP.jpg",
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret.mp4",
 		"title": "M et le 3eme secret",
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PQnuJdmODB6jBArb7T5Z.jpg"
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\PQnuJdmODB6jBArb7T5Z.jpg",
+		"note": 0
 	},
 	{
 		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\Little.Miss.Sunshine.2006.1080p.BluRay.H264.AAC-RARBG\\RARBG.COM.mp4",
@@ -5451,10 +5849,11 @@
 			"Website": "http://www.artisanent.com/startupdotcom",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Y2xEpVBkHknPQk20FmKa.jpg"
-		}
+		},
+		"note": 0
 	},
 	{
-		"path": "C:\\Users\\carlo\\Downloads\\Ubuntu\\James Bond Casino Royale (2006) [1080p]\\Casino.Royale.2006.1080p.BRrip.x264.YIFY.mp4",
+		"path": "D:\\Films\\_Action Aventure\\James Bond\\Casino Royale\\Casino.Royale.2006.1080p.BRrip.x264.YIFY.mp4",
 		"omdb": {
 			"Title": "Casino Royale",
 			"Year": "2006",
@@ -5495,6 +5894,396 @@
 			"Website": "http://www.sonypictures.com/movies/casinoroyale/site/",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\MNlQ8wtpsO3cnIEc0ZoV.jpg"
-		}
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Miyazaki\\Howls of the Moving Castle\\Howls.Moving.Castle.2004.720p.BluRay.x264-x0r.mkv",
+		"title": "Howl's Moving Castle",
+		"tags": [],
+		"omdb": {
+			"Title": "Howl's Moving Castle",
+			"Year": "2004",
+			"Rated": "PG",
+			"Released": "17 Jun 2005",
+			"Runtime": "119 min",
+			"Genre": "Animation, Adventure, Family",
+			"Director": "Hayao Miyazaki",
+			"Writer": "Hayao Miyazaki (screenplay), Diana Wynne Jones (novel)",
+			"Actors": "Chieko Baishô, Takuya Kimura, Akihiro Miwa, Tatsuya Gashûin",
+			"Plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+			"Language": "Japanese",
+			"Country": "Japan",
+			"Awards": "Nominated for 1 Oscar. Another 14 wins & 19 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRhY2QwM2UtNWRlNy00ZWQwLTg3MjktZThmNjQ3NTdjN2IxXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "87%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "80/100"
+				}
+			],
+			"Metascore": "80",
+			"imdbRating": "8.2",
+			"imdbVotes": "242,973",
+			"imdbID": "tt0347149",
+			"Type": "movie",
+			"DVD": "07 Mar 2006",
+			"BoxOffice": "$4,520,887",
+			"Production": "Buena Vista",
+			"Website": "http://www.howl-movie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Yg5klvmh337k98VC5SCa.jpg"
+		},
+		"note": 1010,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Yg5klvmh337k98VC5SCa.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 11 FR Defi de l Islam 2 De toutes les nation faites des disciples.avi",
+		"title": "Défi de l'Islam 2 : De toutes les nation faites des disciples",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\9T27RlLfOJfGYB24L3J7.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 11 FR Si tu veux la Paix aime les pauvres Sant Egidio.avi",
+		"title": "Si tu veux la Paix aime les pauvres Sant Egidio",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\wkTIRa2CqJLRnaJSmR9E.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 05 FR Martyrs de la fraternite.avi",
+		"title": "Martyrs de la fraternité",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3evFyWyDnszSKfMD2E0s.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 11 FR Lytta Basset La guerison interieure.avi",
+		"title": "Lytta Basset La guérison interieure",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\441FSpiPcgMwFw54KwIP.png",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 03 FR Etty Hillesum L Amour comme seule solution.avi",
+		"title": "Etty Hillesum : L'Amour comme seule solution",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\K63tw9PGGUJaFbhjDDan.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 03 FR La force du pardon.avi",
+		"title": "La force du pardon",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\FLs0WFHBbCGUdEbIKod5.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 10 FR Hrant Dink Amour et verite se rencontre.avi",
+		"title": "Hrant Dink : Amour et verite se rencontre",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS5_JPII_Journaliste.mp4",
+		"title": "M et le 3eme secret BONUS5 JPII Journaliste",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\hqg3nt9GGsHJxznLTRyc.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Le curé d'Ars.avi",
+		"title": "Le curé d'Ars",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\WIahbafVj6jJoU7xpLWp.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 12 FR Said Fatima et Jesus.avi",
+		"title": "Said Fatima et Jesus",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\gUEgYrW6oP0OaUtZI3j4.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 02 FR La kénose ou rien.avi",
+		"title": "La kénose ou rien",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\kimdpwM039Jirce3i4au.png",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\04 10 FR Cette paix venue d ailleur Claire Ly.avi",
+		"title": "Cette paix venue d ailleur Claire Ly",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\kEPCoid9Qj9KdZcgfdWx.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 12 FR La force de l offrande.avi",
+		"title": "La force de l'offrande",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\AkWUvryFfGOFMmVdexFH.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god",
+			"bonhoeffer",
+			"therese",
+			"lisieux",
+			"marthe",
+			"robin"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 05 FR La fin du mur.avi",
+		"title": "La fin du mur",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fAgVLRUBfCQh2qFNXFgZ.png",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 02 FR Tu Frappes a ma porte.avi",
+		"title": "Tu frappes a ma porte",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pw91wcY0BzlIeBUl5ayB.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 03 FR Tout est grâce.avi",
+		"title": "Tout est grâce",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2NtBkSv834IFPgJmGT6l.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god",
+			"therese",
+			"lisieux",
+			"bonhoeffer"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS1_KAKI.mp4",
+		"title": "M et le 3eme secret BONUS1 KAKI",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\u8MWH9INNAKpEHAqdm1k.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Les veilleurs.avi",
+		"title": "Les veilleurs",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\OrXD46jEjsRtImtUqodL.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 12 FR N ayez pas peur du Saint Esprit.avi",
+		"title": "N'ayez pas peur du Saint Esprit",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lfnPn3gzx3FX0er2DCTT.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 06 FR Le LINCEUL DE TURIN.avi",
+		"title": "Le linceul de Turin",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\LEZIL72QLphOciXBiqBu.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 12 FR Ce qu'il y a de fou dans le monde.avi",
+		"title": "Ce qu'il y a de fou dans le monde",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\81VtDQiwTlDcd5xith5q.jpg",
+		"tags": [
+			"ehouzou"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\05 10 FR L Offrande de Frere Roger.avi",
+		"title": "L'Offrande de Frère Roger",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\taNjfHzxWr7vqr22ovM0.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS12.mp4",
+		"title": "M et le 3eme secret BONUS12",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KH53FxRrjhnqkp7bYsJG.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\Songhaï, une ferme bio au Bénin.mp4",
+		"title": "Laudato Si' en terre d'Afrique",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\biXtjtmukFYuJm75KCgf.jpg",
+		"tags": [
+			"benin",
+			"songhai",
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS7_Reporter_Robert_Serrou.mp4",
+		"title": "M et le 3eme secret BONUS7 Reporter Robert Serrou",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\fXF2DFntgtpQg8s8Yiht.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\08 03 FR Elisabeth de Hongrie - Reine des pauvres.avi",
+		"title": "Elisabeth de Hongrie - Reine des pauvres",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\yaZK31Jk4KSrCxfNVzPo.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 11 FR La mission de Marthe Robin.avi",
+		"title": "La mission de Marthe Robin",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		],
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Superheroes\\Spiderman\\Spiderman 1 2002 1080p x264.mkv",
+		"title": "Spider-Man",
+		"tags": [],
+		"omdb": {
+			"Title": "Spider-Man",
+			"Year": "2002",
+			"Rated": "PG-13",
+			"Released": "03 May 2002",
+			"Runtime": "121 min",
+			"Genre": "Action, Adventure",
+			"Director": "Sam Raimi",
+			"Writer": "Stan Lee (Marvel comic book), Steve Ditko (Marvel comic book), David Koepp (screenplay)",
+			"Actors": "Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco",
+			"Plot": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Oscars. Another 15 wins & 58 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "89%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "73/100"
+				}
+			],
+			"Metascore": "73",
+			"imdbRating": "7.3",
+			"imdbVotes": "587,638",
+			"imdbID": "tt0145487",
+			"Type": "movie",
+			"DVD": "01 Nov 2002",
+			"BoxOffice": "$403,706,375",
+			"Production": "Columbia Pictures",
+			"Website": "http://spiderman.sonypictures.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eB0KGZvZrgynUZmBxQAa.jpg"
+		},
+		"note": 2210,
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eB0KGZvZrgynUZmBxQAa.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 05 FR La beaute de la compassion Jean Vanier.avi",
+		"title": "La beauté de la compassion Jean Vanier",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\lI3wJ9uNf4HDXdyLJUDz.jpg",
+		"tags": [
+			"net",
+			"for",
+			"god"
+		]
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS18.mp4",
+		"title": "M et le 3eme secret BONUS18",
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\QYOgkUbZ6RpEqoxUjwsl.jpg"
 	}
 ]

@@ -3,6 +3,7 @@ const path = require('path');
 const request = require('request');
 const hash = require('crypto').createHash;
 const _ = require('lodash');
+const removeDiacritics = require('diacritics').remove;
 
 const omdb = require('./omdb.js');
 const files = require('./files.js');
@@ -26,6 +27,38 @@ files.createDir(CACHE_OMDB)
   "omdb": objet résultat omdb
 }
 */
+
+/* ============================== GETTERS AND SETTERS  =================================== */
+
+function getTitle(o_or_s) { // o_or_s is either the film object or its path
+  var film_o = getFilm(o_or_s)
+  if (!film_o) return "";
+  var titre = omdb.normFileTitle(path.basename(film_o.path));
+  if (film_o.omdb && film_o.omdb.Title) titre = film_o.omdb.Title;
+  if (film_o.title && film_o.title != "") titre = film_o.title
+  return titre
+}
+
+function getTags(o_or_s) {
+  var film_o = getFilm(o_or_s)
+  if (!film_o) return [];
+  if (film_o.tags) return film_o.tags;
+}
+
+function str2Tags(s) { // s = "drôle comédie humour etranger"
+  var news = removeDiacritics(s)
+  return arr = news.split(' ')
+}
+
+function getFilm(s) {
+  // renvoie l'objet film correspondant à s
+  // si s est une string, s = path to the film
+  if (typeof s == "string") return _.find(db, s)
+  // sinon c'est l'objet film
+  else return s
+}
+
+/* ================================================================= */
 
 function cleanDB() {
   var newdb = [];
@@ -212,38 +245,39 @@ function updatePoster(film_o, new_url) {
     var db_index = _.findIndex(db, ['path', film_o.path])
 
     // we download the poster in the cache
+    var ext = ".jpg";
     res = /\.(jpg|png|gif|jpeg)$/gi.exec(new_url)
-    if (res && res.length > 0) {
-      var random_path = genRandomId(CACHE_OMDB, res[0]);
-      download(new_url, random_path).then(path => {
-        if (film_o.omdb && film_o.omdb.localPoster && fs.existsSync(film_o.omdb.localPoster)) {
-          // on supprime l'ancien poster dans le cache
-          fs.unlink(film_o.omdb.localPoster, err => {
-            if (err) console.log("Error while deleting poster " + film_o.omdb.localPoster, err)
-          })
-        }
-
-        film_o.localPoster = path;
-        if (film_o.omdb) film_o.omdb.localPoster = path;
-        if (db_index < 0) {
-          db.push(film_o)
-        } else {
-          db.splice(db_index, 1, film_o)
-        }
-        // on écrit la db mise à jour
-        writeDB().then(_ => {
-          resolve(film_o)
-        }).catch(err => {
-          reject(err)
+    if (res && res.length > 0) ext = res[0];
+    var random_path = genRandomId(CACHE_OMDB, ext);
+    download(new_url, random_path).then(path => {
+      if (film_o.omdb && film_o.omdb.localPoster && fs.existsSync(film_o.omdb.localPoster)) {
+        // on supprime l'ancien poster dans le cache
+        fs.unlink(film_o.omdb.localPoster, err => {
+          if (err) console.log("Error while deleting poster " + film_o.omdb.localPoster, err)
         })
+      }
 
+      film_o.localPoster = path;
+      if (film_o.omdb) film_o.omdb.localPoster = path;
+      if (db_index < 0) {
+        db.push(film_o)
+      } else {
+        db.splice(db_index, 1, film_o)
+      }
+      // on écrit la db mise à jour
+      writeDB().then(_ => {
+        resolve(film_o)
       }).catch(err => {
         reject(err)
       })
-    } else {
-      film_o.omdb.localPoster = null;
-      reject("extension of url '" + url + "' is not an image")
-    }
+
+    }).catch(err => {
+      reject(err)
+    })
+    // } else {
+    //   film_o.omdb.localPoster = null;
+    //   reject("extension of url '" + url + "' is not an image")
+    // }
   })
 }
 
@@ -342,6 +376,12 @@ function setFilmDir(path) {
 
 module.exports.db = db;
 module.exports.getId = getId;
+module.exports.getTitle = getTitle;
+module.exports.getTags = getTags;
+module.exports.str2Tags = str2Tags;
+
+module.exports.download = download;
+
 module.exports.updateDB = updateDB;
 module.exports.writeDB = writeDB;
 module.exports.getFilmDir = getFilmDir;

@@ -3,6 +3,7 @@
 * ajouter une barre de recherche et la possibilité d'ajouter des tags
 * ajouter un toast pour afficher les erreurs
 * ajouter la date d'ajout du film dans la base dans l'objet film_o
+* simplifier la modification du dossier courant, pas la peine de passer par un <dialog> ! on l'affiche direct
 
 # Setup
 

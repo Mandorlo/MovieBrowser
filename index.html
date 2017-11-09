@@ -12,18 +12,6 @@
 </head>
 
 <body>
-  <!-- <h1>Hello World!</h1> -->
-  <!-- All of the Node.js APIs are available in this renderer process. -->
-  <!-- We are using Node.js
-  <script>
-    document.write(process.versions.node)
-  </script>, Chromium
-  <script>
-    document.write(process.versions.chrome)
-  </script>, and Electron
-  <script>
-    document.write(process.versions.electron)
-  </script>. -->
 
   <!-- ==================== DIALOG POUR CHANGER DE FILM DIR ============================= -->
   <dialog id="change_root" class="mdl-dialog">
@@ -62,9 +50,11 @@
     <h4 class="mdl-dialog__title">Changer le titre</h4>
     <div class="mdl-dialog__content">
       <p id="dialog_info_text">
-        Rentre ici le titre du film
+        Ecris ici le titre du film
       </p><br>
       <input id="dialog_info_title" type="text">
+      <p>Et ici les tags séparés par un espace (mots au singulier ou à l'infinitif)</p><br>
+      <input id="dialog_info_tags" type="text">
     </div>
     <div class="mdl-dialog__actions">
       <button id="ok_change_infos" type="button" class="mdl-button ok">Ok</button>

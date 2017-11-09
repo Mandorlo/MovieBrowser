@@ -52,6 +52,7 @@ button.reload {
   width: 40px;
   padding:0px;
   margin-left: 20px;
+  margin-top: -16px;
 }
 
 /* ======================================================== */
@@ -128,6 +129,14 @@ button.reload {
 
 .main_container:hover .play {
   visibility: visible;
+}
+
+/* =============================== FILTERED CARDS ================================= */
+
+.bad_card {
+  opacity: 0;
+  display: none;
+  transition: opacity 0.5s linear;
 }
 
 /* =============================== EDITION BOX ================================= */

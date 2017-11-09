@@ -14,6 +14,7 @@ const dblib = require('./db.js');
 const omdb = require('./omdb.js');
 const files = require("./files.js");
 const ui = require('./ui.js');
+const search = require('./search.js');
 
 // au lancement, on update la db
 dblib.updateDB().then(res => {
@@ -200,10 +201,14 @@ function createNavbar() {
   // ========= 4 ============= On ajoute la barre de recherche
   var searchbar = $('<div class="mdh-expandable-search mdl-cell--hide-phone">' +
         '<i class="material-icons search-icon">search</i>' +
-        '<form action="#">' +
-          '<input type="text" placeholder="Search" size="1">' +
-        '</form>' +
+          '<input id="searchbox" type="text" placeholder="Search" size="1">' +
       '</div>')
+  searchbar.keypress(e => {
+    if (e.which == 13) { // enter pressed !
+      var list_films = search.searchFilm(dblib.db, $("#searchbox").val());
+      filterSort(list_films)
+    }
+  })
 
   nav.append(change_dir)
   nav.append(zIn)
@@ -216,31 +221,45 @@ function createNavbar() {
 function createChangeInfoButton(film_o) {
   var button = $('<button class="edition_buttons change_poster mdl-button mdl-js-button mdl-button--fab mdl-button--colored"><i class="fa fa-info" aria-hidden="true"></i></button>')
   button.click(e => {
+
     e.stopPropagation();
-    var title = film_o.title;
-    title = (film_o.omdb && film_o.omdb.Title) ? film_o.omdb.Title : title;
-    title = (title) ? title : "";
+    // le titre
+    var title = dblib.getTitle(film_o)
     if (title) $("#dialog_info_title").val(title)
     else $("#dialog_info_title").val("")
+
+    // les tags
+    var tags = dblib.getTags(film_o)
+    if (tags && tags.length) $("#dialog_info_tags").val(tags.join(' '))
+    else $("#dialog_info_tags").val("")
 
     var ok = $('#ok_change_infos')
     ok.unbind("click");
     ok.click(e => {
+      // le titre
       film_o.title = $("#dialog_info_title").val();
       if (film_o.omdb) film_o.omdb.Title = film_o.title;
+
+      // les tags
+      if ($("#dialog_info_tags").val().length > 0) {
+        film_o.tags = dblib.str2Tags($("#dialog_info_tags").val())
+      } else film_o.tags = []
+
       dblib.updateFilmInfo(film_o.path, film_o).then(_ => {
-        console.log("infos updated for film " + film_o.title)
+        console.log("infos updated for film " + film_o.title + " (" + film_o.tags.join(', ') + ")")
         var hash = dblib.getId(film_o)
         var mtitle = $("#" + hash).find(".main_title")
         if (!mtitle.length) mtitle = $("#" + hash).find(".main_title_empty");
         if (mtitle.length) mtitle.eq(0).html(film_o.title);
         else console.log("cannot find element with id " + hash)
         document.querySelector("#change_infos").close();
+
       }).catch(err => {
         console.log("Error updating film infos", err)
         document.querySelector("#change_infos").close();
       })
     })
+
     document.querySelector("#change_infos").showModal();
   })
   return button
@@ -313,6 +332,24 @@ function createChangePosterButton(film_o) {
     document.querySelector("#change_poster").showModal();
   })
   return button
+}
+
+function filterSort(movie_list) {
+  var good_ids = _.map(movie_list, m => dblib.getId(m))
+  var notes = _.map(movie_list, m => m.note)
+  var cards = $(".main_container");
+  cards.each(i => {
+    var card = cards.eq(i);
+    var ind = good_ids.indexOf(card.attr('id'));
+    if (ind >= 0) {
+      card.addClass("good_card")
+      card.removeClass("bad_card")
+      card.attr('note', notes[ind])
+    } else {
+      card.addClass("bad_card")
+      card.removeClass("good_card")
+    }
+  })
 }
 
 function shortenString(s) {

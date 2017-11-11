@@ -50,7 +50,7 @@ body {
 button.reload {
   min-width: 30px;
   width: 40px;
-  padding:0px;
+  padding: 0px;
   margin-left: 20px;
   margin-top: -16px;
 }
@@ -71,6 +71,7 @@ button.reload {
   width: 200px;
   height: 300px;
   cursor: pointer;
+  transition: all .3s;
 }
 
 .main_container:hover .poster, .main_container:focus .poster {
@@ -150,6 +151,7 @@ button.reload {
 }
 
 .edition_buttons {
+  opacity: 0;
   visibility: hidden;
   min-width: 30px;
   min-height: 30px;
@@ -157,14 +159,24 @@ button.reload {
   width: 30px;
   height: 30px;
   margin-left: 7px;
+  transition: all .3s;
 }
 
 .edition:hover .edition_buttons {
+  opacity: 100;
   visibility: visible;
+  transition: all .1s;
 }
 
-button.change_poster {
+button.reload_omdb {
+  background-color: gray;
+}
 
+#stats {
+  float: right;
+  margin-right: 20px;
+  color: white;
+  font-family: Arial;
 }
 
 /* =============================== MAIN TITLE ================================= */

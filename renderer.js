@@ -30,7 +30,7 @@ function renderDashboard() {
   var navbar = createNavbar();
   $("#app").append(navbar)
 
-  var root = $("<div class='main_root'></div>")
+  var root = $("<div class='main_root'></div>");
 
   $('#change_poster').find('button.close:not([disabled])').click(_ => {
     document.querySelector("#change_poster").close();
@@ -79,6 +79,7 @@ function renderDashboard() {
             //console.log(o.err)
             var card = renderFilmCard({path: mov_path});
             root.append(card)
+            reloadStats()
           }
         }).catch(err => {
           console.log(mov_path, err)
@@ -87,26 +88,35 @@ function renderDashboard() {
       } else if (film_o && film_o.path.indexOf(root_dir) == 0 && fs.existsSync(film_o.path)) {
         var card = renderFilmCard(film_o);
         root.append(card)
+        reloadStats()
         // s'il existe mais est mal formé, il y a un problème...
       } else {
         console.log("Erreur non prévue :-S")
       }
     })
     $("#app").append(root)
+    reloadStats()
   }).catch(err => {
     console.log(err)
   })
   Promise.all(myPromises).then(res_list => {
     if (res_list && res_list.length) console.log("Updating info from omdb for :", res_list)
     dblib.writeDB().then(res => console.log(res)).catch(err => console.log(err))
+    reloadStats()
   }).catch(err => {
     console.log("Erreur dans un des getOMDBFilm:", err)
   })
 }
 
-function renderFilmCard(film_o) {
+function renderFilmCard(film_o_or_path) {
+  // renders or update rendering of a film card
+
+  var film_o = dblib.getFilm(film_o_or_path); // to be sure film_o is a film object
   var hash = dblib.getId(film_o)
-  var container = $('<div class="main_container" id="' + hash + '"></div>')
+  var container = $("#" + hash);
+  if (!container.length) container = $('<div class="main_container" id="' + hash + '"></div>')
+  container.empty();
+
   var localPoster = film_o['localPoster'];
   var title = film_o['title'];
 
@@ -119,6 +129,10 @@ function renderFilmCard(film_o) {
 
   // on ajoute le bouton pour changer les infos du film
   b = createChangeInfoButton(film_o)
+  edition.append(b)
+
+  // on ajoute le bouton pour updater les infos omdb à la main
+  b = createReloadOMDBButton(film_o)
   edition.append(b)
 
   container.append(edition)
@@ -218,6 +232,24 @@ function createNavbar() {
   return nav
 }
 
+function createReloadOMDBButton(film_o) {
+  var button = $('<button class="edition_buttons mdl-button mdl-js-button mdl-button--fab"><i class="fa fa-refresh" aria-hidden="true"></i></button>')
+  if (film_o.omdb) button.addClass("mdl-button--colored");
+
+  button.click(e => {
+    e.stopPropagation();
+    dblib.updateOMDBFilm(film_o.path, dblib.getTitle(film_o)).then(res => {
+      notify("Movie info updated ! Grazie Signore !")
+      renderFilmCard(film_o.path)
+      console.log(res)
+    }).catch(err => {
+      notify('Movie not found on OMDB :(')
+      console.log(err)
+    })
+  })
+  return button
+}
+
 function createChangeInfoButton(film_o) {
   var button = $('<button class="edition_buttons change_poster mdl-button mdl-js-button mdl-button--fab mdl-button--colored"><i class="fa fa-info" aria-hidden="true"></i></button>')
   button.click(e => {
@@ -246,6 +278,7 @@ function createChangeInfoButton(film_o) {
       } else film_o.tags = []
 
       dblib.updateFilmInfo(film_o.path, film_o).then(_ => {
+        notify("Movie infos have been update ! Lodate Dio !")
         console.log("infos updated for film " + film_o.title + " (" + film_o.tags.join(', ') + ")")
         var hash = dblib.getId(film_o)
         var mtitle = $("#" + hash).find(".main_title")
@@ -256,6 +289,7 @@ function createChangeInfoButton(film_o) {
 
       }).catch(err => {
         console.log("Error updating film infos", err)
+        notify("Error updating film infos... sorry")
         document.querySelector("#change_infos").close();
       })
     })
@@ -301,6 +335,7 @@ function createChangePosterButton(film_o) {
             o.title = title
             dblib.updateFilmInfo(o.path, o)
           }
+          notify("Poster updated ! Benedetto sia il Signore Dio dell'universo !")
           console.log("poster mis à jour", o.localPoster)
           // on met à jour l'image dans l'UI
           var myel = $("#" + hash).find(".poster");
@@ -334,6 +369,19 @@ function createChangePosterButton(film_o) {
   return button
 }
 
+function reloadStats() {
+  var stats = $("#stats");
+  if (!stats.length) {
+    stats = $('<div id="stats"></div>');
+    $('#navbar').append(stats)
+  }
+  stats.empty();
+  var nb_films = $(".main_container").length;
+  if ($(".bad_card").length) {
+    stats.text($(".good_card").length + " / " + nb_films + " films")
+  } else stats.text(nb_films + " films");
+}
+
 function filterSort(movie_list) {
   var good_ids = _.map(movie_list, m => dblib.getId(m))
   var notes = _.map(movie_list, m => m.note)
@@ -350,6 +398,8 @@ function filterSort(movie_list) {
       card.removeClass("good_card")
     }
   })
+  reloadStats()
+  $("#searchbox").blur();
 }
 
 function shortenString(s) {
@@ -377,6 +427,8 @@ function playVideo(path) {
 //     _this.MaterialProgress.setProgress(n);
 //   });
 // }
+
+
 
 module.exports.db = dblib.db;
 module.exports.playVideo = playVideo;

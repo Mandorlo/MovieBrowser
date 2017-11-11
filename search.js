@@ -10,16 +10,20 @@ const classes_eq = [
   ['sci-fi', 'science fiction']
 ];
 
-var actors = getActors(dblib.db);
+var omdb_fields = {
+  "Actors": getOMDBField(dblib.db, "Actors"),
+  "Genre": getOMDBField(dblib.db, "Genre"),
+  "Director": getOMDBField(dblib.db, "Director")
+}
 
 function commands(film_list, search_s) {
   console.log("Processing command " + search_s + "...")
   if (search_s == "@noposter") {
-    var res = _.filter(film_list, m => (!m.localPoster && !(m.omdb && m.omdb.localPoster)))
+    var res = [film_list[0]]; //_.filter(film_list, m => (!m.localPoster && !(m.omdb && m.omdb.localPoster)))
     console.log(res.length, film_list.length)
     return res
   } else if (search_s == "@noomdb") {
-
+    return _.find(film_list, m => !m.omdb)
   } else {
     console.log("commands : @noposter, @noomdb")
     return film_list
@@ -54,9 +58,11 @@ function compareFilm2String(film_o, s) {
   note += compareStrings(title, s);
 
   // cas particuliers
-  if (actors.indexOf(s) >= 0) {
-    if (film_o.omdb && film_o.omdb.Actors) return note + compareStrings(film_o.omdb.Actors, s);
-    else return note
+  for (var k in omdb_fields) {
+    if (omdb_fields[k].indexOf(s) >= 0) {
+      if (film_o.omdb && film_o.omdb[k]) return note + compareStrings(film_o.omdb[k], s);
+      else return note
+    }
   }
 
   if (film_o.tags) note += compareStrings(film_o.tags.join(' '), s)
@@ -105,10 +111,10 @@ function normString(s) {
 
 
 
-function getActors(movie_list) {
+function getOMDBField(movie_list, field) {
   var res = _.map(movie_list, m => {
-    if (m.omdb && m.omdb.Actors) {
-      return _.map(m.omdb.Actors.split(', '), normString)
+    if (m.omdb && m.omdb[field]) {
+      return _.map(m.omdb[field].split(', '), normString)
     } else {
       return []
     }

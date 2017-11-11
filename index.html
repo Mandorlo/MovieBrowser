@@ -62,6 +62,12 @@
     </div>
   </dialog>
 
+  <!-- the TOAST object -->
+  <div id="notifications" class="mdl-js-snackbar mdl-snackbar">
+    <div class="mdl-snackbar__text"></div>
+    <button class="mdl-snackbar__action" type="button"></button>
+  </div>
+
   <!-- ==================== MAIN APP ============================= -->
   <!-- <div id="progress" class="mdl-progress mdl-js-progress"></div> -->
   <div id="app"></div>
@@ -86,10 +92,28 @@
   </script>
   <script>
     // You can also require other files to run in this process
+    function notify(msg) {
+      var data = {message: msg};
+      var snackbarContainer = document.querySelector('#notifications').MaterialSnackbar.showSnackbar(data);
+    }
     var app = require('./renderer.js');
     var ui = require('./ui.js');
-    app.renderDashboard()
-    // $("#app").text(JSON.stringify(app.db))
+    app.renderDashboard();
+
+    $(document).keypress(e => {
+      if (String.fromCharCode(e.which) == "s") {
+        e.stopPropagation();
+        $("#searchbox").focus();
+        $("#searchbox").text("");
+      } else if (String.fromCharCode(e.which) == "+") {
+        ui.zoomIn()
+      } else if (String.fromCharCode(e.which) == "-") {
+        ui.zoomOut()
+      }
+      // else if (String.fromCharCode(e.which) == "c" && e.ctrlKey) { // m <=> -
+      //   app.renderDashboard();
+      // }
+    })
   </script>
 </body>
 

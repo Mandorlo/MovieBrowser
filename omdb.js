@@ -3,7 +3,8 @@
 var request = require('request');
 
 function searchFilm(search_s, str = false) {
-  return get({"t": search_s}, str)
+  if (search_s.substr(0,2) == "tt") return get({'i': search_s}) // c'est un id imdb
+  else return get({"t": search_s}, str)
 }
 
 function get(opt, str) {

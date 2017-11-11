@@ -53,7 +53,7 @@ function str2Tags(s) { // s = "drôle comédie humour etranger"
 function getFilm(s) {
   // renvoie l'objet film correspondant à s
   // si s est une string, s = path to the film
-  if (typeof s == "string") return _.find(db, s)
+  if (typeof s == "string") return _.find(db, ['path', s])
   // sinon c'est l'objet film
   else return s
 }
@@ -144,9 +144,12 @@ function updateDBAux(type) {
   })
 }
 
-function getOMDBFilm(movie_path) {
-  var fname = path.basename(movie_path)
-  var title = omdb.normFileTitle(fname)
+function getOMDBFilm(movie_path, title = null) {
+  if (!title) {
+    var fname = path.basename(movie_path)
+    title = omdb.normFileTitle(fname)
+  }
+
   return new Promise((resolve, reject) => {
     omdb.searchFilm(title).then(res => {
       var o = {
@@ -238,6 +241,29 @@ function updateFilmInfo(film_path, new_film_o) {
   return writeDB()
 }
 
+function updateOMDBFilm(movie_path, title = null) {
+  // update les infos omdb du film et les écrit sur disque
+  return new Promise((resolve, reject) => {
+    getOMDBFilm(movie_path, title).then(new_film_o => {
+      var film_o = _.find(db, ['path', movie_path]);
+      if (film_o) {
+        film_o.omdb = new_film_o.omdb;
+        if (new_film_o.localPoster) film_o.localPoster = new_film_o.localPoster;
+        if (new_film_o.omdb.localPoster) film_o.localPoster = new_film_o.omdb.localPoster;
+        if (!film_o.title || film_o.title.substr(0,2) == "tt") film_o.title = new_film_o.omdb.Title;
+      } else film_o = new_film_o;
+      console.log("film",film_o)
+      updateFilmInfo(movie_path, film_o).then(res => {
+        resolve(film_o)
+      }).catch(err => {
+        reject(err)
+      })
+    }).catch(err => {
+      reject(err)
+    })
+  })
+}
+
 function updatePoster(film_o, new_url) {
   if (!film_o.path) return Promise.reject("film_o provided is not a valid film object !");
 
@@ -306,8 +332,9 @@ function writeParam() {
 }
 
 function getId(film_o) {
+  if (typeof film_o == "string" || !film_o) return film_o;
   // renvoie un id cool du film à partir du path
-  if (!film_o || !film_o.path) throw "invalid object film to get id from"
+  if (!film_o || !film_o.path) throw "invalid object film to get id from" + JSON.stringify(film_o,null,'  ')
   return hash('md5').update(path.basename(film_o.path)).digest('hex');
 }
 
@@ -377,6 +404,7 @@ function setFilmDir(path) {
 module.exports.db = db;
 module.exports.getId = getId;
 module.exports.getTitle = getTitle;
+module.exports.getFilm = getFilm;
 module.exports.getTags = getTags;
 module.exports.str2Tags = str2Tags;
 
@@ -389,6 +417,7 @@ module.exports.setFilmDir = setFilmDir;
 module.exports.getOMDBFilm = getOMDBFilm;
 module.exports.updateFilmInfo = updateFilmInfo;
 module.exports.updatePoster = updatePoster;
+module.exports.updateOMDBFilm = updateOMDBFilm;
 
 function printText(texte) {
   process.stdout.clearLine();

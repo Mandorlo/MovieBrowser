@@ -46,11 +46,11 @@ function normFileTitle(fname) {
   arr.split("|").forEach(el => {
     s = s.replace(new RegExp(el, "gi"), "")
   })
+  s = s.replace(/\.(mp4|mkv|avi|webm|flv|ogv|mov|mpg|mpeg|m4v|3gp)$/gi, "")
   s = s.replace(/[\s\-_\:\.](EXTENDED|ExD|Deceit|MgB|ViSiON|GAZ|RmD|AC3\-?|Zen_Bud|ETRG)($|[\s\_\.\-])/g, "")
   s = s.replace(/[\[\]\(\)]/gi, "")
   s = s.replace(/(19|20)[0-9]{2}/gi, "")
   s = s.replace(/[\s\.\-\_](FR|RU|aac|rip|french|subs|hdscene)([\s\.\-\_]|$)/gi, "")
-  s = s.replace(/\.(mp4|mkv|avi|webm|flv|ogv|mov|mpg|mpeg|m4v|3gp)$/gi, "")
   s = s.replace(/[\.\_]/gi, " ")
   s = s.replace(/\s\s+/gi, " ")
   return s.trim()

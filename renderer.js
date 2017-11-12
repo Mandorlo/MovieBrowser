@@ -16,12 +16,13 @@ const files = require("./files.js");
 const ui = require('./ui.js');
 const search = require('./search.js');
 
-// au lancement, on update la db
-dblib.updateDB().then(res => {
-  console.log(res)
-}).catch(err => {
-  console.log(err)
-});
+function updateAndRenderDashboard() {
+  dblib.updateDB().then(res => {
+    renderDashboard();
+  }).catch(err => {
+    console.log(err)
+  });
+}
 
 function renderDashboard() {
   $("#app").empty()
@@ -60,6 +61,7 @@ function renderDashboard() {
 
       // si on ne le trouve pas on récupère les infos depuis omdb
       if (!film_o) {
+        if (mov_path.toLowerCase().indexOf("jouet") >= 0) console.log(mov_path); //================================
         var p = new Promise((resolve2, reject2) => {
           dblib.getOMDBFilm(mov_path).then(r => resolve2(r)).catch(err => resolve2(err))
         })
@@ -77,7 +79,12 @@ function renderDashboard() {
             }
           } else { // movie not found
             //console.log(o.err)
-            var card = renderFilmCard({path: mov_path});
+            if (mov_path.toLowerCase().indexOf("jouet") >= 0) console.log("Adding empty card for " + mov_path) //==========================
+            var empty_film = {
+              path: mov_path
+            }
+            dblib.db.push(empty_film)
+            var card = renderFilmCard(empty_film);
             root.append(card)
             reloadStats()
           }
@@ -184,7 +191,7 @@ function createNavbar() {
       dblib.setFilmDir(myrootdir).then(_ => {
         document.querySelector("#change_root").close()
         // on relance le rendu dashboard
-        renderDashboard()
+        updateAndRenderDashboard()
       }).catch(err => {
         console.log("Cannot change root path films to " + myrootdir, err)
         document.querySelector("#change_root").close()
@@ -209,16 +216,17 @@ function createNavbar() {
   var reload = $('<button class="reload mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"><i class="fa fa-refresh" aria-hidden="true"></i></button>')
   reload.click(e => {
     e.stopPropagation()
-    renderDashboard()
+    updateAndRenderDashboard()
   })
 
   // ========= 4 ============= On ajoute la barre de recherche
   var searchbar = $('<div class="mdh-expandable-search mdl-cell--hide-phone">' +
-        '<i class="material-icons search-icon">search</i>' +
-          '<input id="searchbox" type="text" placeholder="Search" size="1">' +
-      '</div>')
+    '<i class="material-icons search-icon">search</i>' +
+    '<input id="searchbox" type="text" placeholder="Search" size="1">' +
+    '</div>')
   searchbar.keypress(e => {
     if (e.which == 13) { // enter pressed !
+      if (!$("#searchbox").val()) return renderDashboard();
       var list_films = search.searchFilm(dblib.db, $("#searchbox").val());
       filterSort(list_films)
     }
@@ -436,5 +444,6 @@ function playVideo(path) {
 module.exports.db = dblib.db;
 module.exports.playVideo = playVideo;
 module.exports.renderDashboard = renderDashboard;
+module.exports.updateAndRenderDashboard = updateAndRenderDashboard;
 
 module.exports.MaterialProgress;

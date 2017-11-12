@@ -23,7 +23,8 @@ function commands(film_list, search_s) {
     console.log(res.length, film_list.length)
     return res
   } else if (search_s == "@noomdb") {
-    return _.find(film_list, m => (!m.omdb && 1==1))
+    var res = _.filter(film_list, m => !m.omdb);
+    return res
   } else {
     console.log("commands : @noposter, @noomdb")
     return film_list

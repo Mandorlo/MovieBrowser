@@ -13,7 +13,8 @@ const classes_eq = [
 var omdb_fields = {
   "Actors": getOMDBField(dblib.db, "Actors"),
   "Genre": getOMDBField(dblib.db, "Genre"),
-  "Director": getOMDBField(dblib.db, "Director")
+  "Director": getOMDBField(dblib.db, "Director"),
+  "Title": getOMDBField(dblib.db, "Title")
 }
 
 function commands(film_list, search_s) {
@@ -45,8 +46,26 @@ function searchFilm(film_list, search_s) {
     films_notes.push(film_o)
   })
 
-  var filter_film = _.filter(films_notes, f => f.note > 60)
+  var notes = _.map(films_notes, 'note');
+  var e = ecartType(notes);
+  console.log("Ecart-type for search = ", e)
+  console.log("Limit for search = ", _.max(notes) - e)
+  var filter_film = _.filter(films_notes, f => f.note > _.max(notes) - e)
   return _.sortBy(filter_film, "note").reverse()
+}
+
+function ecartType(arr) {
+  var m = mean(arr);
+  var arr2 = _.map(arr, n => Math.pow(n - m, 2));
+  return Math.sqrt(mean(arr2));
+}
+
+function mean(arr) {
+  var somme = 0.0;
+  somme = _.reduce(arr, (res, n) => {
+    return res + n
+  }, 0)
+  return somme / parseFloat(arr.length)
 }
 
 
@@ -56,7 +75,7 @@ function compareFilm2String(film_o, s) {
   var note = 0;
   // on regarde le titre
   var title = dblib.getTitle(film_o);
-  note += compareStrings(title, s);
+  note += compareStrings(title, s) * 3;
 
   // recherche par années
   if (/^(20|19)[0-9]{2}$/gi.test(s) && film_o.omdb && film_o.omdb.Year) {
@@ -81,15 +100,15 @@ function compareFilm2String(film_o, s) {
     }
   }
 
-  if (film_o.tags) note += compareStrings(film_o.tags.join(' '), s)
+  if (film_o.tags) note += compareStrings(film_o.tags.join(' '), s) / 2;
   if (film_o.omdb) {
-    if (film_o.omdb.Genre) note += compareStrings(film_o.omdb.Genre, s);
-    if (film_o.omdb.Director) note += compareStrings(film_o.omdb.Director, s)
-    if (film_o.omdb.Actors) note += compareStrings(film_o.omdb.Actors, s)
-    if (film_o.omdb.Country) note += compareStrings(film_o.omdb.Country, s)
-    if (film_o.omdb.Language) note += compareStrings(film_o.omdb.Language, s)
-    if (film_o.omdb.Production) note += compareStrings(film_o.omdb.Production, s)
-    if (film_o.omdb.Awards) note += compareStrings(film_o.omdb.Awards, s)
+    if (film_o.omdb.Genre) note += compareStrings(film_o.omdb.Genre, s) / 2;
+    if (film_o.omdb.Director) note += compareStrings(film_o.omdb.Director, s) / 10;
+    if (film_o.omdb.Actors) note += compareStrings(film_o.omdb.Actors, s) / 4;
+    if (film_o.omdb.Country) note += compareStrings(film_o.omdb.Country, s) / 2;
+    if (film_o.omdb.Language) note += compareStrings(film_o.omdb.Language, s) / 2;
+    if (film_o.omdb.Production) note += compareStrings(film_o.omdb.Production, s) / 2;
+    if (film_o.omdb.Awards) note += compareStrings(film_o.omdb.Awards, s) / 10;
   }
   return note
 }

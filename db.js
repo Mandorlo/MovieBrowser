@@ -101,15 +101,16 @@ function updateDBAux(type) {
             // on le cherche dans omdb
             // setTimeout(() => {
             getOMDBFilm(movie_path).then(film_o => {
+              film_o.date_ajout = moment().format("YYYYMMDD");
               db.push(film_o)
               count_http_call++
               // printText(count_http_call + "/" + movies_list.length)
               resolve2(film_o)
             }).catch(err => {
-              db.push({
-                path: movie_path,
-                omdb: null
-              })
+              // db.push({
+              //   path: movie_path,
+              //   omdb: null
+              // })
               count_http_call++
               // printText(count_http_call + "/" + movies_list.length)
               resolve2(err) // on fait exprès de pas générer d'erreur si on trouve pas le film

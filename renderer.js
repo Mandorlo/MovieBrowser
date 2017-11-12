@@ -384,7 +384,10 @@ function reloadStats() {
 
 function filterSort(movie_list) {
   var good_ids = _.map(movie_list, m => dblib.getId(m))
-  var notes = _.map(movie_list, m => m.note)
+  var notes = _.map(movie_list, m => {
+    if (m) return m.note;
+    else return 0
+  })
   var cards = $(".main_container");
   cards.each(i => {
     var card = cards.eq(i);

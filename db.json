@@ -750,7 +750,7 @@
 		},
 		"title": "Raiders of the Lost Ark",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\BEqRqYE0rNOARqYasHD0.jpg",
-		"note": 1020,
+		"note": 0,
 		"tags": []
 	},
 	{
@@ -933,7 +933,7 @@
 		},
 		"title": "Pride & Prejudice",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\I4zHZmVhfBUMGHN6sDYJ.jpg",
-		"note": 1020,
+		"note": 0,
 		"tags": []
 	},
 	{
@@ -1123,7 +1123,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\EHemi6MtWcmnmOLNSQsx.jpg"
 		},
-		"note": 1020,
+		"note": 0,
 		"title": "Lion",
 		"tags": [],
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\EHemi6MtWcmnmOLNSQsx.jpg"
@@ -1216,7 +1216,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\932ytdh9N7hlJFUFhY3V.jpg"
 		},
-		"note": 10
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Beauty and the Beast\\Beauty.and.the.Beast.2017.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -2262,7 +2262,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eQdTUeJ4oW5WCJHUnT6i.jpg"
 		},
-		"note": 10
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Her\\Her.2013.720p.BluRay.x264.YIFY.mp4",
@@ -2758,7 +2758,11 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\X9NzbRZnTxbWTgZaI3tY.jpg"
 		},
-		"note": 0
+		"note": 0,
+		"title": "Lawrence of Arabia",
+		"tags": [
+			"vieux"
+		]
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Up\\Up.2009.1080p.BluRay.x264.YIFY.mp4",
@@ -3644,7 +3648,7 @@
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\Gone with the Wind\\Gone.With.The.Wind.1939.720p.BluRay.x264.YIFY.mkv",
+		"path": "D:\\Films\\_Vieux films\\Gone with the Wind\\Gone.With.The.Wind.1939.720p.BluRay.x264.YIFY.mkv",
 		"omdb": {
 			"Title": "Gone with the Wind",
 			"Year": "1939",
@@ -4473,7 +4477,11 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TLwIJjM2dUyYV9h8se85.jpg"
 		},
-		"note": 0
+		"note": 0,
+		"title": "Citizen Kane",
+		"tags": [
+			"vieux"
+		]
 	},
 	{
 		"path": "D:\\Films\\_Disney\\The Princess and the frog\\The.Princess.and.the.Frog.2009.1080p.BrRip.x264.YIFY.mp4",
@@ -4800,7 +4808,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\cT3pgv6G2eTROqn3Qij8.jpg"
 		},
-		"note": 10
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Collateral\\Collateral.mp4",
@@ -7620,7 +7628,7 @@
 			"Website": "http://bventertainment.go.com/movies/spiritedaway",
 			"Response": "True"
 		},
-		"note": 1040
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Opera\\LaTraviata.mp4",
@@ -8427,7 +8435,7 @@
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rSESAmdRQZGp5mPopyNk.jpg"
 	},
 	{
-		"path": "D:\\Films\\_Drôle\\Le Distrait\\Le.Distrait.1970.720p.WEB-DL.H264-HDCLUB.mkv",
+		"path": "D:\\Films\\Le Distrait\\Le.Distrait.1970.720p.WEB-DL.H264-HDCLUB.mkv",
 		"title": "Le Distrait",
 		"tags": [
 			"francais",
@@ -8564,7 +8572,7 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UF6DM9CIxHSYsINtKSib.jpg"
 		},
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\UF6DM9CIxHSYsINtKSib.jpg",
-		"note": 10
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Personnages\\Immortal Beloved\\Immortal.Beloved.1995.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -8739,6 +8747,268 @@
 			"Website": "N/A",
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\57HgdbGQIaJ4GrhueRTA.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Big Hero 6\\Big.Hero.6.2014.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Big Hero 6",
+			"Year": "2014",
+			"Rated": "PG",
+			"Released": "07 Nov 2014",
+			"Runtime": "102 min",
+			"Genre": "Animation, Action, Adventure",
+			"Director": "Don Hall, Chris Williams",
+			"Writer": "Jordan Roberts (screenplay by), Robert L. Baird (screenplay by), Daniel Gerson (screenplay by), Man of Action (Big Hero 6 team and characters created by), Steven T. Seagle (characters), Duncan Rouleau (characters), Joe Kelly (characters), Joe Casey (characters)",
+			"Actors": "Scott Adsit, Ryan Potter, Daniel Henney, T.J. Miller",
+			"Plot": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 1 Oscar. Another 16 wins & 57 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "89%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.8",
+			"imdbVotes": "322,554",
+			"imdbID": "tt2245084",
+			"Type": "movie",
+			"DVD": "24 Feb 2015",
+			"BoxOffice": "N/A",
+			"Production": "Walt Disney Pictures",
+			"Website": "http://www.disney.com/BigHero6",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SlRnCq68hbQTwjdyM9xF.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\The Artist\\The.Artist.2011.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Artist",
+			"Year": "2011",
+			"Rated": "PG-13",
+			"Released": "20 Jan 2012",
+			"Runtime": "100 min",
+			"Genre": "Comedy, Drama, Romance",
+			"Director": "Michel Hazanavicius",
+			"Writer": "Michel Hazanavicius",
+			"Actors": "Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",
+			"Plot": "A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.",
+			"Language": "English, English, French",
+			"Country": "France, USA, Belgium",
+			"Awards": "Won 5 Oscars. Another 146 wins & 189 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "89/100"
+				}
+			],
+			"Metascore": "89",
+			"imdbRating": "7.9",
+			"imdbVotes": "202,963",
+			"imdbID": "tt1655442",
+			"Type": "movie",
+			"DVD": "26 Jun 2012",
+			"BoxOffice": "$44,667,095",
+			"Production": "The Weinstein Company",
+			"Website": "http://theartistmovie.net",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ohSPwYkPI26FuzrQ8fll.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\The Chronicles of Narnia\\The.Chronicles.of.Narnia.The.Lion.The Witch.And.The.Wardrobe.2005.720p.Brrip.x264.Deceit.YIFY.mp4",
+		"omdb": {
+			"Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+			"Year": "2005",
+			"Rated": "PG",
+			"Released": "09 Dec 2005",
+			"Runtime": "143 min",
+			"Genre": "Adventure, Family, Fantasy",
+			"Director": "Andrew Adamson",
+			"Writer": "Ann Peacock (screenplay), Andrew Adamson (screenplay), Christopher Markus (screenplay), Stephen McFeely (screenplay), C.S. Lewis (book)",
+			"Actors": "Georgie Henley, Skandar Keynes, William Moseley, Anna Popplewell",
+			"Plot": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+			"Language": "English, German",
+			"Country": "USA, UK",
+			"Awards": "Won 1 Oscar. Another 14 wins & 46 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.9/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "75%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "6.9",
+			"imdbVotes": "312,499",
+			"imdbID": "tt0363771",
+			"Type": "movie",
+			"DVD": "04 Apr 2006",
+			"BoxOffice": "$291,685,219",
+			"Production": "Buena Vista",
+			"Website": "http://www.narnia.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\BKvVg3fN7M0cwE7L1PaH.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\V for Vendetta\\V.For.Vendetta.2006.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "V for Vendetta",
+			"Year": "2005",
+			"Rated": "R",
+			"Released": "17 Mar 2006",
+			"Runtime": "132 min",
+			"Genre": "Action, Drama, Thriller",
+			"Director": "James McTeigue",
+			"Writer": "Lilly Wachowski (screenplay), Lana Wachowski (screenplay), David Lloyd (graphic novel art)",
+			"Actors": "Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry",
+			"Plot": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+			"Language": "English",
+			"Country": "USA, UK, Germany",
+			"Awards": "7 wins & 27 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzllMjJkODAtYjMwMi00YmNhLWFhYzAtZjZjODg5YzEwOGUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "73%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "62/100"
+				}
+			],
+			"Metascore": "62",
+			"imdbRating": "8.2",
+			"imdbVotes": "870,474",
+			"imdbID": "tt0434409",
+			"Type": "movie",
+			"DVD": "01 Aug 2006",
+			"BoxOffice": "$70,500,000",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://vforvendetta.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\N1F5A2xObwBBM2sE7cKG.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\It's a Wonderful Life\\It's.a.Wonderful.Life.1946.720p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "It's a Wonderful Life",
+			"Year": "1946",
+			"Rated": "PG",
+			"Released": "07 Jan 1947",
+			"Runtime": "130 min",
+			"Genre": "Drama, Family, Fantasy",
+			"Director": "Frank Capra",
+			"Writer": "Frances Goodrich (screenplay), Albert Hackett (screenplay), Frank Capra (screenplay), Jo Swerling (additional scenes), Philip Van Doren Stern (story)",
+			"Actors": "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell",
+			"Plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 5 Oscars. Another 6 wins & 1 nomination.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "94%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "89/100"
+				}
+			],
+			"Metascore": "89",
+			"imdbRating": "8.6",
+			"imdbVotes": "309,123",
+			"imdbID": "tt0038650",
+			"Type": "movie",
+			"DVD": "19 Sep 1995",
+			"BoxOffice": "N/A",
+			"Production": "Liberty Films",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\0LjWmnR2gInJnPmRomn9.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\The Great Escape\\The.Great.Escape.1963.HDTVRip.x264.YIFY.mkv",
+		"omdb": {
+			"Title": "The Great Escape",
+			"Year": "1963",
+			"Rated": "NOT RATED",
+			"Released": "04 Jul 1963",
+			"Runtime": "172 min",
+			"Genre": "Adventure, Drama, History",
+			"Director": "John Sturges",
+			"Writer": "Paul Brickhill (book), James Clavell (screenplay), W.R. Burnett (screenplay)",
+			"Actors": "Steve McQueen, James Garner, Richard Attenborough, James Donald",
+			"Plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+			"Language": "English, German, French, Russian, Spanish",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 2 wins & 9 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.2",
+			"imdbVotes": "182,516",
+			"imdbID": "tt0057115",
+			"Type": "movie",
+			"DVD": "11 Oct 2005",
+			"BoxOffice": "N/A",
+			"Production": "VCI",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Y8Bp8DtfILID8Yrd6wjs.jpg"
 		},
 		"note": 0
 	}

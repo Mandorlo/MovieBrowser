@@ -19,11 +19,11 @@ var omdb_fields = {
 function commands(film_list, search_s) {
   console.log("Processing command " + search_s + "...")
   if (search_s == "@noposter") {
-    var res = [film_list[0]]; //_.filter(film_list, m => (!m.localPoster && !(m.omdb && m.omdb.localPoster)))
+    var res = _.filter(film_list, m => (!m.localPoster && !(m.omdb && m.omdb.localPoster)))
     console.log(res.length, film_list.length)
     return res
   } else if (search_s == "@noomdb") {
-    return _.find(film_list, m => !m.omdb)
+    return _.find(film_list, m => (!m.omdb && 1==1))
   } else {
     console.log("commands : @noposter, @noomdb")
     return film_list
@@ -50,12 +50,27 @@ function searchFilm(film_list, search_s) {
 
 
 function compareFilm2String(film_o, s) {
-  if (!film_o || !film_o.path) throw "L'objet film envoyé dans compareFilm2String du module searhc.js est invalide !";
+  if (!film_o || !film_o.path) throw "L'objet film envoyé dans compareFilm2String du module search.js est invalide !";
   s = normString(s);
   var note = 0;
   // on regarde le titre
   var title = dblib.getTitle(film_o);
   note += compareStrings(title, s);
+
+  // recherche par années
+  if (/^(20|19)[0-9]{2}$/gi.test(s) && film_o.omdb && film_o.omdb.Year) {
+    if (film_o.omdb.Year == s) return 1000; else return 0;
+  } else if (/(ann[ée]es|years?)\s+[0-9]+/gi.test(s) && film_o.omdb && film_o.omdb.Year) {
+    var year_base = /[0-9]+/gi.exec(s);
+    if (year_base) {
+      year_base = parseInt(year_base)
+      if (year_base >= 40 && year_base < 100) year_base  = 1900 + year_base;
+      else if (year_base < 40) year_base = 2000 + year_base;
+      // console.log("search by year detected", year_base, parseInt(film_o.omdb.Year), parseInt(film_o.omdb.Year) - year_base > 0 && parseInt(film_o.omdb.Year) < 10)
+      if (parseInt(film_o.omdb.Year) - year_base > 0 && parseInt(film_o.omdb.Year) - year_base < 10) return 1000;
+      else return 0;
+    }
+  }
 
   // cas particuliers
   for (var k in omdb_fields) {

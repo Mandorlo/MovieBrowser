@@ -796,7 +796,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Pl5mWG93edfpdJbPIDbB.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Anna Karenina\\Anna.Karenina.2012.1080p.BRrip.x264.GAZ.mp4",
@@ -1078,7 +1078,7 @@
 			"animation",
 			"famille"
 		],
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Lion\\Lion.2016.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -1261,7 +1261,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Ib1uIDemf0srMaQR7luy.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Donnie Brasco\\Donnie Brasco.avi",
@@ -1543,8 +1543,8 @@
 			"Genre": "Adventure, Comedy, Family",
 			"Director": "Alain Chabat",
 			"Writer": "René Goscinny (comic book \"Astérix et Cléopatre\"), Albert Uderzo (comic book \"Astérix et Cléopatre\"), Alain Chabat (screenplay)",
-			"Actors": "Gérard Depardieu, Christian Clavier, Jamel Debbouze, Monica Bellucci, Gérard Darmon, Claude Rich, Edouard Baer",
-			"Plot": "Cléopâtre, la reine d’Égypte, décide, pour défier l'Empereur romain Jules César, de construire en trois mois un palais somptueux en plein désert. Si elle y parvient, celui-ci devra concéder publiquement que le peuple égyptien est le plus grand de tous les peuples. Pour ce faire, Cléopâtre fait appel à Numérobis, un architecte d'avant-garde plein d'énergie. S'il réussit, elle le couvrira d'or. S'il échoue, elle le jettera aux crocodiles. Celui-ci, conscient du défi à relever, cherche de l'aide auprès de son vieil ami Panoramix. Le druide fait le voyage en Égypte avec Astérix et Obélix. De son côté, Amonbofis, l'architecte officiel de Cléopâtre, jaloux que la reine ait choisi Numérobis pour construire le palais, va tout mettre en œuvre pour faire échouer son concurrent.",
+			"Actors": "Gérard Depardieu, Christian Clavier, Jamel Debbouze, Monica Bellucci",
+			"Plot": "Astérix and Obélix go to Egypt to help architect Numérobis who is building a palace for Cleopatra.",
 			"Language": "French, Arabic, Cantonese, Latin, German",
 			"Country": "France, Germany",
 			"Awards": "1 win & 4 nominations.",
@@ -1573,7 +1573,7 @@
 		},
 		"title": "Asterix and Obelix Meet Cleopatra",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\o8VnUun0e8wGU3SSrqRj.jpg",
-		"note": 1200,
+		"note": 0,
 		"tags": [
 			"drole",
 			"comedie",
@@ -1668,7 +1668,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HhTymuKofxUIqxLptNIM.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "The Emperor's New Groove",
 		"tags": [
 			"animation",
@@ -1858,7 +1858,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\K5DSFLnKUGABx4ZwFpzS.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Pocahontas\\Pocahontas.1995.1080p.BrRip.x264.YIFY_FR.mp4",
@@ -1903,7 +1903,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3P5gZnZmYPzWbRjt23xC.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "Pocahontas",
 		"tags": [
 			"animation",
@@ -1998,7 +1998,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\39tXo69CUNYZyQrr5jLW.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "Moana",
 		"tags": [
 			"animation"
@@ -2824,7 +2824,7 @@
 			"animation",
 			"famille"
 		],
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Action Aventure\\Entrapment\\Entrapment.1999.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -3013,7 +3013,7 @@
 			"animation",
 			"famille"
 		],
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Hobbit\\The Hobbit - The Desolation of Smaug\\The.Hobbit.The.Desolation.of.Smaug.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -3206,7 +3206,7 @@
 			"animation",
 			"famille"
 		],
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\Small Time Crooks\\Small.Time.Crooks.2000.720p.BluRay.H264.AAC-RARBG.mp4",
@@ -3296,7 +3296,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\RfzhkN11c75LhmOxCBjG.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Bollywood\\Bend it like Beckham\\Bend.It.Like.Beckham.2002.1080p.BluRay.x264-[YTS.AG].mp4",
@@ -3432,7 +3432,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Cnsty41rgq0PkeG3gsom.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Woman in gold\\Woman.in.Gold.2015.720p.BluRay.x264.YIFY.mp4",
@@ -3886,7 +3886,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\mdzONiWtmti2XSwCDcHs.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "Anastasia",
 		"tags": [
 			"animation"
@@ -4214,7 +4214,7 @@
 			"animation",
 			"famille"
 		],
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Drôle\\Gad Elmaleh-Papa est en Haut.avi",
@@ -4391,7 +4391,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\O46nLnh8xzHRI2ve8qPW.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "Brother Bear",
 		"tags": [
 			"animation"
@@ -4538,7 +4538,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\jF6GC4PfAmZ0JxmRpM2n.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "The Princess and the Frog",
 		"tags": [
 			"animation"
@@ -4589,7 +4589,7 @@
 			"anime",
 			"japonais"
 		],
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Minority report\\Minority.Report.2002.1080p.BluRay.x264.YIFY_FR.mp4",
@@ -4960,7 +4960,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\P5YtDBdrz2ERfJUBSaGM.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Captain Fantastic\\Captain.Fantastic.2016.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -5050,7 +5050,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\qGZPcbqNEZB1EYcyOESd.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "How to Train Your Dragon",
 		"tags": [
 			"animation"
@@ -6313,7 +6313,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\geUQgVHkSQcD3Fog84x0.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Back to the future\\Back to the future I\\Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
@@ -6399,7 +6399,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\264LKL6qzoAdjONkw9Kv.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "The Incredibles",
 		"tags": [
 			"animation"
@@ -6509,7 +6509,7 @@
 		"path": "D:\\Films\\_Miyazaki\\Mononoke hime\\Mononoke.hime.[Princess.Mononoke].[DUAL.AUDIO]1997.HDTVRip.x264.YIFY.mkv",
 		"title": "Princess Mononoke",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\43Z9bg4BZhigvWWTE2uV.jpg",
-		"note": 1110,
+		"note": 0,
 		"tags": [
 			"miyazaki",
 			"anime",
@@ -7640,7 +7640,7 @@
 			"Website": "http://bventertainment.go.com/movies/spiritedaway",
 			"Response": "True"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Opera\\LaTraviata.mp4",
@@ -8049,7 +8049,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\0L0GuFrf8tJU2EgKNN5m.jpg"
 		},
-		"note": 1110,
+		"note": 0,
 		"title": "Howl's Moving Castle",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\0L0GuFrf8tJU2EgKNN5m.jpg",
 		"tags": [
@@ -8806,7 +8806,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\SlRnCq68hbQTwjdyM9xF.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\The Artist\\The.Artist.2011.720p.BluRay.x264.YIFY.mp4",
@@ -9364,9 +9364,11 @@
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Enchanted\\Disney.Presents.Enchanted.2007.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"note": 1110,
+		"note": 0,
 		"title": "Enchanted",
-		"tags": [],
+		"tags": [
+			"disney"
+		],
 		"omdb": {
 			"Title": "Enchanted",
 			"Year": "2007",
@@ -9667,7 +9669,7 @@
 		"title": "The Lion King",
 		"tags": [],
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\MRQz9S4HduXVvpfzIz7v.jpg",
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Toy Story\\Toy.Story.1995.1080p.BRrip.x264.YIFY.mp4",
@@ -9712,7 +9714,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\oA1lsF9faIXpOtpB16u0.jpg"
 		},
-		"note": 1110
+		"note": 0
 	},
 	{
 		"path": "D:\\Films\\Lord of War\\Lord.of.War.2005.1080p.BrRip.x264.YIFY.mp4",
@@ -10220,19 +10222,57 @@
 		]
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 02 FR Le reveil spirituel chez les jeunes.avi",
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\feu rouge feu vert.avi",
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 06 FR Pentecôte pour l unite.avi",
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\béatification JP II.avi",
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\St Ignace.avi",
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\01 03 FR Mission d'unité.avi",
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 02 FR Defi de l Islam 3 Pas d autre nom que Jesus.avi",
+		"path": "D:\\Films\\_Films étrangers\\C'eravamo Tanto Amati\\Ettore.Scola.C'eravamo.Tanto.Amati.avi",
+		"title": "C'eravamo Tanto Amati",
+		"tags": [
+			"italiano"
+		],
+		"omdb": {
+			"Title": "C'eravamo Tanto Amati",
+			"Year": "1974",
+			"Rated": "N/A",
+			"Released": "23 May 1977",
+			"Runtime": "124 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Ettore Scola",
+			"Writer": "Agenore Incrocci, Furio Scarpelli, Ettore Scola",
+			"Actors": "Nino Manfredi, Vittorio Gassman, Stefania Sandrelli, Stefano Satta Flores",
+			"Plot": "Gianni, Nicola and Antonio become close friends in 1944 while fighting the Nazis. After the end of the war, full of illusions, they settle down. The movie is a the story of the life of ...",
+			"Language": "Italian",
+			"Country": "Italy",
+			"Awards": "10 wins & 2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTVkNzE3NzUtNGJkOC00N2Q4LTlkZTYtMGY1MTczM2M1MjM1XkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.2/10"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.2",
+			"imdbVotes": "3,849",
+			"imdbID": "tt0075793",
+			"Type": "movie",
+			"DVD": "25 Nov 2008",
+			"BoxOffice": "N/A",
+			"Production": "Delta",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iZGiR2D1gJGf9e6Bro9Y.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iZGiR2D1gJGf9e6Bro9Y.jpg",
 		"note": 0
 	},
 	{
@@ -10240,15 +10280,58 @@
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\BES octo 2011.avi",
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_TEST.mp4",
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 PRESENTATIONFR.avi",
-		"note": 0
+		"path": "D:\\Films\\_Vieux films\\Morte a Venezia\\Morte a Venezia - Death in Venice 1971 HDTV 720p Ita Eng x265-NAHOM.mkv",
+		"title": "Morte a Venezia",
+		"tags": [
+			"italiano",
+			"vieux"
+		],
+		"omdb": {
+			"Title": "Morte a Venezia",
+			"Year": "1971",
+			"Rated": "GP",
+			"Released": "05 Mar 1971",
+			"Runtime": "130 min",
+			"Genre": "Drama",
+			"Director": "Luchino Visconti",
+			"Writer": "Thomas Mann (novel), Luchino Visconti (screenplay), Nicola Badalucco (screenplay)",
+			"Actors": "Dirk Bogarde, Romolo Valli, Mark Burns, Nora Ricci",
+			"Plot": "While recovering in Venice, a sickly composer becomes dangerously fixated with a teenage boy.",
+			"Language": "English, Italian, Polish, French",
+			"Country": "Italy, France, USA",
+			"Awards": "Nominated for 1 Oscar. Another 18 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRhMzRhOTMtMTk2Zi00OTM3LWFkODYtMGRkZjc3N2E0MTRiXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "76%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.5",
+			"imdbVotes": "14,930",
+			"imdbID": "tt0067445",
+			"Type": "movie",
+			"DVD": "17 Feb 2004",
+			"BoxOffice": "N/A",
+			"Production": "WARNER BROTHERS PICTURES",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\F2ajVyyRblA0LCvrBeJl.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\F2ajVyyRblA0LCvrBeJl.jpg",
+		"note": 4160
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\01 03 FR Mission d'unité.avi",
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 06 FR Kirchentag.avi",
 		"note": 0
 	},
 	{
@@ -10260,23 +10343,222 @@
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Foi  histoire de la ccn.avi",
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 PRESENTATIONFR.avi",
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Kung Fu\\ShaolinVol2.mkv",
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 06 FR Pentecôte pour l unite.avi",
 		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 02 FR Le reveil spirituel chez les jeunes.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\St Ignace.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 02 FR Defi de l Islam 3 Pas d autre nom que Jesus.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\Perfetti Sconosciuti\\Perfetti Sconosciuti.avi",
+		"note": 0,
+		"title": "Perfetti Sconosciuti",
+		"tags": [
+			"italiano"
+		],
+		"omdb": {
+			"Title": "Perfetti Sconosciuti",
+			"Year": "2016",
+			"Rated": "N/A",
+			"Released": "11 Feb 2016",
+			"Runtime": "97 min",
+			"Genre": "Comedy, Drama",
+			"Director": "Paolo Genovese",
+			"Writer": "Filippo Bologna (screenplay), Paolo Costella (screenplay), Paolo Genovese (screenplay), Paola Mammini (screenplay), Rolando Ravello (screenplay)",
+			"Actors": "Giuseppe Battiston, Anna Foglietta, Marco Giallini, Edoardo Leo",
+			"Plot": "Seven long-time friends get together for a dinner. When they decide to share with each other the content of every text message, email and phone call they receive, many secrets start to unveil and the equilibrium trembles.",
+			"Language": "Italian",
+			"Country": "Italy",
+			"Awards": "13 wins & 12 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQzZmQ5MjItYmJlNy00MGI2LWExMDQtMjBiNjNmMzc5NTk1XkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "83%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.8",
+			"imdbVotes": "25,782",
+			"imdbID": "tt4901306",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HusBEHCGDQcBpq8KI5JL.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HusBEHCGDQcBpq8KI5JL.jpg"
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 10 FR Alexandre Men Parole d un martyr.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Vieux films\\Il Gattopardo\\Il Gattopardo 1963 Blu-ray 720p x264-CiNEFiLE.mkv",
+		"note": 0,
+		"title": "Il Gattopardo",
+		"tags": [
+			"italiano",
+			"vieux"
+		],
+		"omdb": {
+			"Title": "Il Gattopardo",
+			"Year": "1963",
+			"Rated": "APPROVED",
+			"Released": "29 Mar 1963",
+			"Runtime": "186 min",
+			"Genre": "Drama, History",
+			"Director": "Luchino Visconti",
+			"Writer": "Giuseppe Tomasi di Lampedusa (novel), Suso Cecchi D'Amico (screenplay), Pasquale Festa Campanile (screenplay), Enrico Medioli (screenplay), Massimo Franciosa (screenplay), Luchino Visconti (screenplay)",
+			"Actors": "Burt Lancaster, Claudia Cardinale, Alain Delon, Paolo Stoppa",
+			"Plot": "The Prince of Salina, a noble aristocrat of impeccable integrity, tries to preserve his family and class amid the tumultuous social upheavals of 1860's Sicily.",
+			"Language": "Italian, Latin, French",
+			"Country": "Italy, France",
+			"Awards": "Nominated for 1 Oscar. Another 10 wins & 5 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTE0ZGQwNTctNjMzYy00ODg2LWE0OTAtMjBlOTU4NWRmZGEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "100%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "100/100"
+				}
+			],
+			"Metascore": "100",
+			"imdbRating": "8.1",
+			"imdbVotes": "17,795",
+			"imdbID": "tt0057091",
+			"Type": "movie",
+			"DVD": "24 Jun 2003",
+			"BoxOffice": "N/A",
+			"Production": "Cowboy Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\F3AO68XSwwetDxCVTieL.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\F3AO68XSwwetDxCVTieL.jpg"
+	},
+	{
+		"path": "D:\\Films\\Everest\\Everest 2015 1080p BluRay x264 DTS-JYK.mkv",
+		"note": 0,
+		"omdb": {
+			"Title": "Everest",
+			"Year": "2015",
+			"Rated": "PG-13",
+			"Released": "25 Sep 2015",
+			"Runtime": "121 min",
+			"Genre": "Action, Adventure, Drama",
+			"Director": "Baltasar Kormákur",
+			"Writer": "William Nicholson (screenplay), Simon Beaufoy (screenplay)",
+			"Actors": "Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson",
+			"Plot": "The story of New Zealand's Robert \"Rob\" Edwin Hall, who on May 10, 1996, together with Scott Fischer, teamed up on a joint expedition to ascend Mount Everest.",
+			"Language": "English, Russian",
+			"Country": "UK, USA, Iceland",
+			"Awards": "7 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTNmMzM0ZTktZWY3Yy00ODViLTllZDgtODcwM2QyM2E2YTU2L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "73%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "64/100"
+				}
+			],
+			"Metascore": "64",
+			"imdbRating": "7.1",
+			"imdbVotes": "161,095",
+			"imdbID": "tt2719848",
+			"Type": "movie",
+			"DVD": "19 Jan 2016",
+			"BoxOffice": "$46,529,055",
+			"Production": "Universal Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VhFGASnF4dLcNZkpNVMl.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\VhFGASnF4dLcNZkpNVMl.jpg",
+		"title": "Everest"
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\Una Giornata Particolare\\Una Giornata Particolare.mp4",
+		"note": 0,
+		"title": "Una Giornata Particolare",
+		"tags": [
+			"italiano",
+			"vieux"
+		],
+		"omdb": {
+			"Title": "Una Giornata Particolare",
+			"Year": "1977",
+			"Rated": "NOT RATED",
+			"Released": "01 Oct 1977",
+			"Runtime": "106 min",
+			"Genre": "Drama",
+			"Director": "Ettore Scola",
+			"Writer": "Ruggero Maccari (screenplay), Ettore Scola (screenplay), Maurizio Costanzo (collaboration)",
+			"Actors": "Sophia Loren, Marcello Mastroianni, John Vernon, Françoise Berd",
+			"Plot": "Two neighbors, a persecuted journalist and a resigned housewife, meet during Hitler's visit in Italy in May 1938.",
+			"Language": "Italian",
+			"Country": "Italy, Canada",
+			"Awards": "Nominated for 2 Oscars. Another 13 wins & 2 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0YmQ3MmEtZDI3NC00ZWZjLWExODEtOTVkNDVhNjdiZWNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "100%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.1",
+			"imdbVotes": "8,464",
+			"imdbID": "tt0076085",
+			"Type": "movie",
+			"DVD": "17 May 2005",
+			"BoxOffice": "N/A",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KWEFQk6InQ1IZ7MGSu7K.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KWEFQk6InQ1IZ7MGSu7K.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 10 Qu'ils soient un n°2.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS9_Journaliste_David_Yallop.mp4",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\feu rouge feu vert.avi",
 		"note": 0
 	},
 	{
@@ -10284,23 +10566,289 @@
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\béatification JP II.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_TEST.mp4",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 10 FR Alexandre Men Parole d un martyr.avi",
-		"note": 0
-	},
-	{
 		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Hautecombe Fev 2013.avi",
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 06 FR Kirchentag.avi",
+		"path": "D:\\Films\\_Kung Fu\\ShaolinVol2.mkv",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Foi  histoire de la ccn.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\BES octo 2011.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS9_Journaliste_David_Yallop.mp4",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Into the Wild\\Into.the.Wild.2007.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Into the Wild",
+			"Year": "2007",
+			"Rated": "R",
+			"Released": "19 Oct 2007",
+			"Runtime": "148 min",
+			"Genre": "Adventure, Biography, Drama",
+			"Director": "Sean Penn",
+			"Writer": "Sean Penn (screenplay), Jon Krakauer (book)",
+			"Actors": "Emile Hirsch, Marcia Gay Harden, William Hurt, Jena Malone",
+			"Plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+			"Language": "English, Danish",
+			"Country": "USA",
+			"Awards": "Nominated for 2 Oscars. Another 23 wins & 99 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "82%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "73/100"
+				}
+			],
+			"Metascore": "73",
+			"imdbRating": "8.1",
+			"imdbVotes": "473,206",
+			"imdbID": "tt0758758",
+			"Type": "movie",
+			"DVD": "04 Mar 2008",
+			"BoxOffice": "$18,173,360",
+			"Production": "Paramount Vantage",
+			"Website": "http://www.intothewild.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KDMPEARXpZUipmE0IcGd.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\The Reader\\The.Reader.2008.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Reader",
+			"Year": "2008",
+			"Rated": "R",
+			"Released": "30 Jan 2009",
+			"Runtime": "124 min",
+			"Genre": "Drama, Romance",
+			"Director": "Stephen Daldry",
+			"Writer": "David Hare (screenplay), Bernhard Schlink (book)",
+			"Actors": "Ralph Fiennes, Jeanette Hain, David Kross, Kate Winslet",
+			"Plot": "Post-WWII Germany: Nearly a decade after his affair with an older woman came to a mysterious end, law student Michael Berg re-encounters his former lover as she defends herself in a war-crime trial.",
+			"Language": "English, German, Greek, Latin",
+			"Country": "USA, Germany",
+			"Awards": "Won 1 Oscar. Another 25 wins & 47 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "62%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "58/100"
+				}
+			],
+			"Metascore": "58",
+			"imdbRating": "7.6",
+			"imdbVotes": "203,005",
+			"imdbID": "tt0976051",
+			"Type": "movie",
+			"DVD": "14 Apr 2009",
+			"BoxOffice": "$34,111,418",
+			"Production": "The Weinstein Co./MGM",
+			"Website": "http://www.thereader-movie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\2WsdUfu0hAPfxbxMPAiN.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Disney\\Robin Hood\\Robin.Hood.1973.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "Robin Hood",
+			"Year": "2010",
+			"Rated": "PG-13",
+			"Released": "14 May 2010",
+			"Runtime": "140 min",
+			"Genre": "Action, Adventure, Drama",
+			"Director": "Ridley Scott",
+			"Writer": "Brian Helgeland (screenplay), Brian Helgeland (story), Ethan Reiff (story), Cyrus Voris (story)",
+			"Actors": "Russell Crowe, Cate Blanchett, Max von Sydow, William Hurt",
+			"Plot": "In 12th century England, Robin and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.",
+			"Language": "English, French, Ukrainian",
+			"Country": "USA, UK",
+			"Awards": "1 win & 14 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "43%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "53/100"
+				}
+			],
+			"Metascore": "53",
+			"imdbRating": "6.7",
+			"imdbVotes": "224,937",
+			"imdbID": "tt0955308",
+			"Type": "movie",
+			"DVD": "21 Sep 2010",
+			"BoxOffice": "$105,219,735",
+			"Production": "Universal",
+			"Website": "http://www.robinhoodthemovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\B5W6v9DVmpfe8dD0zWNM.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Drôle\\Les Visiteurs\\Les Visiteurs.mp4",
+		"omdb": {
+			"Title": "Les visiteurs",
+			"Year": "1993",
+			"Rated": "R",
+			"Released": "12 Jul 1996",
+			"Runtime": "107 min",
+			"Genre": "Comedy, Fantasy",
+			"Director": "Jean-Marie Poiré",
+			"Writer": "Christian Clavier, Jean-Marie Poiré",
+			"Actors": "Christian Clavier, Jean Reno, Valérie Lemercier, Marie-Anne Chazel",
+			"Plot": "A medieval nobleman and his squire are accidentally transported to contemporary times by a senile sorcerer. He enlists the aid of his descendent to try to find a way to return home, all the...",
+			"Language": "French, German, English",
+			"Country": "France",
+			"Awards": "1 win & 8 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjc2ODE2OTYtNTgyMS00ZDY1LWJiZjMtNzAxODcyN2VjZjhkXkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.0/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "31%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "7.0",
+			"imdbVotes": "26,888",
+			"imdbID": "tt0108500",
+			"Type": "movie",
+			"DVD": "11 Sep 2001",
+			"BoxOffice": "N/A",
+			"Production": "Gaumont",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\vRNDnmydwIwMUzxGoWA1.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\L'Homme au Masque de Fer\\The.Man.In.The.Iron.Mask.1998.720p.BRRip.x264-x0r.mkv",
+		"omdb": {
+			"Title": "The Man in the Iron Mask",
+			"Year": "1998",
+			"Rated": "PG-13",
+			"Released": "13 Mar 1998",
+			"Runtime": "132 min",
+			"Genre": "Action, Adventure",
+			"Director": "Randall Wallace",
+			"Writer": "Alexandre Dumas (novels), Randall Wallace (screenplay)",
+			"Actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich, Gérard Depardieu",
+			"Plot": "The cruel King Louis XIV of France has a secret twin brother who he keeps imprisoned. Can the twin be substituted for the real king?",
+			"Language": "English, Italian",
+			"Country": "France, USA",
+			"Awards": "3 wins & 4 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "33%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "48/100"
+				}
+			],
+			"Metascore": "48",
+			"imdbRating": "6.5",
+			"imdbVotes": "135,156",
+			"imdbID": "tt0120744",
+			"Type": "movie",
+			"DVD": "11 Aug 1998",
+			"BoxOffice": "N/A",
+			"Production": "MGM Home Entertainment",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\1FEbe5JYI8LI6Iy7Fjwe.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Disney\\The Sword in the Stone\\The.Sword.in.the.Stone.1963.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "The Sword in the Stone",
+			"Year": "1963",
+			"Rated": "G",
+			"Released": "25 Dec 1963",
+			"Runtime": "79 min",
+			"Genre": "Animation, Adventure, Comedy",
+			"Director": "Wolfgang Reitherman",
+			"Writer": "Bill Peet (story), T.H. White (based on the book by)",
+			"Actors": "Sebastian Cabot, Karl Swenson, Rickie Sorensen, Junius Matthews",
+			"Plot": "A poor boy named Arthur learns the power of love, kindness, knowledge and bravery with the help of a wizard called Merlin in the path to become one of the most beloved kings in English history.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 1 win.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODc2MjAyZDYtNWYwZi00YTQwLWE0ZDMtMjM2NTJmYWMxMmQ0XkEyXkFqcGdeQXVyNTQxMTIxMTk@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "71%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "70/100"
+				}
+			],
+			"Metascore": "70",
+			"imdbRating": "7.2",
+			"imdbVotes": "71,959",
+			"imdbID": "tt0057546",
+			"Type": "movie",
+			"DVD": "20 Mar 2001",
+			"BoxOffice": "N/A",
+			"Production": "Buena Vista Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ViewJUm6MIkyKhhOFO5K.jpg"
+		},
 		"note": 0
 	}
 ]

@@ -2,6 +2,7 @@
 
 * simplifier la modification du dossier courant, pas la peine de passer par un <dialog> ! on l'affiche direct
 * améliorer l'ajout de tags avec de l'autocomplete et des chips ?
+* mettre une carte détaillée des films sur ce modèle par ex : https://codepen.io/rmcdonalddesigns/pen/QjLrNe (http://freefrontend.com/css-cards/#movie-cards)
 
 # Setup
 

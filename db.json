@@ -750,7 +750,7 @@
 		},
 		"title": "Raiders of the Lost Ark",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\BEqRqYE0rNOARqYasHD0.jpg",
-		"note": 0,
+		"note": 510,
 		"tags": []
 	},
 	{
@@ -886,7 +886,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Uaua6DRd6WBgBdvQrzcp.jpg"
 		},
-		"note": 0
+		"note": 20
 	},
 	{
 		"path": "D:\\Films\\Pride and Prejudice\\Pride.and.Prejudice.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
@@ -933,7 +933,7 @@
 		},
 		"title": "Pride & Prejudice",
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\I4zHZmVhfBUMGHN6sDYJ.jpg",
-		"note": 0,
+		"note": 510,
 		"tags": []
 	},
 	{
@@ -1123,7 +1123,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\EHemi6MtWcmnmOLNSQsx.jpg"
 		},
-		"note": 0,
+		"note": 510,
 		"title": "Lion",
 		"tags": [],
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\EHemi6MtWcmnmOLNSQsx.jpg"
@@ -2558,7 +2558,7 @@
 			"Genre": "Comedy, Romance",
 			"Director": "Woody Allen",
 			"Writer": "Woody Allen",
-			"Actors": "Colin Firth, Antonia Clarke, Natasha Andrews, Valérie Beaulieu",
+			"Actors": "Colin Firth, Antonia Clarke, Natasha Andrews, Valérie Beaulieu, Emma Stone",
 			"Plot": "A romantic comedy about an Englishman brought in to help unmask a possible swindle. Personal and professional complications ensue.",
 			"Language": "English, French",
 			"Country": "USA, UK",
@@ -3706,7 +3706,7 @@
 		"tags": [
 			"vieux"
 		],
-		"note": 0
+		"note": 20
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Interstellar\\Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4",
@@ -3935,7 +3935,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\YOtiHg45iq0K9DIh1jDN.jpg"
 		},
-		"note": 0
+		"note": 2.5
 	},
 	{
 		"path": "D:\\Films\\_Woody Allen\\Irrational Man\\Irrational.Man.2015.1080p.BluRay.H264.AAC-RARBG.mp4",
@@ -8448,7 +8448,7 @@
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\rSESAmdRQZGp5mPopyNk.jpg"
 	},
 	{
-		"path": "D:\\Films\\Le Distrait\\Le.Distrait.1970.720p.WEB-DL.H264-HDCLUB.mkv",
+		"path": "D:\\Films\\_Drôle\\Le Distrait\\Le.Distrait.1970.720p.WEB-DL.H264-HDCLUB.mkv",
 		"title": "Le Distrait",
 		"tags": [
 			"francais",
@@ -9117,7 +9117,7 @@
 		"note": 0
 	},
 	{
-		"path": "D:\\Films\\Le Jouet\\Le.Jouet.1976.DVDRip.AC3.avi",
+		"path": "D:\\Films\\_Drôle\\Le Jouet\\Le.Jouet.1976.DVDRip.AC3.avi",
 		"omdb": {
 			"Title": "The Toy",
 			"Year": "1976",
@@ -9151,14 +9151,14 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\aUuJL0ulfxdwC0JYOuUp.jpg"
 		},
-		"note": 0,
+		"note": 510,
 		"title": "The Toy",
 		"tags": [],
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\aUuJL0ulfxdwC0JYOuUp.jpg"
 	},
 	{
 		"path": "D:\\Films\\_Kung Fu\\Rush Hour\\Rush.Hour.1.1998.720p.BRrip.x264.YIFY.mp4",
-		"note": 0,
+		"note": 510,
 		"title": "Rush Hour",
 		"tags": [],
 		"omdb": {
@@ -9206,7 +9206,7 @@
 	},
 	{
 		"path": "D:\\Films\\_Sci-Fi\\Blade Runner\\Blade.Runner.Final.Cut.1997.720p.BluRay.x264.YIFY.mp4",
-		"note": 0,
+		"note": 510,
 		"title": "Blade Runner",
 		"tags": [],
 		"omdb": {
@@ -9298,7 +9298,7 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eEjZsdso48gnACGASZuk.jpg"
 		},
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\eEjZsdso48gnACGASZuk.jpg",
-		"note": 0
+		"note": 510
 	},
 	{
 		"path": "D:\\Films\\_Religion\\Net for God\\Bernadette SOUBIROUS réalisé par Jean DELANNOY film complet 1988.mp4",
@@ -9436,7 +9436,7 @@
 	},
 	{
 		"path": "D:\\Films\\The King Speech\\The.Kings.Speech.2010.1080p.BluRay.H264.AAC-RARBG.mp4",
-		"note": 0,
+		"note": 510,
 		"title": "The King's Speech",
 		"tags": [],
 		"omdb": {
@@ -9669,7 +9669,7 @@
 		"title": "The Lion King",
 		"tags": [],
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\MRQz9S4HduXVvpfzIz7v.jpg",
-		"note": 0
+		"note": 510
 	},
 	{
 		"path": "D:\\Films\\_Disney\\Toy Story\\Toy.Story.1995.1080p.BRrip.x264.YIFY.mp4",
@@ -9892,7 +9892,7 @@
 		},
 		"title": "Hachi: A Dog's Tale",
 		"tags": [],
-		"note": 0,
+		"note": 510,
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\sCf4rV4LQlYiWQ3ZLiEs.jpg"
 	},
 	{
@@ -9940,7 +9940,7 @@
 	},
 	{
 		"path": "D:\\Films\\Avatar\\Avatar.ECE.2009.1080p.BrRip.x264.bitloks.YIFY.mp4",
-		"note": 0,
+		"note": 510,
 		"title": "Avatar",
 		"tags": [],
 		"omdb": {
@@ -10032,7 +10032,7 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7ou4oLhkvWzAjZbMrAag.jpg"
 		},
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\7ou4oLhkvWzAjZbMrAag.jpg",
-		"note": 0
+		"note": 510
 	},
 	{
 		"path": "D:\\Films\\_Films étrangers\\I cento passi\\I.cento.passi.The.hundred.steps.ITA.2000.[eMulek.com.pl].avi",
@@ -10119,7 +10119,7 @@
 			"Response": "True",
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\h5GIu521zOtSQClRnJac.jpg"
 		},
-		"note": 0
+		"note": 2080
 	},
 	{
 		"path": "D:\\Films\\Oz the Great and Powerful\\Oz.the.Great.and.Powerful.2013.1080p.BluRay.x264.YIFY.mp4",
@@ -10222,18 +10222,6 @@
 		]
 	},
 	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\feu rouge feu vert.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\béatification JP II.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\01 03 FR Mission d'unité.avi",
-		"note": 0
-	},
-	{
 		"path": "D:\\Films\\_Films étrangers\\C'eravamo Tanto Amati\\Ettore.Scola.C'eravamo.Tanto.Amati.avi",
 		"title": "C'eravamo Tanto Amati",
 		"tags": [
@@ -10273,14 +10261,6 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iZGiR2D1gJGf9e6Bro9Y.jpg"
 		},
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\iZGiR2D1gJGf9e6Bro9Y.jpg",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 CLIP_INTERCESSION.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_TEST.mp4",
 		"note": 0
 	},
 	{
@@ -10328,38 +10308,6 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\F2ajVyyRblA0LCvrBeJl.jpg"
 		},
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\F2ajVyyRblA0LCvrBeJl.jpg",
-		"note": 4160
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 06 FR Kirchentag.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 10 FR Defi de l Islam 1 Christian de Cherge et Mohammed.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 11 FR Sur les pas de Don Bosco.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 PRESENTATIONFR.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 06 FR Pentecôte pour l unite.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 02 FR Le reveil spirituel chez les jeunes.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\St Ignace.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 02 FR Defi de l Islam 3 Pas d autre nom que Jesus.avi",
 		"note": 0
 	},
 	{
@@ -10407,10 +10355,6 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HusBEHCGDQcBpq8KI5JL.jpg"
 		},
 		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\HusBEHCGDQcBpq8KI5JL.jpg"
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 10 FR Alexandre Men Parole d un martyr.avi",
-		"note": 0
 	},
 	{
 		"path": "D:\\Films\\_Vieux films\\Il Gattopardo\\Il Gattopardo 1963 Blu-ray 720p x264-CiNEFiLE.mkv",
@@ -10553,37 +10497,9 @@
 			"Production": "N/A",
 			"Website": "N/A",
 			"Response": "True",
-			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KWEFQk6InQ1IZ7MGSu7K.jpg"
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\b4jObOngJWdVnDfH6Y1I.jpg"
 		},
-		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KWEFQk6InQ1IZ7MGSu7K.jpg"
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 10 Qu'ils soient un n°2.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Sr Angélique.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Hautecombe Fev 2013.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Kung Fu\\ShaolinVol2.mkv",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Foi  histoire de la ccn.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\BES octo 2011.avi",
-		"note": 0
-	},
-	{
-		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS9_Journaliste_David_Yallop.mp4",
-		"note": 0
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\b4jObOngJWdVnDfH6Y1I.jpg"
 	},
 	{
 		"path": "D:\\Films\\Into the Wild\\Into.the.Wild.2007.1080p.BluRay.x264.YIFY.mp4",
@@ -10850,5 +10766,892 @@
 			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\ViewJUm6MIkyKhhOFO5K.jpg"
 		},
 		"note": 0
+	},
+	{
+		"path": "D:\\Films\\L'Homme au Masque de Fer\\The.Man.In.The.Iron.Mask.1998.1080p.BluRay.H264.AAC-RARBG.mp4",
+		"omdb": {
+			"Title": "The Man in the Iron Mask",
+			"Year": "1998",
+			"Rated": "PG-13",
+			"Released": "13 Mar 1998",
+			"Runtime": "132 min",
+			"Genre": "Action, Adventure",
+			"Director": "Randall Wallace",
+			"Writer": "Alexandre Dumas (novels), Randall Wallace (screenplay)",
+			"Actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich, Gérard Depardieu",
+			"Plot": "The cruel King Louis XIV of France has a secret twin brother who he keeps imprisoned. Can the twin be substituted for the real king?",
+			"Language": "English, Italian",
+			"Country": "France, USA",
+			"Awards": "3 wins & 4 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "33%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "48/100"
+				}
+			],
+			"Metascore": "48",
+			"imdbRating": "6.5",
+			"imdbVotes": "135,156",
+			"imdbID": "tt0120744",
+			"Type": "movie",
+			"DVD": "11 Aug 1998",
+			"BoxOffice": "N/A",
+			"Production": "MGM Home Entertainment",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3SKLc0ErPMPYy4NeICVJ.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Films étrangers\\The Lunch Box\\The Lunchbox 2013 1080p BluRay x264 AAC.mp4",
+		"omdb": {
+			"Title": "The Lunchbox",
+			"Year": "2013",
+			"Rated": "PG",
+			"Released": "20 Sep 2013",
+			"Runtime": "104 min",
+			"Genre": "Drama, Romance",
+			"Director": "Ritesh Batra",
+			"Writer": "Ritesh Batra (screenplay), Vasan Bala (hindi dialogue consultant)",
+			"Actors": "Irrfan Khan, Nimrat Kaur, Nawazuddin Siddiqui, Lillete Dubey",
+			"Plot": "A mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.",
+			"Language": "Hindi, English",
+			"Country": "India, France, Germany, USA, Canada",
+			"Awards": "Nominated for 1 BAFTA Film Award. Another 29 wins & 35 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzc1NjIzMV5BMl5BanBnXkFtZTgwODUyMTIxMTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "96%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "76/100"
+				}
+			],
+			"Metascore": "76",
+			"imdbRating": "7.8",
+			"imdbVotes": "37,290",
+			"imdbID": "tt2350496",
+			"Type": "movie",
+			"DVD": "01 Jul 2014",
+			"BoxOffice": "$4,231,500",
+			"Production": "Sony Pictures Classics",
+			"Website": "http://www.cinemosaic.net/films/dabba.html",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\NvXsJZlp02QdaxqSgvAw.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Billy Elliot\\Billy Elliot.avi",
+		"omdb": {
+			"Title": "Billy Elliot",
+			"Year": "2000",
+			"Rated": "R",
+			"Released": "10 Nov 2000",
+			"Runtime": "110 min",
+			"Genre": "Drama, Music, Romance",
+			"Director": "Stephen Daldry",
+			"Writer": "Lee Hall",
+			"Actors": "Jamie Bell, Jean Heywood, Jamie Draven, Gary Lewis",
+			"Plot": "A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
+			"Language": "English",
+			"Country": "UK, France",
+			"Awards": "Nominated for 3 Oscars. Another 54 wins & 65 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.7/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.7",
+			"imdbVotes": "104,878",
+			"imdbID": "tt0249462",
+			"Type": "movie",
+			"DVD": "17 Apr 2001",
+			"BoxOffice": "N/A",
+			"Production": "NCM Fathom",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\TqO2oQdjzw6u7ZFdbtlY.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\feu rouge feu vert.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\03 06 FR Kirchentag.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_TEST.mp4",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\07 10 FR Alexandre Men Parole d un martyr.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Sr Angélique.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 06 FR Pentecôte pour l unite.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\06 11 FR Sur les pas de Don Bosco.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 CLIP_INTERCESSION.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Sweet Bean\\Sweet.Bean.2015.VOSTFR.BRRiP.XviD-ToRo.avi",
+		"title": "Sweet Bean",
+		"tags": [
+			"les",
+			"delices",
+			"de",
+			"tokyo"
+		],
+		"omdb": {
+			"Title": "Sweet Bean",
+			"Year": "2015",
+			"Rated": "NOT RATED",
+			"Released": "30 May 2015",
+			"Runtime": "113 min",
+			"Genre": "Drama",
+			"Director": "Naomi Kawase",
+			"Writer": "Durian Sukegawa (based on the novel by), Naomi Kawase (screenplay)",
+			"Actors": "Kirin Kiki, Masatoshi Nagase, Kyara Uchida, Miki Mizuno",
+			"Plot": "The manager of a pancake stall finds himself confronted with an odd but sympathetic elderly woman looking for work. A taste of her homemade bean jelly convinces him to hire her, which ...",
+			"Language": "Japanese",
+			"Country": "Japan, France, Germany",
+			"Awards": "7 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTM4MzUzOV5BMl5BanBnXkFtZTgwMzMyNjUwOTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "60/100"
+				}
+			],
+			"Metascore": "60",
+			"imdbRating": "7.3",
+			"imdbVotes": "5,196",
+			"imdbID": "tt4298958",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "$123,231",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pkZnVhDGqoMBHtJYI2yW.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\pkZnVhDGqoMBHtJYI2yW.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\R.NFG 2002 10 Qu'ils soient un n°2.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\01 03 FR Mission d'unité.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\St Ignace.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\BES octo 2011.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\béatification JP II.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\M et le 3eme secret\\M_et_le_3eme_secret_BONUS9_Journaliste_David_Yallop.mp4",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Hautecombe Fev 2013.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 10 FR Defi de l Islam 1 Christian de Cherge et Mohammed.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\09 02 FR Le reveil spirituel chez les jeunes.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Sunset Boulevard\\Sunset.blvd.1950.720p.bluray.x264.mkv",
+		"title": "Sunset Boulevard",
+		"tags": [],
+		"omdb": {
+			"Title": "Sunset Boulevard",
+			"Year": "1950",
+			"Rated": "NOT RATED",
+			"Released": "29 Sep 1950",
+			"Runtime": "110 min",
+			"Genre": "Drama, Film-Noir",
+			"Director": "Billy Wilder",
+			"Writer": "Charles Brackett, Billy Wilder, D.M. Marshman Jr.",
+			"Actors": "William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson",
+			"Plot": "A screenwriter is hired to rework a faded silent film star's script only to find himself developing a dangerous relationship.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Won 3 Oscars. Another 15 wins & 18 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				}
+			],
+			"Metascore": "N/A",
+			"imdbRating": "8.5",
+			"imdbVotes": "155,722",
+			"imdbID": "tt0043014",
+			"Type": "movie",
+			"DVD": "26 Nov 2002",
+			"BoxOffice": "N/A",
+			"Production": "Paramount Pictures",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xhooD1zmhLALROvqZabZ.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\xhooD1zmhLALROvqZabZ.jpg",
+		"note": 510
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\00 00 PRESENTATIONFR.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\Foi  histoire de la ccn.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Intouchables\\The Intouchables 2011 1080p BluRay x264 French AAC - Ozlem.mp4",
+		"title": "Intouchables",
+		"tags": [
+			"francais"
+		],
+		"omdb": {
+			"Title": "Intouchables",
+			"Year": "2011",
+			"Rated": "R",
+			"Released": "02 Nov 2011",
+			"Runtime": "112 min",
+			"Genre": "Biography, Comedy, Drama",
+			"Director": "Olivier Nakache, Eric Toledano",
+			"Writer": "Olivier Nakache, Eric Toledano",
+			"Actors": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",
+			"Plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+			"Language": "French, English",
+			"Country": "France",
+			"Awards": "Nominated for 1 Golden Globe. Another 35 wins & 39 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.6/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "74%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "57/100"
+				}
+			],
+			"Metascore": "57",
+			"imdbRating": "8.6",
+			"imdbVotes": "583,814",
+			"imdbID": "tt1675434",
+			"Type": "movie",
+			"DVD": "05 Mar 2013",
+			"BoxOffice": "$13,179,837",
+			"Production": "The Weinstein Company",
+			"Website": "http://weinsteinco.com/sites/the-intouchables/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Q4PA3qRc0Rt3C4K8zvmE.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\Q4PA3qRc0Rt3C4K8zvmE.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Religion\\Net for God\\FR OK\\10 02 FR Defi de l Islam 3 Pas d autre nom que Jesus.avi",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Kimi No Na Wa\\Kimi.No.Na.Wa.Your.Name.2016.1080p.BluRay.x264.mp4",
+		"title": "Your Name",
+		"tags": [
+			"kimi",
+			"no",
+			"na",
+			"wa"
+		],
+		"omdb": {
+			"Title": "Your Name",
+			"Year": "2016",
+			"Rated": "PG",
+			"Released": "07 Apr 2017",
+			"Runtime": "106 min",
+			"Genre": "Animation, Drama, Fantasy",
+			"Director": "Makoto Shinkai",
+			"Writer": "Makoto Shinkai (based on his novel), Makoto Shinkai (screenplay), Clark Cheng (english script)",
+			"Actors": "Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yûki",
+			"Plot": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+			"Language": "Japanese, Chinese",
+			"Country": "Japan",
+			"Awards": "10 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "97%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "79/100"
+				}
+			],
+			"Metascore": "79",
+			"imdbRating": "8.5",
+			"imdbVotes": "58,264",
+			"imdbID": "tt5311514",
+			"Type": "movie",
+			"DVD": "07 Nov 2017",
+			"BoxOffice": "$4,676,810",
+			"Production": "FUNimation Films",
+			"Website": "https://www.funimationfilms.com/movie/yourname/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\CIJXAVIPchgNRvvYpPvS.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\CIJXAVIPchgNRvvYpPvS.jpg",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\_Kung Fu\\ShaolinVol2.mkv",
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Rush\\Rush.2013.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Rush",
+			"Year": "2013",
+			"Rated": "R",
+			"Released": "27 Sep 2013",
+			"Runtime": "123 min",
+			"Genre": "Action, Biography, Drama",
+			"Director": "Ron Howard",
+			"Writer": "Peter Morgan",
+			"Actors": "Chris Hemsworth, Daniel Brühl, Olivia Wilde, Alexandra Maria Lara",
+			"Plot": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+			"Language": "English, German, Italian, French, Spanish",
+			"Country": "UK, Germany, USA",
+			"Awards": "Nominated for 2 Golden Globes. Another 6 wins & 63 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.1/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "89%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "8.1",
+			"imdbVotes": "350,760",
+			"imdbID": "tt1979320",
+			"Type": "movie",
+			"DVD": "28 Jan 2014",
+			"BoxOffice": "$22,442,876",
+			"Production": "Universal Pictures",
+			"Website": "http://www.rushmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\8mpiikAmK1GNjl31Okou.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Apocalypse Now\\Apocalypse.Now.Redux.1979.BDRip.YIFY.mkv",
+		"note": 0,
+		"omdb": {
+			"Title": "Apocalypse Now",
+			"Year": "1979",
+			"Rated": "R",
+			"Released": "15 Aug 1979",
+			"Runtime": "147 min",
+			"Genre": "Drama, War",
+			"Director": "Francis Ford Coppola",
+			"Writer": "John Milius, Francis Ford Coppola, Michael Herr (narration)",
+			"Actors": "Marlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest",
+			"Plot": "During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.",
+			"Language": "English, French, Vietnamese",
+			"Country": "USA",
+			"Awards": "Won 2 Oscars. Another 18 wins & 31 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDg1MDgzMmQtNDhlYS00MzZiLTllZGItNzliZTE1ODBiZDQwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "8.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "94/100"
+				}
+			],
+			"Metascore": "94",
+			"imdbRating": "8.5",
+			"imdbVotes": "493,234",
+			"imdbID": "tt0078788",
+			"Type": "movie",
+			"DVD": "20 Nov 2001",
+			"BoxOffice": "N/A",
+			"Production": "United Artists",
+			"Website": "http://www.zoetrope.com/zoe_films.cgi?page=films&action=show_one&film_id=13",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\JL7RD6BywkQtAej2RS0O.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\JL7RD6BywkQtAej2RS0O.jpg",
+		"title": "Apocalypse Now"
+	},
+	{
+		"path": "D:\\Films\\Ma Vie de Courgette\\ma.vie.de.courgette.2016.french.1080p.bluray.x264.mkv",
+		"note": 0,
+		"title": "Ma Vie de Courgette",
+		"tags": [
+			"francais"
+		],
+		"omdb": {
+			"Title": "Ma Vie de Courgette",
+			"Year": "2016",
+			"Rated": "PG-13",
+			"Released": "24 Feb 2017",
+			"Runtime": "70 min",
+			"Genre": "Animation, Comedy, Drama",
+			"Director": "Claude Barras",
+			"Writer": "Gilles Paris (novel), Céline Sciamma (screenplay), Germano Zullo (contributing writer), Claude Barras (contributing writer), Morgan Navarro (contributing writer)",
+			"Actors": "Gaspard Schlatter, Sixtine Murat, Paulin Jaccoud, Michel Vuillermoz",
+			"Plot": "After losing his mother, a young boy is sent to a foster home with other orphans his age where he begins to learn the meaning of trust and true love.",
+			"Language": "French",
+			"Country": "Switzerland, France",
+			"Awards": "Nominated for 1 Oscar. Another 19 wins & 16 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQzOTExODI0NF5BMl5BanBnXkFtZTgwNzgxNDUyMTI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "98%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "85/100"
+				}
+			],
+			"Metascore": "85",
+			"imdbRating": "7.8",
+			"imdbVotes": "9,225",
+			"imdbID": "tt2321405",
+			"Type": "movie",
+			"DVD": "23 May 2017",
+			"BoxOffice": "$279,912",
+			"Production": "Rita Productions",
+			"Website": "http://mylifeasazucchini.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3CxM4cq1HItBtW8b9750.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\3CxM4cq1HItBtW8b9750.jpg"
+	},
+	{
+		"path": "D:\\Films\\Sweet Bean\\Sweet Bean 2015 Japanese 720p BRRip.mp4",
+		"note": 0,
+		"title": "Sweet Bean",
+		"tags": [
+			"delices",
+			"tokyo"
+		],
+		"omdb": {
+			"Title": "Sweet Bean",
+			"Year": "2015",
+			"Rated": "NOT RATED",
+			"Released": "30 May 2015",
+			"Runtime": "113 min",
+			"Genre": "Drama",
+			"Director": "Naomi Kawase",
+			"Writer": "Durian Sukegawa (based on the novel by), Naomi Kawase (screenplay)",
+			"Actors": "Kirin Kiki, Masatoshi Nagase, Kyara Uchida, Miki Mizuno",
+			"Plot": "The manager of a pancake stall finds himself confronted with an odd but sympathetic elderly woman looking for work. A taste of her homemade bean jelly convinces him to hire her, which ...",
+			"Language": "Japanese",
+			"Country": "Japan, France, Germany",
+			"Awards": "7 wins & 6 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTM4MzUzOV5BMl5BanBnXkFtZTgwMzMyNjUwOTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.3/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "85%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "60/100"
+				}
+			],
+			"Metascore": "60",
+			"imdbRating": "7.3",
+			"imdbVotes": "5,196",
+			"imdbID": "tt4298958",
+			"Type": "movie",
+			"DVD": "N/A",
+			"BoxOffice": "$123,231",
+			"Production": "N/A",
+			"Website": "N/A",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nJCTMZ4fB055lxAlsq9M.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\nJCTMZ4fB055lxAlsq9M.jpg"
+	},
+	{
+		"path": "D:\\Films\\Titanic\\Titanic.1997.HDTV.1080p.x264.YIFY.mp4",
+		"note": 0,
+		"omdb": {
+			"Title": "Titanic",
+			"Year": "1997",
+			"Rated": "PG-13",
+			"Released": "19 Dec 1997",
+			"Runtime": "194 min",
+			"Genre": "Drama, Romance",
+			"Director": "James Cameron",
+			"Writer": "James Cameron",
+			"Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+			"Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+			"Language": "English, Swedish",
+			"Country": "USA",
+			"Awards": "Won 11 Oscars. Another 110 wins & 75 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "88%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "74/100"
+				}
+			],
+			"Metascore": "74",
+			"imdbRating": "7.8",
+			"imdbVotes": "865,083",
+			"imdbID": "tt0120338",
+			"Type": "movie",
+			"DVD": "10 Sep 2012",
+			"BoxOffice": "N/A",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.titanicmovie.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\s4oyunSV1Y4d0VHXwsJq.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\s4oyunSV1Y4d0VHXwsJq.jpg",
+		"title": "Titanic"
+	},
+	{
+		"path": "D:\\Films\\The Aviator\\The.Aviator.2004.720p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "The Aviator",
+			"Year": "2004",
+			"Rated": "PG-13",
+			"Released": "25 Dec 2004",
+			"Runtime": "170 min",
+			"Genre": "Biography, Drama, History",
+			"Director": "Martin Scorsese",
+			"Writer": "John Logan",
+			"Actors": "Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly",
+			"Plot": "A biopic depicting the early years of legendary Director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
+			"Language": "English",
+			"Country": "Germany, USA",
+			"Awards": "Won 5 Oscars. Another 81 wins & 130 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTYzMjA2M2EtYmY1OC00ZWMxLThlY2YtZGI3MTQzOWM4YjE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "87%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "77/100"
+				}
+			],
+			"Metascore": "77",
+			"imdbRating": "7.5",
+			"imdbVotes": "285,753",
+			"imdbID": "tt0338751",
+			"Type": "movie",
+			"DVD": "24 May 2005",
+			"BoxOffice": "$102,563,679",
+			"Production": "Miramax",
+			"Website": "http://www.miramax.com/movie/the-aviator",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\K8oC5xVHBSRLK4fuil8z.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Men of Honor\\Men.of.Honor.2000.1080p.BluRay.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Men of Honor",
+			"Year": "2000",
+			"Rated": "R",
+			"Released": "10 Nov 2000",
+			"Runtime": "129 min",
+			"Genre": "Biography, Drama",
+			"Director": "George Tillman Jr.",
+			"Writer": "Scott Marshall Smith",
+			"Actors": "Robert De Niro, Cuba Gooding Jr., Charlize Theron, Aunjanue Ellis",
+			"Plot": "The story of Carl Brashear, the first African-American, then also the first amputee, U.S. Navy Diver, and the man who trained him.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "11 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1Njk1NTE3NF5BMl5BanBnXkFtZTgwNjAyMzcxMTE@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.2/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "41%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "56/100"
+				}
+			],
+			"Metascore": "56",
+			"imdbRating": "7.2",
+			"imdbVotes": "95,188",
+			"imdbID": "tt0203019",
+			"Type": "movie",
+			"DVD": "10 Apr 2001",
+			"BoxOffice": "N/A",
+			"Production": "20th Century Fox",
+			"Website": "http://www.menofhonor.com",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\KCnsqstvrSCQCSMve4D8.jpg"
+		},
+		"note": 0
+	},
+	{
+		"path": "D:\\Films\\Mission Impossible\\Mission.Impossible.Rogue.Nation.2015.720p.BluRay.x264.VPPV.mp4",
+		"title": "Mission Impossible Rogue Nation",
+		"tags": [],
+		"omdb": {
+			"Title": "Mission: Impossible - Rogue Nation",
+			"Year": "2015",
+			"Rated": "PG-13",
+			"Released": "31 Jul 2015",
+			"Runtime": "131 min",
+			"Genre": "Action, Adventure, Thriller",
+			"Director": "Christopher McQuarrie",
+			"Writer": "Christopher McQuarrie (screenplay), Christopher McQuarrie (story), Drew Pearce (story), Bruce Geller (television series), Kennedy Uzomba (story concept)",
+			"Actors": "Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson",
+			"Plot": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.",
+			"Language": "English, Swedish, German",
+			"Country": "China, Hong Kong, USA",
+			"Awards": "6 wins & 23 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.4/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "93%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "75/100"
+				}
+			],
+			"Metascore": "75",
+			"imdbRating": "7.4",
+			"imdbVotes": "266,797",
+			"imdbID": "tt2381249",
+			"Type": "movie",
+			"DVD": "15 Dec 2015",
+			"BoxOffice": "$154,979,949",
+			"Production": "Paramount Pictures",
+			"Website": "http://www.missionimpossible.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\CIjDSwpx2dzEDX07ELFC.jpg"
+		},
+		"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\CIjDSwpx2dzEDX07ELFC.jpg",
+		"note": 510
+	},
+	{
+		"path": "D:\\Films\\Hereafter\\Hereafter.2010.1080p.BrRip.x264.YIFY.mp4",
+		"omdb": {
+			"Title": "Hereafter",
+			"Year": "2010",
+			"Rated": "PG-13",
+			"Released": "22 Oct 2010",
+			"Runtime": "129 min",
+			"Genre": "Drama, Fantasy",
+			"Director": "Clint Eastwood",
+			"Writer": "Peter Morgan",
+			"Actors": "Cécile De France, Thierry Neuvic, Cyndi Mayo Davis, Lisa Griffiths",
+			"Plot": "A drama centered on three people -- a blue-collar American, a French journalist and a London school boy -- who are touched by death in different ways.",
+			"Language": "English, French",
+			"Country": "USA",
+			"Awards": "Nominated for 1 Oscar. Another 4 wins & 13 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MzU3Nzk4M15BMl5BanBnXkFtZTcwODcxNTI5Mw@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "6.5/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "46%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "56/100"
+				}
+			],
+			"Metascore": "56",
+			"imdbRating": "6.5",
+			"imdbVotes": "83,541",
+			"imdbID": "tt1212419",
+			"Type": "movie",
+			"DVD": "15 Mar 2011",
+			"BoxOffice": "$32,741,596",
+			"Production": "Warner Bros. Pictures",
+			"Website": "http://hereafter.warnerbros.com/",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\oKV6TQNEX5O2219txSJt.jpg"
+		},
+		"note": 2080
+	},
+	{
+		"path": "D:\\Films\\Changeling\\Changeling(2008)720p.x264.mkv",
+		"omdb": {
+			"Title": "Changeling",
+			"Year": "2008",
+			"Rated": "R",
+			"Released": "31 Oct 2008",
+			"Runtime": "141 min",
+			"Genre": "Biography, Crime, Drama",
+			"Director": "Clint Eastwood",
+			"Writer": "J. Michael Straczynski",
+			"Actors": "Angelina Jolie, Gattlin Griffith, Michelle Gunn, Michael Kelly",
+			"Plot": "A grief-stricken mother takes on the LAPD to her own detriment when it tries to pass off an obvious impostor as her missing child.",
+			"Language": "English",
+			"Country": "USA",
+			"Awards": "Nominated for 3 Oscars. Another 13 wins & 47 nominations.",
+			"Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@._V1_SX300.jpg",
+			"Ratings": [
+				{
+					"Source": "Internet Movie Database",
+					"Value": "7.8/10"
+				},
+				{
+					"Source": "Rotten Tomatoes",
+					"Value": "62%"
+				},
+				{
+					"Source": "Metacritic",
+					"Value": "63/100"
+				}
+			],
+			"Metascore": "63",
+			"imdbRating": "7.8",
+			"imdbVotes": "210,383",
+			"imdbID": "tt0824747",
+			"Type": "movie",
+			"DVD": "17 Feb 2009",
+			"BoxOffice": "$35,707,327",
+			"Production": "Universal Pictures",
+			"Website": "http://www.changelingmovie.net",
+			"Response": "True",
+			"localPoster": "C:\\Users\\carlo\\Documents\\Projets\\ElectronGTS\\MovieBrowser\\cache\\OMDB\\DKS2wLfiHXe4s4iSi7FX.jpg"
+		},
+		"note": 2080
 	}
 ]

@@ -41,7 +41,7 @@ function get(opt, str) {
 
 function normFileTitle(fname) {
   // normalises a film filename (like The.Sound.of.Music.1965.720p.BRrip.x264.YIFY) to search in omdb (=> the sound of music)
-  var arr = "director\\'?s?\\scut|720p|1080p|yify|x264|x265|h264|bokutox|release|rarbg|bd\\s?rip|remastered|vostfr|vost|divx|yts[\\s\\.\\_\\-]?pe|yts[\\s\\.\\_\\-]?ag|bluray|dvd|brrip|xvid|10bit|hevc|hdtv\\s?rip|web\\s?dl|dual\\s?audio|x0r|mkv|mp4|anoxmous"
+  var arr = "director\\'?s?\\scut|720p|1080p|yify|x264|x265|h264|bokutox|release|rarbg|bd\\s?rip|remastered|redux|vostfr|vost|divx|yts[\\s\\.\\_\\-]?pe|yts[\\s\\.\\_\\-]?ag|bluray|dvd|brrip|xvid|10bit|hevc|hdtv|hdtv\\s?rip|web\\s?dl|dual\\s?audio|x0r|mkv|mp4|anoxmous"
   var s = fname
   arr.split("|").forEach(el => {
     s = s.replace(new RegExp(el, "gi"), "")

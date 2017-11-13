@@ -48,9 +48,10 @@ function searchFilm(film_list, search_s) {
 
   var notes = _.map(films_notes, 'note');
   var e = ecartType(notes);
+  var mini = _.max(notes) - 3 * e;
   console.log("Ecart-type for search = ", e)
-  console.log("Limit for search = ", _.max(notes) - e)
-  var filter_film = _.filter(films_notes, f => f.note > _.max(notes) - e)
+  console.log("Limit for search = ", mini)
+  var filter_film = _.filter(films_notes, f => f.note >= mini)
   return _.sortBy(filter_film, "note").reverse()
 }
 
@@ -71,20 +72,22 @@ function mean(arr) {
 
 function compareFilm2String(film_o, s) {
   if (!film_o || !film_o.path) throw "L'objet film envoyé dans compareFilm2String du module search.js est invalide !";
+
   s = normString(s);
   var note = 0;
   // on regarde le titre
   var title = dblib.getTitle(film_o);
-  note += compareStrings(title, s) * 3;
+  note += compareStrings(title, s) * 2;
 
   // recherche par années
   if (/^(20|19)[0-9]{2}$/gi.test(s) && film_o.omdb && film_o.omdb.Year) {
-    if (film_o.omdb.Year == s) return 1000; else return 0;
+    if (film_o.omdb.Year == s) return 1000;
+    else return 0;
   } else if (/(ann[ée]es|years?)\s+[0-9]+/gi.test(s) && film_o.omdb && film_o.omdb.Year) {
     var year_base = /[0-9]+/gi.exec(s);
     if (year_base) {
       year_base = parseInt(year_base)
-      if (year_base >= 40 && year_base < 100) year_base  = 1900 + year_base;
+      if (year_base >= 40 && year_base < 100) year_base = 1900 + year_base;
       else if (year_base < 40) year_base = 2000 + year_base;
       // console.log("search by year detected", year_base, parseInt(film_o.omdb.Year), parseInt(film_o.omdb.Year) - year_base > 0 && parseInt(film_o.omdb.Year) < 10)
       if (parseInt(film_o.omdb.Year) - year_base > 0 && parseInt(film_o.omdb.Year) - year_base < 10) return 1000;
@@ -93,23 +96,29 @@ function compareFilm2String(film_o, s) {
   }
 
   // cas particuliers
+  var stop = false
   for (var k in omdb_fields) {
-    if (omdb_fields[k].indexOf(s) >= 0) {
-      if (film_o.omdb && film_o.omdb[k]) return note + compareStrings(film_o.omdb[k], s);
-      else return note
+    if (omdb_fields[k].indexOf(s) >= 0 && !stop) {
+      if (film_o.omdb && film_o.omdb[k]) {
+        var new_note = compareStrings(film_o.omdb[k], s) * 1.5;
+        note += new_note;
+        if (new_note > 100) stop = true
+      }
     }
   }
 
   if (film_o.tags) note += compareStrings(film_o.tags.join(' '), s) / 2;
   if (film_o.omdb) {
     if (film_o.omdb.Genre) note += compareStrings(film_o.omdb.Genre, s) / 2;
-    if (film_o.omdb.Director) note += compareStrings(film_o.omdb.Director, s) / 10;
+    if (film_o.omdb.Director) note += compareStrings(film_o.omdb.Director, s) / 2;
     if (film_o.omdb.Actors) note += compareStrings(film_o.omdb.Actors, s) / 4;
     if (film_o.omdb.Country) note += compareStrings(film_o.omdb.Country, s) / 2;
     if (film_o.omdb.Language) note += compareStrings(film_o.omdb.Language, s) / 2;
     if (film_o.omdb.Production) note += compareStrings(film_o.omdb.Production, s) / 2;
     if (film_o.omdb.Awards) note += compareStrings(film_o.omdb.Awards, s) / 10;
   }
+
+  if (film_o.path.indexOf("attopardo") >= 0) console.log("res gatto: ", note);
   return note
 }
 
@@ -138,6 +147,7 @@ function compareStrings(s1, ns2) { // renvoie une note de similtude entre s1 et 
 
 function normString(s) {
   var news = removeDiacritics(s).toLowerCase();
+  news = news.replace(/(\s|^)(des?|'s|of|the|est|les?|[ui]n[ae]?|for|la|ils?|[a-z]|qu[ei']|et|o[uù]|car)(\s|$)/gi, " ")
   news = news.replace(/([^A-z0-9\s]|[\\_])/gi, "")
   news = news.replace(/\s\s+/gi, " ")
   return news

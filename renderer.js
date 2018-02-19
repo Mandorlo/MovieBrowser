@@ -16,15 +16,26 @@ const files = require("./files.js");
 const ui = require('./ui.js');
 const search = require('./search.js');
 
+function showSpinner() {
+  $("#spinner").removeClass("not_loading").addClass("loading");
+}
+
+function hideSpinner() {
+  $("#spinner").removeClass("loading").addClass("not_loading");
+}
+
 function updateAndRenderDashboard() {
+  showSpinner()
   dblib.updateDB().then(res => {
     renderDashboard();
   }).catch(err => {
     console.log(err)
+    hideSpinner()
   });
 }
 
 function renderDashboard() {
+  showSpinner()
   $("#app").empty()
 
   // on affiche la barre de navigation
@@ -110,8 +121,10 @@ function renderDashboard() {
     if (res_list && res_list.length) console.log("Updating info from omdb for :", res_list)
     dblib.writeDB().then(res => console.log(res)).catch(err => console.log(err))
     reloadStats()
+    hideSpinner()
   }).catch(err => {
     console.log("Erreur dans un des getOMDBFilm:", err)
+    hideSpinner()
   })
 }
 
@@ -194,6 +207,7 @@ function createNavbar() {
         updateAndRenderDashboard()
       }).catch(err => {
         console.log("Cannot change root path films to " + myrootdir, err)
+        alert("Cannot change root path films to \"" + myrootdir + "\"")
         document.querySelector("#change_root").close()
       })
     })
@@ -219,6 +233,9 @@ function createNavbar() {
     updateAndRenderDashboard()
   })
 
+  // ======= 3.5 ====== On ajoute le spinner
+  var spinner = $('<button id="spinner" class="not_loading mdl-button mdl-js-button mdl-button--accent"><i class="fa fa-spinner fa-pulse" aria-hidden="true"></i></button>')
+
   // ========= 4 ============= On ajoute la barre de recherche
   var searchbar = $('<div class="mdh-expandable-search mdl-cell--hide-phone">' +
     '<i class="material-icons search-icon">search</i>' +
@@ -236,6 +253,7 @@ function createNavbar() {
   nav.append(zIn)
   nav.append(zOut)
   nav.append(reload)
+  nav.append(spinner)
   nav.append(searchbar)
   return nav
 }
@@ -246,13 +264,16 @@ function createReloadOMDBButton(film_o) {
 
   button.click(e => {
     e.stopPropagation();
+    showSpinner()
     dblib.updateOMDBFilm(film_o.path, dblib.getTitle(film_o)).then(res => {
       notify("Movie info updated ! Grazie Signore !")
       renderFilmCard(film_o.path)
       console.log(res)
+      hideSpinner()
     }).catch(err => {
       notify('Movie not found on OMDB :(')
       console.log(err)
+      hideSpinner()
     })
   })
   return button

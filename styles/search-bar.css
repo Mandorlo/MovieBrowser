@@ -1,3 +1,11 @@
+.not_loading {
+  display: none
+}
+
+.loading {
+  display: inline;
+}
+
 .search-icon {
   color: white;
 }

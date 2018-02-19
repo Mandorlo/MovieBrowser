@@ -26,8 +26,13 @@ function commands(film_list, search_s) {
   } else if (search_s == "@noomdb") {
     var res = _.filter(film_list, m => !m.omdb);
     return res
+  } else if (/\@last\s+[0-9]+/gi.test(search_s)) {
+    var nb = parseInt(/[0-9]+/gi.exec(search_s))
+    console.log("get last " + nb + " films")
+    return film_list.slice(-nb-1)
   } else {
-    console.log("commands : @noposter, @noomdb")
+    console.log("command not recognized, commands : @noposter, @noomdb")
+    norify("ERROR: possible cmd are @noposter, @noomdb, @last x")
     return film_list
   }
 }

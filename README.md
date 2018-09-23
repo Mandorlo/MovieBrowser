@@ -1,3 +1,5 @@
+![capture](https://xnrwhg.db.files.1drv.com/y4mrM6JegyTIFLgxcATEnL1fuLrENJgLaaQfXveBmW8zf9M0TL1Mi4WSttJ2mVxtBEy0XNzOPlwhPPrAm4J99DvswcFjaMAzKjg2I-fYf1NQO8ox1J3OkzXDT6AJ9fzs1hctNlGCTVxF871dDObjo9yEafq2Yhhn4Seh52IIOQnP7Zp3EcYIMk4uPJwPugcsRzZldkeKVTScU1QYv9P_qbGCA?width=660&height=346&cropmode=none)
+
 # TODO
 
 * simplifier la modification du dossier courant, pas la peine de passer par un <dialog> ! on l'affiche direct
